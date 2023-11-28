@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ANZA KESI YA BURE</string>
+    <string name="ph_start_premium_cta">ANZA PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ wiki</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ wiki baada ya jaribio la siku 3 BURE</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ wiki baada ya jaribio la siku 7 BURE</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ wiki baada ya jaribio la siku 30 BURE</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mwezi</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mwezi baada ya jaribio la siku 3 BURE</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mwezi baada ya jaribio la siku 7 BURE</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mwezi baada ya jaribio la siku 30 BURE</string>
+    <string name="sku_price_yearly_no_trial">{0}/ mwaka</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ mwaka baada ya jaribio la siku 3 BURE</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ mwaka baada ya jaribio la siku 7 BURE</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ mwaka baada ya jaribio la siku 30 BURE</string>
+    <string name="sku_price_default">{0} baada ya jaribio BURE</string>
+    <string name="sku_price_onetime">{0} malipo ya wakati mmoja</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ANZA MAJARIBU YA SIKU 3 ZA BURE</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ANZA MAJARIBU YA SIKU 7 ZA BURE</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ANZA MAJARIBU YA BURE KWA SIKU 30</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Je! Unapendaje\nprogramu yetu?</string>
+    <string name="rate_dialog_subtitle">Hebu tujue kwa kuacha alama 5 ya nyota</string>
+    <string name="rate_dialog_thanks">Asante!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Thibitisha Toka</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Malipo</string>
+    <string name="ph_offer_basic">Msingi</string>
+    <string name="ph_start_free_trial">Anza jaribio la bure</string>
+    <string name="ph_start_like_pro">Anza kama Pro</string>
+    <string name="ph_unlock_all_features">Fungua Vipengele vyote</string>
+    <string name="ph_try_limited">au jaribu toleo ndogo</string>
+    <string name="ph_limited_time_offer">Ofa ya muda mfupi</string>
+    <string name="ph_get_special_price">Pata bei maalum</string>
+    <string name="ph_one_time_payment">Malipo ya wakati mmoja</string>
+    <string name="ph_one_time_offer_name">Malipo ya maisha</string>
+    <string name="ph_subscription_info">Usajili utasasisha kiotomatiki. Ghairi wakati wowote.</string>
+    <string name="ph_terms_and_conditions">Kwa kuendelea unakubali Sera <![CDATA[<a href="%1$s"></a>]]> na <![CDATA[<a href="%2$s"></a>]]> sera</string>
+    <string name="support_hint">Eleza suala (angalau vibambo 20)</string>
+    <string name="cancel">Ghairi</string>
+    <string name="contact_support_title">Usaidizi wa Wateja</string>
+    <string name="contact_vip_support_title">Msaada wa Wateja wa VIP</string>
+    <string name="send">Tuma</string>
+    <string name="personalized_ads">Matangazo Yanayobinafsishwa</string>
+</resources>

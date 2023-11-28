@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">FARA gwaji kyauta</string>
+    <string name="ph_start_premium_cta">FARA PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/sati</string>
+    <string name="sku_price_weekly_3d_trial">{0}/mako bayan KYAUTA gwajin kwanaki 3</string>
+    <string name="sku_price_weekly_7d_trial">{0}/mako bayan gwajin kwanaki 7 na kyauta</string>
+    <string name="sku_price_weekly_30d_trial">{0}/mako bayan KYAUTA gwajin kwanaki 30</string>
+    <string name="sku_price_monthly_no_trial">{0}/watan</string>
+    <string name="sku_price_monthly_3d_trial">{0}/watan bayan KYAUTA na kwanaki 3</string>
+    <string name="sku_price_monthly_7d_trial">{0}/watan bayan KYAUTA na kwanaki 7</string>
+    <string name="sku_price_monthly_30d_trial">{0}/watan bayan KYAUTA na kwanaki 30</string>
+    <string name="sku_price_yearly_no_trial">{0}/shekara</string>
+    <string name="sku_price_yearly_3d_trial">{0}/shekara bayan FREE 3-day fitina</string>
+    <string name="sku_price_yearly_7d_trial">{0}/shekara bayan gwajin kwanaki 7 na kyauta</string>
+    <string name="sku_price_yearly_30d_trial">{0}/shekara bayan gwajin kwanaki 30 na kyauta</string>
+    <string name="sku_price_default">{0} bayan fitina ta kyauta</string>
+    <string name="sku_price_onetime">{0} biyan kuɗi ɗaya</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">FARA CIKIN gwaji 3-DAY</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">FARA gwaji 7-DAY</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">FARA CIKIN gwaji NA KWANA 30</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Yaya kuke son\napp ɗin mu?</string>
+    <string name="rate_dialog_subtitle">Sanar da mu ta barin ƙimar tauraro 5</string>
+    <string name="rate_dialog_thanks">Godiya!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Tabbatar Fita</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basic</string>
+    <string name="ph_start_free_trial">Fara gwajin kyauta</string>
+    <string name="ph_start_like_pro">Fara Kamar Pro</string>
+    <string name="ph_unlock_all_features">Buše Duk Fasali</string>
+    <string name="ph_try_limited">ko gwada iyakantaccen siga</string>
+    <string name="ph_limited_time_offer">Iyakantaccen lokacin tayin</string>
+    <string name="ph_get_special_price">Samu farashi na musamman</string>
+    <string name="ph_one_time_payment">Biyan lokaci daya</string>
+    <string name="ph_one_time_offer_name">Adadin rayuwa</string>
+    <string name="ph_subscription_info">Biyan kuɗi zai sabunta ta atomatik. Soke kowane lokaci.</string>
+    <string name="ph_terms_and_conditions">Ta ci gaba kun yarda da ka\'idodin <![CDATA[<a href="%1$s">Dokokin</a>]]> da <![CDATA[<a href="%2$s">Sirrin</a>]]></string>
+    <string name="support_hint">Bayyana batun (akalla haruffa 20)</string>
+    <string name="cancel">Soke</string>
+    <string name="contact_support_title">Tallafin Abokin Ciniki</string>
+    <string name="contact_vip_support_title">Taimakon Abokin Ciniki na VIP</string>
+    <string name="send">Aika</string>
+    <string name="personalized_ads">Keɓaɓɓen Talla</string>
+</resources>

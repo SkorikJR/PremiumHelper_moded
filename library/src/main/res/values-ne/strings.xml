@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">नि: शुल्क परीक्षण सुरू गर्नुहोस्</string>
+    <string name="ph_start_premium_cta">PREMIUM सुरु गर्नुहोस्</string>
+    <string name="sku_price_weekly_no_trial">{0}/ हप्ता</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ हप्ता नि: शुल्क--दिन परीक्षण पछि</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ हप्ता नि: शुल्क--दिन परीक्षण पछि</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ हप्ता नि: शुल्क day०-दिन परीक्षण पछि</string>
+    <string name="sku_price_monthly_no_trial">{0}/ महिना</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ महिना नि: शुल्क--दिन परीक्षण पछि</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ महिना नि: शुल्क--दिन परीक्षण पछि</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ महिना नि: शुल्क -०-दिन परीक्षण पछि</string>
+    <string name="sku_price_yearly_no_trial">{0}/ वर्ष</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ वर्ष नि: शुल्क--दिन परीक्षण पछि</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ वर्ष नि: शुल्क--दिन परीक्षण पछि</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ वर्ष नि: शुल्क -०-दिन परीक्षण पछि</string>
+    <string name="sku_price_default">{0} नि: शुल्क परीक्षण पछि</string>
+    <string name="sku_price_onetime">{0} एक पटक भुक्तान</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">नि: शुल्क 3-दिन परीक्षण सुरु गर्नुहोस्</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">नि: शुल्क 7-दिन परीक्षण सुरु गर्नुहोस्</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">नि: शुल्क 30-दिन परीक्षण सुरु गर्नुहोस्</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">तपाईलाई\nहाम्रो अनुप्रयोग कसरी मनपर्दछ?</string>
+    <string name="rate_dialog_subtitle">हामीलाई star स्टार रेटिंग छोडेर हामीलाई थाहा दिनुहोस्</string>
+    <string name="rate_dialog_thanks">धन्यवाद!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">बाहिर निस्कनुहोस् पुष्टि गर्नुहोस्</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">प्रीमियम</string>
+    <string name="ph_offer_basic">आधारभूत</string>
+    <string name="ph_start_free_trial">नि: शुल्क परीक्षण सुरु गर्नुहोस्</string>
+    <string name="ph_start_like_pro">एक प्रो जस्तै शुरू गर्नुहोस्</string>
+    <string name="ph_unlock_all_features">सबै सुविधाहरू अनलक गर्नुहोस्</string>
+    <string name="ph_try_limited">वा सीमित संस्करण कोसिस गर्नुहोस्</string>
+    <string name="ph_limited_time_offer">सीमित समय प्रस्ताव</string>
+    <string name="ph_get_special_price">विशेष मूल्य प्राप्त गर्नुहोस्</string>
+    <string name="ph_one_time_payment">एक पटक भुक्तानी</string>
+    <string name="ph_one_time_offer_name">लाइफटाइम प्रीमियम</string>
+    <string name="ph_subscription_info">सदस्यता स्वतः नवीकरण हुनेछ। कुनै पनि समय रद्द गर्नुहोस्।</string>
+    <string name="ph_terms_and_conditions">जारी गरेर तपाईं हाम्रो सहमत <![CDATA[<a href="%1$s">सर्तहरू</a>]]> र <![CDATA[<a href="%2$s">गोपनीयता</a>]]> नीतिहरू</string>
+    <string name="support_hint">मुद्दाको वर्णन गर्नुहोस् (कम्तिमा २० वर्णहरू)</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="contact_support_title">ग्राहक समर्थन</string>
+    <string name="contact_vip_support_title">VIP ग्राहक समर्थन</string>
+    <string name="send">पठाउनुहोस्</string>
+    <string name="personalized_ads">निजीकृत विज्ञापनहरू</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">DECHRAU TREIAL AM DDIM</string>
+    <string name="ph_start_premium_cta">DECHRAU PREMIWM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ wythnos</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ wythnos ar ôl treial 3 diwrnod AM DDIM</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ wythnos ar ôl treial 7 diwrnod AM DDIM</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ wythnos ar ôl treial 30 diwrnod AM DDIM</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mis</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mis ar ôl treial 3 diwrnod AM DDIM</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mis ar ôl treial 7 diwrnod AM DDIM</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mis ar ôl treial 30 diwrnod AM DDIM</string>
+    <string name="sku_price_yearly_no_trial">{0}/ blwyddyn</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ blwyddyn ar ôl treial 3 diwrnod AM DDIM</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ blwyddyn ar ôl treial 7 diwrnod AM DDIM</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ blwyddyn ar ôl treial 30 diwrnod AM DDIM</string>
+    <string name="sku_price_default">{0} ôl treial AM DDIM</string>
+    <string name="sku_price_onetime">{0} taliad un-amser</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">DECHRAU TREIAL 3-DYDD AM DDIM</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">DECHRAU TREIAL 7-DYDD AM DDIM</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">DECHRAU TREIAL 30-DYDD AM DDIM</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Sut ydych chi\'n hoffi\nein app?</string>
+    <string name="rate_dialog_subtitle">Gadewch inni wybod trwy adael sgôr 5 seren</string>
+    <string name="rate_dialog_thanks">Diolch!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Cadarnhau Allanfa</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premiwm</string>
+    <string name="ph_offer_basic">Syml</string>
+    <string name="ph_start_free_trial">Dechreuwch dreial am ddim</string>
+    <string name="ph_start_like_pro">Dechreuwch Fel Pro</string>
+    <string name="ph_unlock_all_features">Datgloi Pob Nodwedd</string>
+    <string name="ph_try_limited">neu rhowch gynnig ar fersiwn gyfyngedig</string>
+    <string name="ph_limited_time_offer">Cynnig amser cyfyngedig</string>
+    <string name="ph_get_special_price">Cael pris arbennig</string>
+    <string name="ph_one_time_payment">Un taliad amser</string>
+    <string name="ph_one_time_offer_name">Premiwm oes</string>
+    <string name="ph_subscription_info">Bydd tanysgrifiad yn adnewyddu\'n awtomatig. Canslo unrhyw bryd.</string>
+    <string name="ph_terms_and_conditions">Trwy barhau, rydych chi\'n cytuno i\'n polisïau <![CDATA[<a href="%1$s">Telerau</a>]]> a <![CDATA[<a href="%2$s">Preifatrwydd</a>]]></string>
+    <string name="support_hint">Disgrifiwch y mater (o leiaf 20 nod)</string>
+    <string name="cancel">Canslo</string>
+    <string name="contact_support_title">Cefnogaeth i Gwsmeriaid</string>
+    <string name="contact_vip_support_title">Cefnogaeth i Gwsmeriaid VIP</string>
+    <string name="send">Anfon</string>
+    <string name="personalized_ads">Hysbysebion Personol</string>
+</resources>

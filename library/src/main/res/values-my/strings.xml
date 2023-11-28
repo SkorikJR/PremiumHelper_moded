@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">အခမဲ့စမ်းသပ်မှုစတင်ပါ</string>
+    <string name="ph_start_premium_cta">PREMIUM စတင်</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ရက်သတ္တပတ်</string>
+    <string name="sku_price_weekly_3d_trial">အခမဲ့ 3 ရက်ရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_weekly_7d_trial">အခမဲ့ 7 ရက်ကြာရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_weekly_30d_trial">အခမဲ့ရက် ၃၀ စမ်းသပ်မှုပြီးနောက် {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ လ</string>
+    <string name="sku_price_monthly_3d_trial">အခမဲ့သုံးရက်ရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_monthly_7d_trial">အခမဲ့ 7 ရက်ကြာရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_monthly_30d_trial">အခမဲ့ရက် ၃၀ စမ်းသပ်မှုပြီးနောက် {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ နှစ်</string>
+    <string name="sku_price_yearly_3d_trial">အခမဲ့သုံးရက်ရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_yearly_7d_trial">အခမဲ့ 7 ရက်ကြာရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_yearly_30d_trial">{0}အခမဲ့ 30-နေ့ကရုံးတင်စစ်ဆေးပြီးနောက် / တစ်နှစ်လျှင်</string>
+    <string name="sku_price_default">အခမဲ့ရုံးတင်စစ်ဆေးပြီးနောက် {0}</string>
+    <string name="sku_price_onetime">{0} တစ်ကြိမ်ငွေပေးချေမှု</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">အခမဲ့ ၃ ရက်တာစမ်းသပ်မှုစတင်ပါ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">အခမဲ့ ၇ ရက်စမ်းသပ်မှုစတင်ပါ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">အခမဲ့ရက် ၃၀ စမ်းသပ်မှုစတင်ပါ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">သင်မည်သို့ကဲ့သို့အပြုပါ\nကျနော်တို့ရဲ့ app ကို?</string>
+    <string name="rate_dialog_subtitle">ကြယ်ငါးပွင့်အဆင့်သတ်မှတ်ချက်ကိုထားခြင်းအားဖြင့်ကျွန်တော်တို့ကိုအသိပေးပါ</string>
+    <string name="rate_dialog_thanks">ကျေးဇူးတင်ပါတယ်</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">ထွက်ရန်အတည်ပြုပါ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">ပရီမီယံ</string>
+    <string name="ph_offer_basic">အခြေခံ</string>
+    <string name="ph_start_free_trial">အခမဲ့စမ်းသပ်မှုစတင်ပါ</string>
+    <string name="ph_start_like_pro">Pro လိုပဲ Start</string>
+    <string name="ph_unlock_all_features">အင်္ဂါရပ်အားလုံးကိုဖွင့်</string>
+    <string name="ph_try_limited">သို့မဟုတ်ကန့်သတ်ဗားရှင်းကိုစမ်းကြည့်ပါ</string>
+    <string name="ph_limited_time_offer">အချိန်အကန့်အသတ်ရှိသည်</string>
+    <string name="ph_get_special_price">အထူးစျေးနှုန်းကိုရယူပါ</string>
+    <string name="ph_one_time_payment">တစ်ကြိမ်ငွေပေးချေမှု</string>
+    <string name="ph_one_time_offer_name">တစ်သက်တာပရီမီယံ</string>
+    <string name="ph_subscription_info">စာရင်းပေးသွင်းမှုသည်အလိုအလျောက်သက်တမ်းတိုးလိမ့်မည်။ အချိန်မရွေးပယ်ဖျက်ပါ။</string>
+    <string name="ph_terms_and_conditions">ဆက်လုပ်ခြင်းဖြင့်ကျွန်ုပ်တို့၏ <![CDATA[<a href="%1$s">စည်းမျဉ်း</a>]]> နှင့် <![CDATA[<a href="%2$s">လုံခြုံရေး</a>]]> မူဝါဒများကိုသဘောတူသည်</string>
+    <string name="support_hint">ပြဿနာကို ဖော်ပြပါ (အနည်းဆုံး စာလုံး 20 လုံး)</string>
+    <string name="cancel">မလုပ်တော့</string>
+    <string name="contact_support_title">ဖောက်သည်ပံ့ပိုးမှု</string>
+    <string name="contact_vip_support_title">VIP ဖောက်သည်ပံ့ပိုးမှု</string>
+    <string name="send">ပို့ပါ။</string>
+    <string name="personalized_ads">စိတ်ကြိုက်ကြော်ငြာများ</string>
+</resources>

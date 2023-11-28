@@ -1,0 +1,21 @@
+<resources>
+    <style name="PhPremiumOfferingTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="premium_offer_header_logo_color">?attr/colorPrimary</item>
+        <item name="premium_offer_primary_text_color">#EEEEEE</item>
+        <item name="premium_offer_secondary_text_color">#828282</item>
+        <item name="premium_offer_feature_icon_color">?attr/colorPrimary</item>
+        <item name="premium_offer_background_color">#111111</item>
+        <item name="premium_offer_close_button_color">#828282</item>
+        <item name="premium_offer_countdown_text_color">?attr/colorPrimary</item>
+        <item name="premium_offer_cta_button_color">?attr/colorPrimary</item>
+        <item name="premium_offer_cta_button_text_color">@android:color/white</item>
+        <item name="premium_offer_cta_button_shape">@drawable/ph_cta_button_shape</item>
+        <item name="premium_offer_text_alpha">0.6</item>
+    </style>
+
+    <style name="ContactSupportTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorButtonNormal">@color/ph_contact_button_bg</item>
+        <item name="android:buttonStyle">@style/SupportButtonStyle</item>
+    </style>
+
+</resources>

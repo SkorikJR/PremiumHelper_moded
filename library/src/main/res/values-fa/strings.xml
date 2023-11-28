@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">شروع دوره آزمایشی رایگان</string>
+    <string name="ph_start_premium_cta">شروع اشتراک پرمیوم</string>
+    <string name="sku_price_weekly_no_trial">{0}/هفته</string>
+    <string name="sku_price_weekly_3d_trial">{0}/هفته پس از دوره آزمایشی رایگاه 3 روزه</string>
+    <string name="sku_price_weekly_7d_trial">{0}/هفته پس از دوره آزمایشی رایگان 7 روزه</string>
+    <string name="sku_price_weekly_30d_trial">{0}/هفته پس از دوره آزمایشی رایگان 30 روزه</string>
+    <string name="sku_price_monthly_no_trial">{0}/ماه</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ماه پس از دوره آزمایشی رایگان 3 روزه</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ماه پس از دوره آزمایشی رایگان 7 روزه</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ماه پس از دوره آزمایشی رایگان 30 روزه</string>
+    <string name="sku_price_yearly_no_trial">{0}/سال</string>
+    <string name="sku_price_yearly_3d_trial">{0}/سال پس از دوره آزمایشی رایگان 3 روزه</string>
+    <string name="sku_price_yearly_7d_trial">{0}/سال پس از دوره آزمایشی رایگان 7 روزه</string>
+    <string name="sku_price_yearly_30d_trial">{0}/سال پس از دوره آزمایشی رایگان 30 روزه</string>
+    <string name="sku_price_default">{0} پس از دوره آزمایشی رایگان</string>
+    <string name="sku_price_onetime">یک‌بار پرداخت به مبلغ {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">شروع دوره آزمایشی ۳ روزه</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">شروع دوره آزمایشی ۷ روزه</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">شروع دوره آزمایشی ۳۰ روزه</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">برنامه ما را دوست دارید؟</string>
+    <string name="rate_dialog_subtitle">با امتیاز 5 ستاره‌ای، نظر خود را به ما بگویید</string>
+    <string name="rate_dialog_thanks">متشکریم!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">تأیید خروج</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">پریمیوم</string>
+    <string name="ph_offer_basic">پایه</string>
+    <string name="ph_start_free_trial">شروع دوره آزمایشی</string>
+    <string name="ph_start_like_pro">مثل یک حرفه ای شروع کنید</string>
+    <string name="ph_unlock_all_features">باز کردن قفل همه قابلیت ها</string>
+    <string name="ph_try_limited">یا امتحان نسخه محدود</string>
+    <string name="ph_limited_time_offer">پیشنهادی با وقت محدود</string>
+    <string name="ph_get_special_price">گرفتن قیمت خاص</string>
+    <string name="ph_one_time_payment">فقط یک بار پرداخت</string>
+    <string name="ph_one_time_offer_name">پریمیوم همیشگی</string>
+    <string name="ph_subscription_info">اشتراک به صورت خودکار تمدید می شود. هر زمان خواستید می توانید لغوش کنید.</string>
+    <string name="ph_terms_and_conditions">با ادامه دادن، با <![CDATA[<a href="%1$s"> مقررات </a>]]> و <![CDATA[<a href="%2$s"> قوانین حریم خصوصی </a>]]> ما موافقت می کنید</string>
+    <string name="support_hint">مشکل را توضیح دهید (حداقل 20 کاراکتر)</string>
+    <string name="cancel">لغو کنید</string>
+    <string name="contact_support_title">پشتیبانی مشتری</string>
+    <string name="contact_vip_support_title">پشتیبانی مشتری VIP</string>
+    <string name="send">ارسال</string>
+    <string name="personalized_ads">تبلیغات شخصی</string>
+</resources>

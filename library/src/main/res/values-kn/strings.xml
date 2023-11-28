@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="ph_start_premium_cta">START ಪ್ರೀಮಿಯಂ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ವಾರ</string>
+    <string name="sku_price_weekly_3d_trial">ಉಚಿತ 3 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_weekly_7d_trial">ಉಚಿತ 7 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_weekly_30d_trial">ಉಚಿತ 30 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ತಿಂಗಳು</string>
+    <string name="sku_price_monthly_3d_trial">ಉಚಿತ 3 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_monthly_7d_trial">ಉಚಿತ 7 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_monthly_30d_trial">ಉಚಿತ 30 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ವರ್ಷ</string>
+    <string name="sku_price_yearly_3d_trial">ಉಚಿತ 3 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_yearly_7d_trial">ಉಚಿತ 7 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_yearly_30d_trial">ಉಚಿತ 30 ದಿನಗಳ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_default">ಉಚಿತ ಪ್ರಯೋಗದ ನಂತರ {0}</string>
+    <string name="sku_price_onetime">{0} ಒಂದು ಬಾರಿ ಪಾವತಿ</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ಉಚಿತ 3-ದಿನದ ಟ್ರಯಲ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ಉಚಿತ 7-ದಿನದ ಟ್ರಯಲ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ಉಚಿತ 30-ದಿನದ ಟ್ರಯಲ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">ನಮ್ಮ ಅಪ್ಲಿಕೇಶನ್\nನೀವು ಹೇಗೆ ಇಷ್ಟಪಡುತ್ತೀರಿ?</string>
+    <string name="rate_dialog_subtitle">5 ಸ್ಟಾರ್ ರೇಟಿಂಗ್ ಅನ್ನು ಬಿಡುವ ಮೂಲಕ ನಮಗೆ ತಿಳಿಸಿ</string>
+    <string name="rate_dialog_thanks">ಧನ್ಯವಾದಗಳು!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">ನಿರ್ಗಮನವನ್ನು ದೃirೀಕರಿಸಿ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">ಪ್ರೀಮಿಯಂ</string>
+    <string name="ph_offer_basic">ಮೂಲ</string>
+    <string name="ph_start_free_trial">ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="ph_start_like_pro">ಪ್ರೊನಂತೆ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="ph_unlock_all_features">ಎಲ್ಲಾ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="ph_try_limited">ಅಥವಾ ಸೀಮಿತ ಆವೃತ್ತಿಯನ್ನು ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="ph_limited_time_offer">ನಿಗದಿತ ಸಮಯದ ಕೊಡುಗೆ</string>
+    <string name="ph_get_special_price">ವಿಶೇಷ ಬೆಲೆ ಪಡೆಯಿರಿ</string>
+    <string name="ph_one_time_payment">ಒಂದು ಬಾರಿ ಪಾವತಿ</string>
+    <string name="ph_one_time_offer_name">ಜೀವಮಾನದ ಪ್ರೀಮಿಯಂ</string>
+    <string name="ph_subscription_info">ಚಂದಾದಾರಿಕೆಯು ಸ್ವಯಂ-ನವೀಕರಣಗೊಳ್ಳುತ್ತದೆ. ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ರದ್ದುಗೊಳಿಸಿ.</string>
+    <string name="ph_terms_and_conditions">ಮುಂದುವರಿಸುವ ಮೂಲಕ ನೀವು ನಮ್ಮ <![CDATA[<a href="%1$s">ನಿಯಮಗಳು</a>]]> ಮತ್ತು <![CDATA[<a href="%2$s">ಗೌಪ್ಯತೆ</a>]]> ನೀತಿಗಳನ್ನು ಒಪ್ಪುತ್ತೀರಿ</string>
+    <string name="support_hint">ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ (ಕನಿಷ್ಠ 20 ಅಕ್ಷರಗಳು)</string>
+    <string name="cancel">ರದ್ದುಮಾಡು</string>
+    <string name="contact_support_title">ಗ್ರಾಹಕ ಬೆಂಬಲ</string>
+    <string name="contact_vip_support_title">ವಿಐಪಿ ಗ್ರಾಹಕ ಬೆಂಬಲ</string>
+    <string name="send">ಕಳುಹಿಸು</string>
+    <string name="personalized_ads">ವೈಯಕ್ತೀಕರಿಸಿದ ಜಾಹೀರಾತುಗಳು</string>
+</resources>

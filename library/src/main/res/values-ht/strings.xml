@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">K STARTMANSE esè GRATIS</string>
+    <string name="ph_start_premium_cta">K STARTMANSE PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ semèn</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ semèn apre jijman GRATIS 3-jou</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ semèn apre jijman GRATIS 7-jou</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ semèn apre jijman GRATIS 30 jou</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mwa</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mwa apre jijman GRATIS 3-jou</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mwa apre jijman GRATIS 7-jou</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mwa apre jijman GRATIS 30 jou</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ane</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ ane apre jijman GRATIS 3-jou</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ ane apre jijman GRATIS 7-jou</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ ane apre jijman GRATIS 30 jou</string>
+    <string name="sku_price_default">{0} apre jijman GRATIS</string>
+    <string name="sku_price_onetime">{0} yon sèl-fwa peman</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">K STARTMANSE esè gratis 3-jou</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">K STARTMANSE esè gratis 7-jou</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">K STARTMANSE esè gratis 30-jou</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Ki jan ou renmen\napp nou an?</string>
+    <string name="rate_dialog_subtitle">Fè nou konnen pa kite yon Rating 5 etwal</string>
+    <string name="rate_dialog_thanks">Mèsi!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Konfime sòti</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Debaz</string>
+    <string name="ph_start_free_trial">Kòmanse jijman gratis</string>
+    <string name="ph_start_like_pro">Kòmanse tankou yon Pro</string>
+    <string name="ph_unlock_all_features">Degaje tout karakteristik</string>
+    <string name="ph_try_limited">oswa eseye vèsyon limite</string>
+    <string name="ph_limited_time_offer">Tan limite òf</string>
+    <string name="ph_get_special_price">Jwenn pri espesyal</string>
+    <string name="ph_one_time_payment">Yon sèl fwa peman</string>
+    <string name="ph_one_time_offer_name">Prim pou tout lavi</string>
+    <string name="ph_subscription_info">Abònman pral oto-renouvle. Anile nenpòt lè.</string>
+    <string name="ph_terms_and_conditions">Lè ou kontinye ou dakò ak nou <![CDATA[<a href="%1$s">Tèm</a>]]> ak <![CDATA[<a href="%2$s">Privacy</a>]]> règleman yo</string>
+    <string name="support_hint">Dekri pwoblèm nan (omwen 20 karaktè)</string>
+    <string name="cancel">Anile</string>
+    <string name="contact_support_title">Sipò kliyan</string>
+    <string name="contact_vip_support_title">Sipò Kliyan VIP</string>
+    <string name="send">Voye</string>
+    <string name="personalized_ads">Anons pèsonalize</string>
+</resources>

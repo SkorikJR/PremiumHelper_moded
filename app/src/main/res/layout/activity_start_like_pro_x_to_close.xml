@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="?attr/premium_offer_background_color"
+    android:paddingBottom="14dp">
+
+    <include
+        android:id="@+id/header_layout"
+        layout="@layout/ph_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@id/start_like_pro_close_button"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_margin="12dp"
+        android:alpha="?attr/premium_offer_text_alpha"
+        android:background="?selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="6dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ph_ic_close"
+        app:tint="?attr/premium_offer_close_button_color"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/start_like_pro_premium_subscription_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="?attr/premium_offer_text_alpha"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="2sp"
+        android:paddingHorizontal="8dp"
+        android:text="@string/ph_subscription_info"
+        android:textColor="?attr/premium_offer_secondary_text_color"
+        android:textSize="12sp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@id/start_like_pro_terms_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:alpha="?attr/premium_offer_text_alpha"
+        android:gravity="center_horizontal|top"
+        android:lineSpacingExtra="2sp"
+        android:paddingHorizontal="8dp"
+        android:textColor="?attr/premium_offer_secondary_text_color"
+        android:textColorHighlight="#00FFFFFF"
+        android:textColorLink="?attr/premium_offer_secondary_text_color"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@id/start_like_pro_premium_subscription_info"
+        tools:text="By continuing you agree to our Terms and Privacy policies" />
+
+    <TextView
+        android:id="@id/start_like_pro_try_limited_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:lineSpacingExtra="8sp"
+        android:padding="20dp"
+        android:visibility="gone"
+        android:text="@string/ph_try_limited"
+        android:textAllCaps="true"
+        android:textColor="?attr/premium_offer_primary_text_color"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@id/start_like_pro_terms_text" />
+
+    <TextView
+        android:id="@id/start_like_pro_premium_purchase_button"
+        style="@style/PhCtaButton"
+        android:layout_width="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="?attr/premium_offer_cta_button_color"
+        android:includeFontPadding="false"
+        android:lineSpacingExtra="0sp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:text="@string/ph_start_free_trial"
+        android:textAllCaps="true"
+        android:textColor="?attr/premium_offer_cta_button_text_color"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@id/start_like_pro_try_limited_button" />
+
+    <TextView
+        android:id="@id/start_like_pro_price_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="4sp"
+        android:paddingHorizontal="8dp"
+        android:textColor="?attr/premium_offer_secondary_text_color"
+        android:textSize="12sp"
+        android:translationY="-1.8sp"
+        app:layout_constraintBottom_toTopOf="@id/start_like_pro_premium_purchase_button"
+        tools:text="RUB 1,799/year after FREE 7-day trial" />
+
+    <ProgressBar
+        android:id="@id/start_like_pro_progress"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:indeterminateTint="?attr/premium_offer_secondary_text_color"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="@id/start_like_pro_price_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/start_like_pro_price_text" />
+
+    <include
+        layout="@layout/ph_features_table"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_above="@id/start_like_pro_price_text"
+        android:layout_below="@id/header_layout"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toTopOf="@id/start_like_pro_price_text"
+        app:layout_constraintTop_toBottomOf="@id/header_layout"
+        app:layout_constraintVertical_bias="0.25" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

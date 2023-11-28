@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">QALA TEKO EA MAHALA</string>
+    <string name="ph_start_premium_cta">QALA PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ beke</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ beke kamora teko ea matsatsi a 3 MAHALA</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ beke kamora teko ea matsatsi a 7 MAHALA</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ beke kamora teko ea MAHALA ea matsatsi a 30</string>
+    <string name="sku_price_monthly_no_trial">{0}/ khoeli</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ khoeli ka mor\'a teko ea matsatsi a 3 MAHALA</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ khoeli ka mor\'a teko ea matsatsi a 7 MAHALA</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ khoeli ka mor\'a teko ea matsatsi a 30 MAHALA</string>
+    <string name="sku_price_yearly_no_trial">{0}/ selemo</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ selemo kamora teko ea matsatsi a 3 MAHALA</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ selemo kamora teko ea matsatsi a 7 MAHALA</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ selemo kamora teko ea MAHALA ea matsatsi a 30</string>
+    <string name="sku_price_default">{0} kamora teko ea MAHALA</string>
+    <string name="sku_price_onetime">{0} tefo ea nako e le \'ngoe</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">QALA TEKO EA MATSATSI A MAHALA 3</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">QALA TEKO EA MATSATSI A MAHALA</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">QALA TEKO EA MATSATSI A MAHALA A 30</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">U rata\nsesebelisoa sa rona joang?</string>
+    <string name="rate_dialog_subtitle">Re tsebise ka ho tlohela lintlha tsa linaleli tse 5</string>
+    <string name="rate_dialog_thanks">Kea leboha!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Netefatsa Tsoa</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Tonakholo</string>
+    <string name="ph_offer_basic">Tsa motheo</string>
+    <string name="ph_start_free_trial">Qala teko ea mahala</string>
+    <string name="ph_start_like_pro">Qala Joaloka Pro</string>
+    <string name="ph_unlock_all_features">Notlolla Likarolo Tsohle</string>
+    <string name="ph_try_limited">kapa leka mofuta o fokolang</string>
+    <string name="ph_limited_time_offer">Nako e lekantsoeng e fanoang</string>
+    <string name="ph_get_special_price">Fumana theko e khethehileng</string>
+    <string name="ph_one_time_payment">Tefo ea nako e le \'ngoe</string>
+    <string name="ph_one_time_offer_name">Litefiso tsa bophelo bohle</string>
+    <string name="ph_subscription_info">Peeletso e tla nchafatsoa ka bo eona. Hlakola nako efe kapa efe.</string>
+    <string name="ph_terms_and_conditions">Ka ho tsoelapele u lumela ho melaoana ea rona ea <![CDATA[<a href="%1$s"></a>]]> le <![CDATA[<a href="%2$s">Lekunutu</a>]]></string>
+    <string name="support_hint">Hlalosa bothata (bonyane litlhaku tse 20)</string>
+    <string name="cancel">Hlakola</string>
+    <string name="contact_support_title">Tšehetso ea Bareki</string>
+    <string name="contact_vip_support_title">Tšehetso ea bareki ba VIP</string>
+    <string name="send">Romela</string>
+    <string name="personalized_ads">Lipapatso tse ikhethileng</string>
+</resources>

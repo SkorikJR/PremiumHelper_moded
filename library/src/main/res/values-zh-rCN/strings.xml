@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">开始免费试用</string>
+    <string name="ph_start_premium_cta">开启高级版</string>
+    <string name="sku_price_weekly_no_trial">{0}/周</string>
+    <string name="sku_price_weekly_3d_trial">免费试用3天后{0}/周</string>
+    <string name="sku_price_weekly_7d_trial">免费试用7天后{0}/周</string>
+    <string name="sku_price_weekly_30d_trial">免费试用30天后{0}/周</string>
+    <string name="sku_price_monthly_no_trial">{0}/月</string>
+    <string name="sku_price_monthly_3d_trial">3天免费试用后{0}/月</string>
+    <string name="sku_price_monthly_7d_trial">7天免费试用后{0}/月</string>
+    <string name="sku_price_monthly_30d_trial">30天免费试用后{0}/月</string>
+    <string name="sku_price_yearly_no_trial">{0}/年</string>
+    <string name="sku_price_yearly_3d_trial">3天免费试用后{0}/年</string>
+    <string name="sku_price_yearly_7d_trial">7天免费试用后{0}/年</string>
+    <string name="sku_price_yearly_30d_trial">30天免费试用后{0}/年</string>
+    <string name="sku_price_default">免费试用后{0}</string>
+    <string name="sku_price_onetime">{0}一次性付款</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">开始3天免费试用</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">开始7天免费试用</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">开始30天免费试用</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">你喜欢我们的\n应用吗？</string>
+    <string name="rate_dialog_subtitle">评个五星，让我们知道</string>
+    <string name="rate_dialog_thanks">谢谢！</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">确认退出</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">高级版</string>
+    <string name="ph_offer_basic">基础版</string>
+    <string name="ph_start_free_trial">开始免费试用</string>
+    <string name="ph_start_like_pro">像专业人员一样开始</string>
+    <string name="ph_unlock_all_features">解锁所有功能</string>
+    <string name="ph_try_limited">或试用限制版</string>
+    <string name="ph_limited_time_offer">限时优惠</string>
+    <string name="ph_get_special_price">获得特价</string>
+    <string name="ph_one_time_payment">一次性付款</string>
+    <string name="ph_one_time_offer_name">终身高级版</string>
+    <string name="ph_subscription_info">订阅将自动续期。可随时取消。</string>
+    <string name="ph_terms_and_conditions">继续操作，即为您同意我们的<![CDATA[<a href="%1$s">条款</a>]]>和<![CDATA[<a href="%2$s">隐私</a>]]>政策</string>
+    <string name="support_hint">描述问题（至少 20 个字符）</string>
+    <string name="cancel">取消</string>
+    <string name="contact_support_title">客户支持</string>
+    <string name="contact_vip_support_title">贵宾客户支持</string>
+    <string name="send">发送</string>
+    <string name="personalized_ads">个性化广告</string>
+</resources>

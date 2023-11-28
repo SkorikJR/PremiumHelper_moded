@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">INCEPE O PROBĂ GRATUITĂ</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ săptămână</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ săptămână după încercarea GRATUITĂ de 3 zile</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ săptămână după încercarea GRATUITĂ de 7 zile</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ săptămână după încercarea GRATUITĂ de 30 de zile</string>
+    <string name="sku_price_monthly_no_trial">{0}/ lună</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ lună după încercarea GRATUITĂ de 3 zile</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ lună după încercarea GRATUITĂ de 7 zile</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ lună după încercarea GRATUITĂ de 30 de zile</string>
+    <string name="sku_price_yearly_no_trial">{0}/ an</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ an după încercarea GRATUITĂ de 3 zile</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ an după încercarea GRATUITĂ de 7 zile</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ an după încercarea GRATUITĂ de 30 de zile</string>
+    <string name="sku_price_default">{0} după încercare GRATUITĂ</string>
+    <string name="sku_price_onetime">{0} plată unică</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Porniți încercarea gratuită de 3 zile</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Porniți o încercare gratuită de 7 zile</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Porniți încercarea gratuită de 30 de zile</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Cum îți place\naplicația noastră?</string>
+    <string name="rate_dialog_subtitle">Anunțați-ne lăsând un rating de 5 stele</string>
+    <string name="rate_dialog_thanks">Mulțumiri!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Confirmați ieșirea</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">De bază</string>
+    <string name="ph_start_free_trial">Incepe o probă gratuită</string>
+    <string name="ph_start_like_pro">Începeți ca un profesionist</string>
+    <string name="ph_unlock_all_features">Deblocați toate caracteristicile</string>
+    <string name="ph_try_limited">sau încercați o versiune limitată</string>
+    <string name="ph_limited_time_offer">Ofertă limitată</string>
+    <string name="ph_get_special_price">Obțineți preț special</string>
+    <string name="ph_one_time_payment">O singură plată</string>
+    <string name="ph_one_time_offer_name">Premium pe viață</string>
+    <string name="ph_subscription_info">Abonamentul se va reînnoi automat. Anulați oricând.</string>
+    <string name="ph_terms_and_conditions">Continuând sunteți de acord cu politicile <![CDATA[<a href="%1$s">Termeni</a>]]> și <![CDATA[<a href="%2$s">Confidențialitate</a>]]></string>
+    <string name="support_hint">Descrieți problema (cel puțin 20 de caractere)</string>
+    <string name="cancel">Anulare</string>
+    <string name="contact_support_title">Relații Clienți</string>
+    <string name="contact_vip_support_title">Asistență clienți VIP</string>
+    <string name="send">Trimite</string>
+    <string name="personalized_ads">Reclame Personalizate</string>
+</resources>

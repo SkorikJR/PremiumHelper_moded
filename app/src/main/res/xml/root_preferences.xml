@@ -1,0 +1,75 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <com.appboosty.premiumhelper.ui.preferences.PremiumPreference
+            app:key="premium_feature"
+            app:title="Premium Feature"
+            app:lock_icon="@drawable/ic_settings"
+            app:lock_icon_size="16dp"
+            app:summary="This is a premium feature" />
+
+        <com.appboosty.premiumhelper.ui.preferences.PremiumEditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.appboosty.premiumhelper.ui.preferences.PremiumListPreference
+            app:defaultValue="reply"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:freeEntries = "0,1"
+            app:key="reply"
+            app:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <com.appboosty.premiumhelper.ui.preferences.PremiumSwitchPreference
+            app:key="sync"
+            app:lock_icon_position="end"
+            app:title="@string/sync_title" />
+
+        <com.appboosty.premiumhelper.ui.preferences.PremiumSwitchPreference
+            app:dependency="sync"
+            app:key="attachment"
+            app:lock_icon_position="end"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on"
+            app:title="@string/attachment_title" />
+
+        <com.appboosty.premiumhelper.ui.preferences.PremiumCheckBoxPreference
+            app:key="attachment_check"
+            app:lock_icon_position="end"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on"
+            app:title="@string/download_title" />
+
+        <com.appboosty.premiumhelper.ui.preferences.common.PremiumSupportPreference
+            app:title="Contact support"
+            app:summary="Send email to our support"
+            app:summary_premium="Send email to our VIP support"
+            app:vip_support_email="vip.ph@appboosty.com"
+            app:support_email="ph@appboosty.com"/>
+
+        <com.appboosty.premiumhelper.ui.preferences.common.RemoveAdsPreference
+            app:icon="@drawable/ic_ph_remove_ads"
+            app:title="Remove Ads"/>
+
+        <com.appboosty.premiumhelper.ui.preferences.common.PrivacyPolicyPreference
+            app:icon="@drawable/ic_ph_privacy_1"
+            app:title="Privacy Policy"/>
+
+        <com.appboosty.premiumhelper.ui.preferences.common.TermsConditionsPreference
+            app:icon="@drawable/ic_ph_terms_1"
+            app:title="Terms And Conditions"/>
+
+        <com.appboosty.premiumhelper.ui.preferences.common.PersonalizedAdsPreference
+            app:icon="@drawable/ic_ph_consent_01"
+            app:title="@string/personalized_ads"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

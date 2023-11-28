@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">KOMENCU SENPAGAN PROVON</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ semajno</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ semajno post SENPAGA 3-taga provo</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ semajno post SENPAGA 7-taga provo</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ semajno post SENPAGA 30-taga provo</string>
+    <string name="sku_price_monthly_no_trial">{0}/ monato</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ monato post SENPAGA 3-taga provo</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ monato post SENPAGA 7-taga provo</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ monato post SENPAGA 30-taga provo</string>
+    <string name="sku_price_yearly_no_trial">{0}/ jaro</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ jaro post SENPAGA 3-taga provo</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ jaro post SENPAGA 7-taga provo</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ jaro post SENPAGA 30-taga provo</string>
+    <string name="sku_price_default">{0} post SENPAGA provo</string>
+    <string name="sku_price_onetime">{0} unufoja pago</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">KOMENCU SENPAGAN 3-TAGAN PROVON</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">KOMENCU SENPAGAN 7-TAGAN PROVON</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">KOMENCU SENPAGAN 30-TAGAN PROVON</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kiel vi ŝatas\nnian programon?</string>
+    <string name="rate_dialog_subtitle">Informu nin lasante 5-stelan rangon</string>
+    <string name="rate_dialog_thanks">Dankon!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Konfirmu Eliron</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Superpago</string>
+    <string name="ph_offer_basic">Baza</string>
+    <string name="ph_start_free_trial">Komencu senpagan provon</string>
+    <string name="ph_start_like_pro">Komencu Kiel Profesiulo</string>
+    <string name="ph_unlock_all_features">Malŝlosi ĉiujn funkciojn</string>
+    <string name="ph_try_limited">aŭ provu limigitan version</string>
+    <string name="ph_limited_time_offer">Limigita tempoferto</string>
+    <string name="ph_get_special_price">Akiru specialan prezon</string>
+    <string name="ph_one_time_payment">Unufoja pago</string>
+    <string name="ph_one_time_offer_name">Dumviva premio</string>
+    <string name="ph_subscription_info">Abono aŭtomate renoviĝos. Nuligi iam ajn.</string>
+    <string name="ph_terms_and_conditions">Daŭrigante, vi konsentas pri niaj <![CDATA[<a href="%1$s">Kondiĉoj</a>]]> kaj <![CDATA[<a href="%2$s">Privateco</a>]]> politikoj</string>
+    <string name="support_hint">Priskribu la problemon (almenaŭ 20 signoj)</string>
+    <string name="cancel">Nuligi</string>
+    <string name="contact_support_title">Klienta Subteno</string>
+    <string name="contact_vip_support_title">VIP Klienta Subteno</string>
+    <string name="send">Sendu</string>
+    <string name="personalized_ads">Personigitaj Reklamoj</string>
+</resources>

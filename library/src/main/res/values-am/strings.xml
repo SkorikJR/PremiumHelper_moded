@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ነፃ ሙከራ ይጀምሩ</string>
+    <string name="ph_start_premium_cta">ፕሪሚየም ይጀምሩ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ሳምንት</string>
+    <string name="sku_price_weekly_3d_trial">ነፃ የ 3 ቀን ሙከራ ከተደረገ በኋላ በሳምንት {0}</string>
+    <string name="sku_price_weekly_7d_trial">ነፃ የ 7 ቀን ሙከራ ከተደረገ በኋላ በሳምንት {0}</string>
+    <string name="sku_price_weekly_30d_trial">ከ 30 ቀን ነፃ የሙከራ ጊዜ በኋላ በሳምንት {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ወር</string>
+    <string name="sku_price_monthly_3d_trial">በነጻ ለ 3-ቀን ሙከራ ከተደረገ በኋላ {0}</string>
+    <string name="sku_price_monthly_7d_trial">በነጻ ለ 7 ቀናት ሙከራ ከተደረገ በኋላ {0}</string>
+    <string name="sku_price_monthly_30d_trial">ነፃ የ 30 ቀን ሙከራ ከተደረገ በኋላ በወር {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ዓመት</string>
+    <string name="sku_price_yearly_3d_trial">ከ 3 ቀን ነፃ የሙከራ ጊዜ በኋላ {0}</string>
+    <string name="sku_price_yearly_7d_trial">በነጻ ለ 7 ቀናት ሙከራ ከተደረገ በኋላ {0}</string>
+    <string name="sku_price_yearly_30d_trial">ከ 30 ቀን ነፃ የሙከራ ጊዜ በኋላ በዓመት {0}</string>
+    <string name="sku_price_default">{0} ከነፃ ሙከራ በኋላ</string>
+    <string name="sku_price_onetime">{0} የአንድ ጊዜ ክፍያ</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ነፃ የ 3-ቀን ሙከራን ይጀምሩ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ነፃ የ 7-ቀን ሙከራን ይጀምሩ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ነፃ የ 30 ቀን ሙከራን ይጀምሩ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">\nመተግበሪያችንን እንዴት ይወዳሉ?</string>
+    <string name="rate_dialog_subtitle">የ 5 ኮከብ ደረጃን በመተው ያሳውቁን</string>
+    <string name="rate_dialog_thanks">አመሰግናለሁ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">መውጣቱን ያረጋግጡ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">ፕሪሚየም</string>
+    <string name="ph_offer_basic">መሠረታዊ</string>
+    <string name="ph_start_free_trial">ነፃ ሙከራ ይጀምሩ</string>
+    <string name="ph_start_like_pro">እንደ ፕሮፌሰር ይጀምሩ</string>
+    <string name="ph_unlock_all_features">ሁሉንም ባህሪዎች ይክፈቱ</string>
+    <string name="ph_try_limited">ወይም የተወሰነ ስሪት ይሞክሩ</string>
+    <string name="ph_limited_time_offer">የተገደበ የጊዜ አቅርቦት</string>
+    <string name="ph_get_special_price">ልዩ ዋጋ ያግኙ</string>
+    <string name="ph_one_time_payment">የአንድ ጊዜ ክፍያ</string>
+    <string name="ph_one_time_offer_name">የዕድሜ ልክ ክፍያ</string>
+    <string name="ph_subscription_info">የደንበኝነት ምዝገባ በራስ-ሰር ይታደሳል። በማንኛውም ጊዜ ሰርዝ።</string>
+    <string name="ph_terms_and_conditions">በመቀጠልዎ በእኛ <![CDATA[<a href="%1$s">ውሎች</a>]]> እና <![CDATA[<a href="%2$s">የግላዊነት</a>]]> ፖሊሲዎች ይስማማሉ</string>
+    <string name="support_hint">ችግሩን ይግለጹ (ቢያንስ 20 ቁምፊዎች)</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="contact_support_title">የደንበኛ ድጋፍ</string>
+    <string name="contact_vip_support_title">ቪአይፒ የደንበኛ ድጋፍ</string>
+    <string name="send">ላክ</string>
+    <string name="personalized_ads">ለግል የተበጁ ማስታወቂያዎች</string>
+</resources>

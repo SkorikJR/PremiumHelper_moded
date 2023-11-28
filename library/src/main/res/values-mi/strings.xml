@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Timata TRIAL FREE</string>
+    <string name="ph_start_premium_cta">Timata Tuhinga o mua</string>
+    <string name="sku_price_weekly_no_trial">{0}/ wiki</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ wiki i muri o te FREE 3-ra tamataraa</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ wiki i muri o te whakamatautauranga 7-ra KOREUTU</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ wiki i muri o te FREE 30-ra tamataraa</string>
+    <string name="sku_price_monthly_no_trial">{0}/ marama</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ marama i muri i te FREE 3-ra tamataraa</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ marama i muri i te whakamatautauranga 7-ra KOREUTU</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ marama i muri i te FREE 30-ra tamataraa</string>
+    <string name="sku_price_yearly_no_trial">{0}/ tau</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ tau i muri i te FREE 3-ra tamataraa</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ tau i muri i te whakamatautauranga 7-ra KOREUTU</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ tau i muri i te whakamatautauranga 30-ra KOREUTU</string>
+    <string name="sku_price_default">{0} i muri i te whakamatautau FREE</string>
+    <string name="sku_price_onetime">{0} te utu kotahi-wa</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Tīmataria TE WHAKAMĀRAMA 3-RĀ TE TONO</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Tīmataria TE WHAKAMAHI KAUPAPA 7-RA</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Tīmataria TE WHAKAMĀRAMA 30-RĀ TE TONO</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Me pehea te pai ki a koe\nta maatau taupānga?</string>
+    <string name="rate_dialog_subtitle">Whakamohio mai ma te waiho i te whakatauranga whetu e 5</string>
+    <string name="rate_dialog_thanks">Mauruuru!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Whakaū Puta</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Taketake</string>
+    <string name="ph_start_free_trial">Me tiimata te whakamatautau koreutu</string>
+    <string name="ph_start_like_pro">Tīmata Pēnei i te Pro</string>
+    <string name="ph_unlock_all_features">Wewete i nga Ahua Katoa</string>
+    <string name="ph_try_limited">whakamatautau ranei i te putanga iti</string>
+    <string name="ph_limited_time_offer">Te wa tuku iti</string>
+    <string name="ph_get_special_price">Haere utu motuhake</string>
+    <string name="ph_one_time_payment">Kotahi te utu</string>
+    <string name="ph_one_time_offer_name">Tuhinga o mua</string>
+    <string name="ph_subscription_info">Ohauru ka whakahou-aunoa. Whakakore i nga wa katoa.</string>
+    <string name="ph_terms_and_conditions">Na roto i te haere tonu whakaae koe ki to matou <![CDATA[<a href="%1$s">Ngā</a>]]> , me te <![CDATA[<a href="%2$s">Tūmataitinga</a>]]> kaupapa here</string>
+    <string name="support_hint">Whakaahuahia te take (kia 20 nga tohu)</string>
+    <string name="cancel">Whakakore</string>
+    <string name="contact_support_title">Tautoko Kiritaki</string>
+    <string name="contact_vip_support_title">Tautoko Kaihoko VIP</string>
+    <string name="send">Tukua</string>
+    <string name="personalized_ads">Pānui Whaiaro</string>
+</resources>

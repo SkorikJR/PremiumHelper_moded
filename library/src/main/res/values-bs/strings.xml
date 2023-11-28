@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ZAPOČNITE BESPLATNU PROBU</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ nedeljno</string>
+    <string name="sku_price_weekly_3d_trial">{0}sedmica nakon BESPLATNOG trodnevnog probnog perioda</string>
+    <string name="sku_price_weekly_7d_trial">{0}sedmica nakon BESPLATNOG 7-dnevnog probnog perioda</string>
+    <string name="sku_price_weekly_30d_trial">{0}sedmica nakon BESPLATNOG 30-dnevnog probnog perioda</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mjesec</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mjesec nakon BESPLATNOG trodnevnog probnog perioda</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mjesec nakon BESPLATNOG 7-dnevnog probnog perioda</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mjesec nakon BESPLATNOG 30-dnevnog probnog perioda</string>
+    <string name="sku_price_yearly_no_trial">{0}/ god</string>
+    <string name="sku_price_yearly_3d_trial">{0}godina nakon BESPLATNOG trodnevnog probnog rada</string>
+    <string name="sku_price_yearly_7d_trial">{0}godina nakon BESPLATNOG 7-dnevnog probnog perioda</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ godina nakon BESPLATNOG 30-dnevnog probnog perioda</string>
+    <string name="sku_price_default">{0} nakon BESPLATNOG probnog perioda</string>
+    <string name="sku_price_onetime">{0} jednokratno plaćanje</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">POČNITE BESPLATNO Trodnevno suđenje</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">POČNITE BESPLATNO 7-DNEVNO SUĐENJE</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">POČNITE BESPLATNO 30-DNEVNO SUĐENJE</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kako vam se sviđa\nnaša aplikacija?</string>
+    <string name="rate_dialog_subtitle">Javite nam ostavljajući ocjenu od 5 zvjezdica</string>
+    <string name="rate_dialog_thanks">Hvala!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Potvrdite izlaz</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Osnovno</string>
+    <string name="ph_start_free_trial">Započni besplatno probno razdoblje</string>
+    <string name="ph_start_like_pro">Počnite kao profesionalac</string>
+    <string name="ph_unlock_all_features">Otključajte sve funkcije</string>
+    <string name="ph_try_limited">ili isprobajte ograničenu verziju</string>
+    <string name="ph_limited_time_offer">Ograničena ponuda</string>
+    <string name="ph_get_special_price">Dobijte posebnu cijenu</string>
+    <string name="ph_one_time_payment">Jednokratna uplata</string>
+    <string name="ph_one_time_offer_name">Doživotna premija</string>
+    <string name="ph_subscription_info">Pretplata će se automatski obnoviti. Otkažite bilo kada.</string>
+    <string name="ph_terms_and_conditions">Ako nastavite, slažete se s našim <![CDATA[<a href="%1$s">Uslovima</a>]]> i <![CDATA[<a href="%2$s">Politika privatnosti</a>]]></string>
+    <string name="support_hint">Opišite problem (najmanje 20 znakova)</string>
+    <string name="cancel">Otkaži</string>
+    <string name="contact_support_title">Korisnička podrška</string>
+    <string name="contact_vip_support_title">VIP korisnička podrška</string>
+    <string name="send">Pošalji</string>
+    <string name="personalized_ads">Personalizirani oglasi</string>
+</resources>

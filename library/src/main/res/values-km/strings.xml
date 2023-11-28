@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ចាប់ផ្តើមសាកល្បងដោយឥតគិតថ្លៃ</string>
+    <string name="ph_start_premium_cta">PREMIUM ចាប់ផ្តើម</string>
+    <string name="sku_price_weekly_no_trial">{0}/ សប្តាហ៍</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ សប្តាហ៍បន្ទាប់ពីការសាកល្បង ៣ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ សប្តាហ៍បន្ទាប់ពីការសាកល្បង ៧ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ សប្តាហ៍បន្ទាប់ពីការជំនុំជម្រះរយៈពេល ៣០ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ខែ</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ ខែបន្ទាប់ពីការសាកល្បងឥតគិតថ្លៃរយៈពេល ៣ ថ្ងៃ</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ ខែបន្ទាប់ពីការសាកល្បង ៧ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ ខែបន្ទាប់ពីការជំនុំជម្រះរយៈពេល ៣០ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ឆ្នាំ</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ ឆ្នាំបន្ទាប់ពីការសាកល្បងឥតគិតថ្លៃរយៈពេល ៣ ថ្ងៃ</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ ឆ្នាំបន្ទាប់ពីការសាកល្បង ៧ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ ឆ្នាំបន្ទាប់ពីការសាកល្បង ៣០ ថ្ងៃឥតគិតថ្លៃ</string>
+    <string name="sku_price_default">{0} បន្ទាប់ពីការសាកល្បងឥតគិតថ្លៃ</string>
+    <string name="sku_price_onetime">{0} បង់ប្រាក់មួយម៉ោង</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ចាប់ផ្តើមសាកល្បងរយៈពេល ៣ ថ្ងៃដោយឥតគិតថ្លៃ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ចាប់ផ្តើមសាកល្បង ៧ ថ្ងៃដោយឥតគិតថ្លៃ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ចាប់ផ្តើមសាកល្បង ៣០ ថ្ងៃដោយឥតគិតថ្លៃ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">តើអ្នកដូចជារបៀប\nកម្មវិធីរបស់យើង?</string>
+    <string name="rate_dialog_subtitle">អនុញ្ញាតឱ្យយើងដឹងដោយទុកចំណាត់ថ្នាក់ផ្កាយ 5</string>
+    <string name="rate_dialog_thanks">សូមអរគុណ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">បញ្ជាក់ការចាកចេញ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">បុព្វលាភ</string>
+    <string name="ph_offer_basic">មូលដ្ឋាន</string>
+    <string name="ph_start_free_trial">ចាប់ផ្តើមការសាកល្បងឥតគិតថ្លៃ</string>
+    <string name="ph_start_like_pro">ចាប់ផ្តើមដូចការគាំទ្រ</string>
+    <string name="ph_unlock_all_features">ដោះសោលក្ខណៈពិសេសទាំងអស់</string>
+    <string name="ph_try_limited">ឬសាកល្បងកំណែមានកំណត់</string>
+    <string name="ph_limited_time_offer">ការផ្តល់ជូនមានកំណត់</string>
+    <string name="ph_get_special_price">ទទួលបានតម្លៃពិសេស</string>
+    <string name="ph_one_time_payment">ការទូទាត់ម្តង</string>
+    <string name="ph_one_time_offer_name">បុព្វលាភពេញមួយជីវិត</string>
+    <string name="ph_subscription_info">ការជាវនឹងបន្តដោយស្វ័យប្រវត្តិ។ បោះបង់គ្រប់ពេល។</string>
+    <string name="ph_terms_and_conditions">ដោយបន្តអ្នកយល់ព្រមទៅយើង <![CDATA[<a href="%1$s">លក្ខខណ្ឌ</a>]]> និង <![CDATA[<a href="%2$s">ភាពឯកជន</a>]]> គោលនយោបាយ</string>
+    <string name="support_hint">ពិពណ៌នាអំពីបញ្ហា (យ៉ាងហោចណាស់ 20 តួអក្សរ)</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="contact_support_title">ជំនួយអតិថិជន</string>
+    <string name="contact_vip_support_title">ការគាំទ្រអតិថិជន VIP</string>
+    <string name="send">ផ្ញើ</string>
+    <string name="personalized_ads">ការផ្សាយពាណិជ្ជកម្មផ្ទាល់ខ្លួន</string>
+</resources>

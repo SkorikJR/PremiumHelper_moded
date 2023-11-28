@@ -1,0 +1,16 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+        <item>No reply</item>
+        <item>Reply via assistant</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+        <item>reply_none</item>
+        <item>reply_vip</item>
+    </string-array>
+</resources>

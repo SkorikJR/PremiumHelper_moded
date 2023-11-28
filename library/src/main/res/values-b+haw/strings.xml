@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">E hoʻomaka i ka hoʻāʻo FREE</string>
+    <string name="ph_start_premium_cta">Hoʻomaka PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ pule</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ hebedoma ma hope o ka hoʻokolokolo 3-lā MANUAHI</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ hebedoma ma hope o ka hoʻokolokolo 7-lā MANUAHI</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ hebedoma ma hope o ka hoʻokolokolo 30 mau lā MANUAHI</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mahina</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mahina ma hope o ka hoʻokolokolo 3-lā MANUAHI</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mahina ma hope o ka hoʻokolokolo 7-lā MANUAHI</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mahina ma hope o ka hoʻokolokolo 30 mau lā MANUAHI</string>
+    <string name="sku_price_yearly_no_trial">{0}/ makahiki</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ makahiki ma hope o ka hoʻokolokolo 3-lā MANUAHI</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ makahiki ma hope o ka hoʻokolokolo 7-lā MANUAHI</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ makahiki ma hope o ka hoʻokolokolo 30 mau lā MANUAHI</string>
+    <string name="sku_price_default">{0} ma hope o ka hoʻokolokolo FREE</string>
+    <string name="sku_price_onetime">{0} uku manawa hoʻokahi</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Hoʻomaka FREE 3-DAY TRIAL</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Hoʻomaka FREE 7-DAY TRIAL</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Hoʻomaka i ka hoʻāʻo ʻana 30 mau lā</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Pehea hana oe e like\nmākou mail app?</string>
+    <string name="rate_dialog_subtitle">E ʻike iā mākou ma ka waiho ʻana i kahi helu hōkū 5</string>
+    <string name="rate_dialog_thanks">Mahalo!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Hoʻopaʻa puka</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Kumumua</string>
+    <string name="ph_start_free_trial">Hoʻomaka i ka hoʻokolokolo manuahi</string>
+    <string name="ph_start_like_pro">E hoʻomaka e like me kahi Pro</string>
+    <string name="ph_unlock_all_features">Wehe i nā hiʻohiʻona āpau</string>
+    <string name="ph_try_limited">a i ʻole hoʻāʻo i ka mana i kaupalena ʻia</string>
+    <string name="ph_limited_time_offer">Hāʻawi manawa palena</string>
+    <string name="ph_get_special_price">Loaʻa i ke kumu kūʻai kūikawā</string>
+    <string name="ph_one_time_payment">Hoʻokahi manawa uku</string>
+    <string name="ph_one_time_offer_name">ʻO ke ola holoʻokoʻa</string>
+    <string name="ph_subscription_info">E hoʻopau hou ke kau inoa. Hoʻopau i kēlā me kēia manawa.</string>
+    <string name="ph_terms_and_conditions">Ma ka hoʻomau ʻana ua ʻae ʻoe i kā mākou <![CDATA[<a href="%1$s">Terms</a>]]> a me <![CDATA[<a href="%2$s">Kulekele</a>]]> mau kulekele</string>
+    <string name="support_hint">E wehewehe i ka pilikia (ma kahi o 20 mau huapalapala)</string>
+    <string name="cancel">Hoʻopau</string>
+    <string name="contact_support_title">Kākoʻo mea kūʻai aku</string>
+    <string name="contact_vip_support_title">Kākoʻo VIP Customer</string>
+    <string name="send">Hoʻouna</string>
+    <string name="personalized_ads">Hoʻolaha pilikino</string>
+</resources>

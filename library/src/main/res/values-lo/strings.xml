@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ເລີ່ມການທົດລອງຟຣີ</string>
+    <string name="ph_start_premium_cta">PREMIUM ເລີ່ມຕົ້ນ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ອາທິດ</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ ອາທິດຫຼັງຈາກທົດລອງໃຊ້ຟຣີ 3 ວັນ</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ ອາທິດຫຼັງຈາກທົດລອງໃຊ້ຟຣີ 7 ວັນ</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ ອາທິດຫຼັງຈາກທົດລອງໃຊ້ 30 ວັນຟຣີ</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ເດືອນ</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ ເດືອນຫຼັງຈາກທົດລອງໃຊ້ຟຣີ 3 ວັນ</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ ເດືອນຫຼັງຈາກທົດລອງໃຊ້ຟຣີ 7 ວັນ</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ ເດືອນຫຼັງຈາກທົດລອງໃຊ້ 30 ວັນຟຣີ</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ປີ</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ ປີຫຼັງຈາກທົດລອງໃຊ້ຟຣີ 3 ວັນ</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ ປີຫຼັງຈາກທົດລອງໃຊ້ຟຣີ 7 ວັນ</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ ປີຫຼັງຈາກທົດລອງໃຊ້ 30 ວັນຟຣີ</string>
+    <string name="sku_price_default">{0} ຫຼັງຈາກທົດລອງໃຊ້ FREE</string>
+    <string name="sku_price_onetime">{0} ເງີນຈ່າຍຄັ້ງດຽວ</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ເລີ່ມການທົດລອງ 3 ມື້ຟຣີ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ເລີ່ມການທົດລອງ 7 ມື້ຟຣີ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ເລີ່ມທົດລອງໃຊ້ 30 ມື້ຟຣີ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">ທ່ານມັກ\napp ຂອງພວກເຮົາແນວໃດ?</string>
+    <string name="rate_dialog_subtitle">ໃຫ້ພວກເຮົາຮູ້ໂດຍການໃຫ້ຄະແນນ 5 ດາວ</string>
+    <string name="rate_dialog_thanks">ຂໍຂອບໃຈ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">ຢືນຢັນການອອກ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">ພຣີມຽມ</string>
+    <string name="ph_offer_basic">ພື້ນຖານ</string>
+    <string name="ph_start_free_trial">ເລີ່ມການທົດລອງໃຊ້ຟຣີ</string>
+    <string name="ph_start_like_pro">ເລີ່ມຕົ້ນຄືກັບ Pro</string>
+    <string name="ph_unlock_all_features">ປົດລFeaturesອກຄຸນສົມບັດທັງ ໝົດ</string>
+    <string name="ph_try_limited">ຫຼືລອງໃຊ້ເວີຊັນ ຈຳ ກັດ</string>
+    <string name="ph_limited_time_offer">ຂໍ້ສະ ເໜີ ເວລາ ຈຳ ກັດ</string>
+    <string name="ph_get_special_price">ຮັບລາຄາພິເສດ</string>
+    <string name="ph_one_time_payment">ການຊໍາລະຄັ້ງດຽວ</string>
+    <string name="ph_one_time_offer_name">ນິຍົມຕະຫຼອດຊີວິດ</string>
+    <string name="ph_subscription_info">ການສະັກໃຊ້ຈະຕໍ່ອາຍຸອັດຕະໂນມັດ. ຍົກເລີກໄດ້ທຸກເວລາ.</string>
+    <string name="ph_terms_and_conditions">ໂດຍການສືບຕໍ່ແມ່ນຖືວ່າເຈົ້າເຫັນດີນໍາ <![CDATA[<a href="%1$s">ເງື່ອນໄຂ</a>]]> ແລະ <![CDATA[<a href="%2$s">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a>]]></string>
+    <string name="support_hint">ອະທິບາຍບັນຫາ (ຢ່າງໜ້ອຍ 20 ຕົວອັກສອນ)</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="contact_support_title">ການຊ່ວຍເຫຼືອລູກຄ້າ</string>
+    <string name="contact_vip_support_title">ການຊ່ວຍເຫຼືອລູກຄ້າ VIP</string>
+    <string name="send">ສົ່ງ</string>
+    <string name="personalized_ads">ໂຄສະນາສ່ວນບຸກຄົນ</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">STARTA GRATIS TESTPERIOD</string>
+    <string name="ph_start_premium_cta">AKTIVERA PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/vecka</string>
+    <string name="sku_price_weekly_3d_trial">{0}/vecka efter 3-dagars GRATIS provperiod</string>
+    <string name="sku_price_weekly_7d_trial">{0}/vecka efter 7-dagars GRATIS provperiod</string>
+    <string name="sku_price_weekly_30d_trial">{0}/vecka efter 30-dagars GRATIS provperiod</string>
+    <string name="sku_price_monthly_no_trial">{0}/månad</string>
+    <string name="sku_price_monthly_3d_trial">{0}/månad efter 3-dagars GRATIS provperiod</string>
+    <string name="sku_price_monthly_7d_trial">{0}/månad efter 7-dagars GRATIS provperiod</string>
+    <string name="sku_price_monthly_30d_trial">{0}/månad efter 30-dagars GRATIS provperiod</string>
+    <string name="sku_price_yearly_no_trial">{0}/år</string>
+    <string name="sku_price_yearly_3d_trial">{0}/år efter 3-dagars GRATIS provperiod</string>
+    <string name="sku_price_yearly_7d_trial">{0}/år efter 7-dagars GRATIS provperiod</string>
+    <string name="sku_price_yearly_30d_trial">{0}/år efter 30-dagars GRATIS provperiod</string>
+    <string name="sku_price_default">{0} efter GRATIS provperiod</string>
+    <string name="sku_price_onetime">{0} engångsbetalning</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">STARTA GRATIS 3-DAGARS PROVTID</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">STARTA GRATIS 7-DAGARS PROVTID</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">STARTA GRATIS 30-DAGARS PROVTID</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Gillar du\nvår app?</string>
+    <string name="rate_dialog_subtitle">Visa det genom att ge oss 5 stjärnor</string>
+    <string name="rate_dialog_thanks">Tack!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Bekräfta avslut</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basic</string>
+    <string name="ph_start_free_trial">Starta fri provperiod</string>
+    <string name="ph_start_like_pro">Börja som ett proffs</string>
+    <string name="ph_unlock_all_features">Lås upp alla funktioner</string>
+    <string name="ph_try_limited">eller testa en begränsad version</string>
+    <string name="ph_limited_time_offer">Tidsbegränsat erbjudande</string>
+    <string name="ph_get_special_price">Få specialpris</string>
+    <string name="ph_one_time_payment">Engångsbetalning</string>
+    <string name="ph_one_time_offer_name">Livstids premium</string>
+    <string name="ph_subscription_info">Prenumerationen förnyas automatiskt. Avbryt när som helst.</string>
+    <string name="ph_terms_and_conditions">Genom att fortsätta accepterar du våra <![CDATA[<a href="%1$s">Villkor</a>]]> och <![CDATA[<a href="%2$s">Sekretesspolicyer</a>]]></string>
+    <string name="support_hint">Beskriv problemet (minst 20 tecken)</string>
+    <string name="cancel">Annullera</string>
+    <string name="contact_support_title">Kundsupport</string>
+    <string name="contact_vip_support_title">VIP kundsupport</string>
+    <string name="send">Skicka</string>
+    <string name="personalized_ads">Personliga annonser</string>
+</resources>

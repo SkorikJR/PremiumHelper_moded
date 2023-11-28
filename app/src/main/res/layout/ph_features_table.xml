@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/basic_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:text="@string/ph_offer_basic"
+            android:textAllCaps="true"
+            android:textColor="?attr/premium_offer_secondary_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="UnusedAttribute" />
+
+        <TextView
+            android:id="@+id/premium_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:text="@string/ph_offer_premium"
+            android:textAllCaps="true"
+            android:textColor="?attr/premium_offer_secondary_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toStartOf="@id/basic_text"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="UnusedAttribute" />
+
+
+        <!-- Feature list -->
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/feature_1_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:drawablePadding="8dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="start|center_vertical"
+            android:lines="1"
+            android:text="@string/ph_feature_1"
+            android:textAlignment="viewStart"
+            android:textColor="?attr/premium_offer_primary_text_color"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_ph_feature_1"
+            app:drawableTint="?attr/premium_offer_feature_icon_color"
+            app:layout_constraintEnd_toStartOf="@id/feature_1_check"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/basic_text"
+            tools:ignore="UnusedAttribute" />
+
+        <ImageView
+            android:id="@+id/feature_1_check"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_1_text"
+            app:layout_constraintEnd_toEndOf="@id/premium_text"
+            app:layout_constraintStart_toStartOf="@id/premium_text"
+            app:layout_constraintTop_toTopOf="@id/feature_1_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_1_text"
+            app:layout_constraintEnd_toEndOf="@id/basic_text"
+            app:layout_constraintStart_toStartOf="@id/basic_text"
+            app:layout_constraintTop_toTopOf="@id/feature_1_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+            tools:ignore="ContentDescription" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/feature_2_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:drawablePadding="8dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="start|center_vertical"
+            android:lines="1"
+            android:text="@string/ph_feature_2"
+            android:textAlignment="viewStart"
+            android:textColor="?attr/premium_offer_primary_text_color"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_ph_feature_2"
+            app:drawableTint="?attr/premium_offer_feature_icon_color"
+            app:layout_constraintEnd_toStartOf="@id/feature_2_check"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/feature_1_text"
+            tools:ignore="UnusedAttribute" />
+
+        <ImageView
+            android:id="@+id/feature_2_check"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_2_text"
+            app:layout_constraintEnd_toEndOf="@id/premium_text"
+            app:layout_constraintStart_toStartOf="@id/premium_text"
+            app:layout_constraintTop_toTopOf="@id/feature_2_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_2_text"
+            app:layout_constraintEnd_toEndOf="@id/basic_text"
+            app:layout_constraintStart_toStartOf="@id/basic_text"
+            app:layout_constraintTop_toTopOf="@id/feature_2_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/feature_3_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:drawablePadding="8dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="start|center_vertical"
+            android:lines="1"
+            android:text="@string/ph_feature_3"
+            android:textAlignment="viewStart"
+            android:textColor="?attr/premium_offer_primary_text_color"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_ph_feature_3"
+            app:drawableTint="?attr/premium_offer_feature_icon_color"
+            app:layout_constraintEnd_toStartOf="@id/feature_3_check"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/feature_2_text"
+            tools:ignore="UnusedAttribute" />
+
+        <ImageView
+            android:id="@+id/feature_3_check"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_3_text"
+            app:layout_constraintEnd_toEndOf="@id/premium_text"
+            app:layout_constraintStart_toStartOf="@id/premium_text"
+            app:layout_constraintTop_toTopOf="@id/feature_3_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_3_text"
+            app:layout_constraintEnd_toEndOf="@id/basic_text"
+            app:layout_constraintStart_toStartOf="@id/basic_text"
+            app:layout_constraintTop_toTopOf="@id/feature_3_text"
+            app:srcCompat="@drawable/ic_feature_dash"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/feature_4_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:drawablePadding="8dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="start|center_vertical"
+            android:lines="1"
+            android:text="@string/ph_feature_4"
+            android:textAlignment="viewStart"
+            android:textColor="?attr/premium_offer_primary_text_color"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_ph_feature_4"
+            app:drawableTint="?attr/premium_offer_feature_icon_color"
+            app:layout_constraintEnd_toStartOf="@id/feature_4_check"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/feature_3_text"
+            tools:ignore="UnusedAttribute" />
+
+        <ImageView
+            android:id="@+id/feature_4_check"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_4_text"
+            app:layout_constraintEnd_toEndOf="@id/premium_text"
+            app:layout_constraintStart_toStartOf="@id/premium_text"
+            app:layout_constraintTop_toTopOf="@id/feature_4_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_4_text"
+            app:layout_constraintEnd_toEndOf="@id/basic_text"
+            app:layout_constraintStart_toStartOf="@id/basic_text"
+            app:layout_constraintTop_toTopOf="@id/feature_4_text"
+            app:srcCompat="@drawable/ic_feature_dash"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/feature_5_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:drawablePadding="8dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="start|center_vertical"
+            android:lines="1"
+            android:text="@string/ph_feature_5"
+            android:textAlignment="viewStart"
+            android:textColor="?attr/premium_offer_primary_text_color"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_ph_feature_5"
+            app:drawableTint="?attr/premium_offer_feature_icon_color"
+            app:layout_constraintEnd_toStartOf="@id/feature_5_check"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/feature_4_text"
+            tools:ignore="UnusedAttribute" />
+
+        <ImageView
+            android:id="@+id/feature_5_check"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_5_text"
+            app:layout_constraintEnd_toEndOf="@id/premium_text"
+            app:layout_constraintStart_toStartOf="@id/premium_text"
+            app:layout_constraintTop_toTopOf="@id/feature_5_text"
+            app:srcCompat="@drawable/ic_feature_check"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            app:layout_constraintBottom_toBottomOf="@id/feature_5_text"
+            app:layout_constraintEnd_toEndOf="@id/basic_text"
+            app:layout_constraintStart_toStartOf="@id/basic_text"
+            app:layout_constraintTop_toTopOf="@id/feature_5_text"
+            app:srcCompat="@drawable/ic_feature_dash"
+            app:tint="?attr/premium_offer_feature_icon_color"
+
+            tools:ignore="ContentDescription" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

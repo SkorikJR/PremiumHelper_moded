@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">BEGIN GRATIS PROEF</string>
+    <string name="ph_start_premium_cta">BEGIN PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ week</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ week na GRATIS drie dae proef</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ week na GRATIS proeflopie van 7 dae</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ week na GRATIS proeflopie van 30 dae</string>
+    <string name="sku_price_monthly_no_trial">{0}/ maand</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ maand na GRATIS 3-dae proeflopie</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ maand na GRATIS proeflopie van 7 dae</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ maand na GRATIS proeflopie van 30 dae</string>
+    <string name="sku_price_yearly_no_trial">{0}/ jaar</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ jaar na GRATIS drie dae lange proeflopie</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ jaar na GRATIS proeflopie van 7 dae</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ jaar na GRATIS proeflopie van 30 dae</string>
+    <string name="sku_price_default">{0} na GRATIS proeflopie</string>
+    <string name="sku_price_onetime">{0} eenmalige betaling</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">BEGIN GRATIS 3-DAG-PROEF</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">BEGIN GRATIS 7-DAG PROEF</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">BEGIN GRATIS proef van 30 dae</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hoe hou jy\nons jeug?</string>
+    <string name="rate_dialog_subtitle">Laat weet ons deur \'n 5-ster-gradering te gee</string>
+    <string name="rate_dialog_thanks">Dankie!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Bevestig Uitgang</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premie</string>
+    <string name="ph_offer_basic">Basies</string>
+    <string name="ph_start_free_trial">Begin gratis proeftydperk</string>
+    <string name="ph_start_like_pro">Begin soos \'n pro</string>
+    <string name="ph_unlock_all_features">Ontsluit alle funksies</string>
+    <string name="ph_try_limited">of probeer \'n beperkte weergawe</string>
+    <string name="ph_limited_time_offer">Beperkte aanbieding</string>
+    <string name="ph_get_special_price">Kry spesiale prys</string>
+    <string name="ph_one_time_payment">Eenmalige betaling</string>
+    <string name="ph_one_time_offer_name">Lewenslange premie</string>
+    <string name="ph_subscription_info">Inskrywing word outomaties hernu. Kanselleer enige tyd.</string>
+    <string name="ph_terms_and_conditions">Deur voort te gaan, stem u in tot ons <![CDATA[<a href="%1$s">Bepalings</a>]]> en <![CDATA[<a href="%2$s">Privaatheid</a>]]> beleid</string>
+    <string name="support_hint">Beskryf die probleem (ten minste 20 karakters)</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="contact_support_title">Klientediens</string>
+    <string name="contact_vip_support_title">VIP-kliëntediens</string>
+    <string name="send">Stuur</string>
+    <string name="personalized_ads">Gepersonaliseerde advertensies</string>
+</resources>

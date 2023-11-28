@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">დაიწყეთ უფასო ცდა</string>
+    <string name="ph_start_premium_cta">დაიწყეთ პრემიუმი</string>
+    <string name="sku_price_weekly_no_trial">{0}/ კვირაში</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ კვირაში უფასო 3-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ კვირაში უფასო 7-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ კვირაში უფასო 30-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_monthly_no_trial">{0}/ თვეში</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ თვე უფასო 3-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ თვე 7 – დღიანი უფასო საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ თვე უფასო 30-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_yearly_no_trial">{0}წელიწადში</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ წელი უფასო 3-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ წელი უფასო 7-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ წელი უფასო 30-დღიანი საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_default">{0} უფასო საცდელი პერიოდის შემდეგ</string>
+    <string name="sku_price_onetime">{0} ერთჯერადი გადახდა</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">დაიწყეთ უფასო სამდღიანი ცდა</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">დაიწყეთ უფასო 7 დღიანი ცდა</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">დაიწყეთ უფასო 30 დღიანი ცდა</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">როგორ მოგწონთ\nჩვენი აპლიკაცია?</string>
+    <string name="rate_dialog_subtitle">შეგვატყობინეთ 5 ვარსკვლავიანი შეფასების დატოვებით</string>
+    <string name="rate_dialog_thanks">მადლობა!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">დაადასტურეთ გასვლა</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">პრემიუმ</string>
+    <string name="ph_offer_basic">ძირითადი</string>
+    <string name="ph_start_free_trial">დაიწყეთ უფასო საცდელი პერიოდი</string>
+    <string name="ph_start_like_pro">დაიწყე როგორც პროფესიონალი</string>
+    <string name="ph_unlock_all_features">განბლოკეთ ყველა ფუნქცია</string>
+    <string name="ph_try_limited">ან სცადეთ შეზღუდული ვერსია</string>
+    <string name="ph_limited_time_offer">Დროში შეზღუდული შეთავაზება</string>
+    <string name="ph_get_special_price">მიიღეთ სპეციალური ფასი</string>
+    <string name="ph_one_time_payment">ერთჯერადი გადახდა</string>
+    <string name="ph_one_time_offer_name">უვადო პრემია</string>
+    <string name="ph_subscription_info">გამოწერა ავტომატურად განახლდება. გაუქმება ნებისმიერ დროს.</string>
+    <string name="ph_terms_and_conditions">გაგრძელებით თქვენ ეთანხმებით ჩვენს <![CDATA[<a href="%1$s">პირობებს</a>]]> და <![CDATA[<a href="%2$s">კონფიდენციალურობას</a>]]> პოლიტიკას</string>
+    <string name="support_hint">აღწერეთ საკითხი (მინიმუმ 20 სიმბოლო)</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="contact_support_title">Მომხმარებლის მხარდაჭერა</string>
+    <string name="contact_vip_support_title">VIP მომხმარებელთა მხარდაჭერა</string>
+    <string name="send">გაგზავნა</string>
+    <string name="personalized_ads">პერსონალიზებული რეკლამები</string>
+</resources>

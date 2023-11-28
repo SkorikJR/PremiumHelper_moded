@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">বিনামূল্যে পরীক্ষা শুরু করুন</string>
+    <string name="ph_start_premium_cta">প্রিমিয়াম শুরু করুন</string>
+    <string name="sku_price_weekly_no_trial">{0}/ সপ্তাহ</string>
+    <string name="sku_price_weekly_3d_trial">বিনামূল্যে / 3 দিনের পরীক্ষার পরে {0}</string>
+    <string name="sku_price_weekly_7d_trial">বিনামূল্যে / 7 দিনের পরীক্ষার পরে {0}</string>
+    <string name="sku_price_weekly_30d_trial">30 / দিনের বিনামূল্যে পরীক্ষার পরে {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ মাস</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ দিনের বিনামূল্যে পরীক্ষার পরে 0 / মাস</string>
+    <string name="sku_price_monthly_7d_trial">বিনামূল্যে / 7 দিনের পরীক্ষার পরে {0}</string>
+    <string name="sku_price_monthly_30d_trial">30 / দিনের বিনামূল্যে পরীক্ষার পরে {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ বছর</string>
+    <string name="sku_price_yearly_3d_trial">বিনামূল্যে / 3 দিনের পরীক্ষার পরে {0}</string>
+    <string name="sku_price_yearly_7d_trial">বিনামূল্যে / 7 দিনের পরীক্ষার পরে {0}</string>
+    <string name="sku_price_yearly_30d_trial">30 / দিনের বিনামূল্যে পরীক্ষার পরে {0}</string>
+    <string name="sku_price_default">{0} বিনামূল্যে পরীক্ষার পরে</string>
+    <string name="sku_price_onetime">{0} এককালীন প্রদান</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">বিনামূল্যে 3-দিনের ট্রায়াল শুরু করুন</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">বিনামূল্যে 7-দিনের ট্রায়াল শুরু করুন</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">বিনামূল্যে 30-দিনের ট্রায়াল শুরু করুন</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">আপনি আমাদের অ্যাপ\nপছন্দ করেন?</string>
+    <string name="rate_dialog_subtitle">একটি 5 তারা রেটিং রেখে আমাদের জানতে দিন</string>
+    <string name="rate_dialog_thanks">ধন্যবাদ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">প্রস্থান নিশ্চিত করুন</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">প্রিমিয়াম</string>
+    <string name="ph_offer_basic">বেসিক</string>
+    <string name="ph_start_free_trial">বিনামূল্যে ট্রায়াল শুরু করুন</string>
+    <string name="ph_start_like_pro">প্রো হিসাবে শুরু করুন</string>
+    <string name="ph_unlock_all_features">সমস্ত বৈশিষ্ট্য আনলক করুন</string>
+    <string name="ph_try_limited">অথবা সীমিত সংস্করণ চেষ্টা করুন</string>
+    <string name="ph_limited_time_offer">অফারটি সীমিত সময়ের</string>
+    <string name="ph_get_special_price">বিশেষ মূল্য পান</string>
+    <string name="ph_one_time_payment">এককালীন পেমেন্ট</string>
+    <string name="ph_one_time_offer_name">লাইফটাইম প্রিমিয়াম</string>
+    <string name="ph_subscription_info">সাবস্ক্রিপশন অটো-রিনিউ হবে। যে কোন সময় বাতিল করুন।</string>
+    <string name="ph_terms_and_conditions">চালিয়ে যাওয়ার মাধ্যমে আপনি আমাদের <![CDATA[<a href="%1$s">শর্তাবলী</a>]]> এবং <![CDATA[<a href="%2$s">গোপনীয়তা</a>]]> নীতিতে সম্মত হন</string>
+    <string name="support_hint">সমস্যাটি বর্ণনা করুন (অন্তত 20টি অক্ষর)</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="contact_support_title">গ্রাহক সমর্থন</string>
+    <string name="contact_vip_support_title">ভিআইপি গ্রাহক সহায়তা</string>
+    <string name="send">পাঠান</string>
+    <string name="personalized_ads">ব্যক্তিগতকৃত বিজ্ঞাপন</string>
+</resources>

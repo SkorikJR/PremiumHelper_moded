@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">TÒRR AN-ASGAIDH TRIAL</string>
+    <string name="ph_start_premium_cta">TÒRRADH PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ seachdain</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ seachdain às deidh deuchainn 3-latha AN-ASGAIDH</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ seachdain às deidh deuchainn 7-latha AN-ASGAIDH</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ seachdain às deidh deuchainn 30-latha AN-ASGAIDH</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mìos</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mìos às deidh deuchainn 3-latha AN-ASGAIDH</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mìos às deidh deuchainn 7-latha AN-ASGAIDH</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mìos às deidh deuchainn 30-latha AN-ASGAIDH</string>
+    <string name="sku_price_yearly_no_trial">{0}/ bliadhna</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ bliadhna às deidh deuchainn 3-latha AN-ASGAIDH</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ bliadhna às deidh deuchainn 7-latha AN-ASGAIDH</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ bliadhna às deidh deuchainn 30-latha AN-ASGAIDH</string>
+    <string name="sku_price_default">{0} às deidh deuchainn AN-ASGAIDH</string>
+    <string name="sku_price_onetime">{0} pàigheadh aon-ùine</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">TÒRR TRIAL 3-LATHA AN-ASGAIDH</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">TÒRR TRIAL 7-LATHA AN-ASGAIDH</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">TÒRR TRIAL 30-LATHA AN-ASGAIDH</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Ciamar as toil leat\nan app againn?</string>
+    <string name="rate_dialog_subtitle">Leig fios thugainn le bhith a ’fàgail rangachadh 5 rionnag</string>
+    <string name="rate_dialog_thanks">Mòran taing!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Dearbhaich Ar-a-mach</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Bunasach</string>
+    <string name="ph_start_free_trial">Tòisich deuchainn an-asgaidh</string>
+    <string name="ph_start_like_pro">Tòisich mar Pro</string>
+    <string name="ph_unlock_all_features">Fuasgail a h-uile feart</string>
+    <string name="ph_try_limited">no feuch dreach cuibhrichte</string>
+    <string name="ph_limited_time_offer">Tairgse ùine cuibhrichte</string>
+    <string name="ph_get_special_price">Faigh prìs sònraichte</string>
+    <string name="ph_one_time_payment">Pàigheadh aon ùine</string>
+    <string name="ph_one_time_offer_name">Premium fad-beatha</string>
+    <string name="ph_subscription_info">Bidh fo-sgrìobhadh ag ùrachadh gu fèin-ghluasadach. Sguir dheth uair sam bith.</string>
+    <string name="ph_terms_and_conditions">Le bhith a ’leantainn ort tha thu ag aontachadh ris na poileasaidhean <![CDATA[<a href="%1$s">Teirmean</a>]]> agus <![CDATA[<a href="%2$s">Prìobhaideachd</a>]]></string>
+    <string name="support_hint">Thoir cunntas air a’ chùis (co-dhiù 20 caractar)</string>
+    <string name="cancel">Sguir dheth</string>
+    <string name="contact_support_title">Taic Luchd-cleachdaidh</string>
+    <string name="contact_vip_support_title">Taic teachdaiche VIP</string>
+    <string name="send">Seol</string>
+    <string name="personalized_ads">Sanasan pearsanaichte</string>
+</resources>

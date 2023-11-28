@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ТЕГІН СЫНАУДЫ БАСТАҢЫЗ</string>
+    <string name="ph_start_premium_cta">ПРЕМИУМДЫ БАСТАУ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ апта</string>
+    <string name="sku_price_weekly_3d_trial">ТЕГІН 3 күндік сынақтан кейін {0}</string>
+    <string name="sku_price_weekly_7d_trial">ТЕГІН 7 күндік сынақтан кейін {0}</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ аптасына 30 күндік ақысыз сынақтан кейін</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ай</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ ай ақысыз 3 күндік сынақтан кейін</string>
+    <string name="sku_price_monthly_7d_trial">ТЕГІН 7 күндік сынақтан кейін {0}</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ ай 30 күндік ақысыз сынақтан кейін</string>
+    <string name="sku_price_yearly_no_trial">{0}/ жыл</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ жыл 3 күндік ақысыз сынақтан кейін</string>
+    <string name="sku_price_yearly_7d_trial">ТЕГІН 7 күндік сынақтан кейін {0}</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ жыл 30 күндік ақысыз сынақтан кейін</string>
+    <string name="sku_price_default">ТЕГІН сынақтан кейін {0}</string>
+    <string name="sku_price_onetime">{0} бір реттік төлем</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3 күндік ТЕГІН СЫНАҚТЫ БАСТАҢЫЗ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 күндік ТЕГІН СЫНАҚТЫ БАСТАҢЫЗ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30 күндік ТЕГІН сынақты бастаңыз</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Сізге біздің\nқолданбаңыз сізге қалай ұнайды?</string>
+    <string name="rate_dialog_subtitle">5 жұлдызды рейтингті қалдыру арқылы бізге хабарлаңыз</string>
+    <string name="rate_dialog_thanks">Рахмет!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Шығуды растаңыз</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Премиум</string>
+    <string name="ph_offer_basic">Негізгі</string>
+    <string name="ph_start_free_trial">Тегін сынақ нұсқасын бастау</string>
+    <string name="ph_start_like_pro">Pro сияқты бастаңыз</string>
+    <string name="ph_unlock_all_features">Барлық мүмкіндіктердің құлпын ашыңыз</string>
+    <string name="ph_try_limited">немесе шектеулі нұсқаны қолданып көріңіз</string>
+    <string name="ph_limited_time_offer">Уақыт шектеулі ұсыныс</string>
+    <string name="ph_get_special_price">Арнайы бағаны алыңыз</string>
+    <string name="ph_one_time_payment">Бір реттік төлем</string>
+    <string name="ph_one_time_offer_name">Өмір бойы сыйлықақы</string>
+    <string name="ph_subscription_info">Жазылым автоматты түрде жаңартылады. Кез келген уақытта бас тарту.</string>
+    <string name="ph_terms_and_conditions">Жалғастыру арқылы сіз біздің <![CDATA[<a href="%1$s">Шарттар</a>]]> және <![CDATA[<a href="%2$s">Құпиялылық</a>]]> саясатымен келісесіз</string>
+    <string name="support_hint">Мәселені сипаттаңыз (кемінде 20 таңба)</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="contact_support_title">Тұтынушыларды қолдау</string>
+    <string name="contact_vip_support_title">VIP тұтынушыларды қолдау</string>
+    <string name="send">Жіберу</string>
+    <string name="personalized_ads">Жекелендірілген жарнамалар</string>
+</resources>

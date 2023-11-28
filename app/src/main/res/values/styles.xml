@@ -1,0 +1,46 @@
+<resources>
+    <!-- Base application theme.  -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="premium_offering_style">@style/CustomPremiumOfferingTheme</item>
+    </style>
+
+    <style name="AppTheme.Intro">
+        <item name="premium_offer_cta_button_shape">@drawable/ph_cta_button_shape</item>
+    </style>
+
+    <style name="CtaButton" parent="PhCtaButton">
+        <item name="backgroundTint">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="CustomPremiumOfferingTheme" parent="PhPremiumOfferingTheme">
+        <item name="premium_offer_cta_button_color">@null</item>
+        <item name="premium_offer_cta_button_shape">@drawable/cta_button_shape</item>
+        <item name="premium_offer_cta_button_text_color">@android:color/black</item>
+        <item name="premium_offer_feature_icon_color">@android:color/holo_red_dark</item>
+        <item name="premium_offer_countdown_text_color">@android:color/holo_red_dark</item>
+        <item name="premium_offer_text_alpha">@dimen/premium_screen_alpha</item>
+    </style>
+
+    <style name="BrandedLaunch" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/branded_launch_bg</item>
+    </style>
+
+    <style name="SplashTheme" parent="@style/PhSplashTheme">
+        <item name="ph_splash_title_color">#fff</item>
+        <item name="ph_splash_background_color">@color/ph_black</item>
+    </style>
+
+    <style name="MyNativeAd" parent="PhNativeAdStyle">
+        <item name="native_background_color">@color/grey_blue_800</item>
+        <item name="native_title_text_color">@color/ph_text_light</item>
+        <item name="native_label_text_color">@color/ph_light_grey</item>
+        <item name="native_body_text_color">@color/ph_black</item>
+        <item name="native_install_button_text_color">@color/ph_black</item>
+        <item name="native_install_button_color">@color/ph_orange_light</item>
+    </style>
+
+</resources>

@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="PhCtaButton">
+        <item name="android:layout_height">56dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:background">@drawable/ph_cta_button_bg</item>
+    </style>
+
+    <style name="ProgressBarTheme" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">@color/ph_dark_gray</item>
+    </style>
+
+    <style name="PhSplashTheme" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+<!--        <item name="android:background">?attr/ph_splash_background_color</item>-->
+        <item name="android:windowBackground">@color/ph_splash_background</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">@color/ph_splash_background</item>
+    </style>
+
+    <style name="PhRelaunchTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+
+    <style name="PhPremiumOfferingTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="premium_offer_header_logo_color">?attr/colorPrimary</item>
+        <item name="premium_offer_primary_text_color">#1E1E1E</item>
+        <item name="premium_offer_secondary_text_color">#828282</item>
+        <item name="premium_offer_feature_icon_color">?attr/colorPrimary</item>
+        <item name="premium_offer_background_color">#FFFFFF</item>
+        <item name="premium_offer_close_button_color">#828282</item>
+        <item name="premium_offer_countdown_text_color">?attr/colorPrimary</item>
+        <item name="premium_offer_cta_button_color">?attr/colorPrimary</item>
+        <item name="premium_offer_cta_button_text_color">@android:color/white</item>
+        <item name="premium_offer_text_alpha">0.6</item>
+        <item name="premium_offer_cta_button_shape">@drawable/ph_cta_button_shape</item>
+    </style>
+
+    <style name="ContactSupportTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="m">@android:color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="colorButtonNormal">@color/ph_contact_button_bg</item>
+        <item name="android:buttonStyle">@style/SupportButtonStyle</item>
+    </style>
+
+    <style name="SupportButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/ph_contact_button_text</item>
+    </style>
+
+    <style name="PhNativeAdStyle">
+        <item name="native_background_color">@color/ph_white_background</item>
+        <item name="native_title_text_color">@color/ph_black</item>
+        <item name="native_label_text_color">@color/ph_dark_gray</item>
+        <item name="native_body_text_color">@color/ph_black</item>
+        <item name="native_install_button_color">@color/ph_cta_color</item>
+        <item name="native_install_button_text_color">@color/ph_white</item>
+    </style>
+
+</resources>

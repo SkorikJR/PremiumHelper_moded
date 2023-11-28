@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ALOITA ILMAINEN KOKEILU</string>
+    <string name="ph_start_premium_cta">ALOITA PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ viikko</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ viikko ILMAISEN 3 päivän kokeilun jälkeen</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ viikko ILMAISEN 7 päivän kokeilun jälkeen</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ viikko ILMAISEN 30 päivän kokeilun jälkeen</string>
+    <string name="sku_price_monthly_no_trial">{0}/ kuukausi</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ kuukausi ILMAISEN 3 päivän kokeilun jälkeen</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ kuukausi ILMAISEN 7 päivän kokeilun jälkeen</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ kuukausi ILMAISEN 30 päivän kokeilun jälkeen</string>
+    <string name="sku_price_yearly_no_trial">{0}/ vuosi</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ vuosi ILMAISEN 3 päivän kokeilun jälkeen</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ vuosi ILMAISEN 7 päivän kokeilun jälkeen</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ vuosi ILMAISEN 30 päivän kokeilun jälkeen</string>
+    <string name="sku_price_default">{0} ILMAISEN kokeilun jälkeen</string>
+    <string name="sku_price_onetime">{0} kertamaksu</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ALOITA ILMAINEN 3 PÄIVÄN KOKEILU</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ALOITA ILMAINEN 7 PÄIVÄN KOKEILU</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ALOITA ILMAINEN 30 PÄIVÄN KOKEILU</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kuinka pidät\nsovelluksestamme?</string>
+    <string name="rate_dialog_subtitle">Kerro meille jättämällä 5 tähden luokitus</string>
+    <string name="rate_dialog_thanks">Kiitos!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Vahvista Poistu</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Perus</string>
+    <string name="ph_start_free_trial">Aloita ilmainen kokeilu</string>
+    <string name="ph_start_like_pro">Aloita kuin ammattilainen</string>
+    <string name="ph_unlock_all_features">Avaa kaikki ominaisuudet</string>
+    <string name="ph_try_limited">tai kokeile rajoitettua versiota</string>
+    <string name="ph_limited_time_offer">Tarjous voimassa rajoitetun ajan</string>
+    <string name="ph_get_special_price">Hanki erikoishinta</string>
+    <string name="ph_one_time_payment">Kertamaksu</string>
+    <string name="ph_one_time_offer_name">Elinikäinen palkkio</string>
+    <string name="ph_subscription_info">Tilaus uusitaan automaattisesti. Peruuta milloin tahansa.</string>
+    <string name="ph_terms_and_conditions">Jatkamalla hyväksyt <![CDATA[<a href="%1$s">Ehdot</a>]]> ja <![CDATA[<a href="%2$s">Tietosuoja</a>]]> -käytäntömme</string>
+    <string name="support_hint">Kuvaile ongelmaa (vähintään 20 merkkiä)</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="contact_support_title">Asiakaspalvelu</string>
+    <string name="contact_vip_support_title">VIP-asiakastuki</string>
+    <string name="send">Lähettää</string>
+    <string name="personalized_ads">Henkilökohtaiset mainokset</string>
+</resources>

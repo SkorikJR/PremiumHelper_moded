@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ΕΝΑΡΞΗ ΔΩΡΕΑΝ ΔΟΚΙΜΗ</string>
+    <string name="ph_start_premium_cta">ΕΚΚΙΝΗΣΗ ΠΡΟΜΗΘΕΙΑΣ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ εβδομάδα</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ εβδομάδα μετά από ΔΩΡΕΑΝ δοκιμή 3 ημερών</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ εβδομάδα μετά από ΔΩΡΕΑΝ δοκιμή 7 ημερών</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ εβδομάδα μετά από ΔΩΡΕΑΝ δοκιμή 30 ημερών</string>
+    <string name="sku_price_monthly_no_trial">{0}/ μήνα</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ μήνα μετά από ΔΩΡΕΑΝ δοκιμή 3 ημερών</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ μήνα μετά από ΔΩΡΕΑΝ δοκιμή 7 ημερών</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ μήνα μετά από ΔΩΡΕΑΝ δοκιμή 30 ημερών</string>
+    <string name="sku_price_yearly_no_trial">{0}/ έτος</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ έτος μετά από ΔΩΡΕΑΝ δοκιμή 3 ημερών</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ έτος μετά από ΔΩΡΕΑΝ δοκιμή 7 ημερών</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ έτος μετά από ΔΩΡΕΑΝ δοκιμή 30 ημερών</string>
+    <string name="sku_price_default">{0} μετά ΔΩΡΕΑΝ δοκιμή</string>
+    <string name="sku_price_onetime">{0} εφάπαξ πληρωμή</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ΞΕΚΙΝΗΣΤΕ ΔΩΡΕΑΝ 3ήμερη δοκιμή</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ΕΝΑΡΞΗ ΔΩΡΕΑΝ 7-ΗΜΕΡΗΣ ΔΟΚΙΜΗΣ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ΕΝΑΡΞΗ ΔΩΡΕΑΝ ΔΟΚΙΜΗ 30 ΗΜΕΡΩΝ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Πώς σας αρέσει\nη εφαρμογή μας;</string>
+    <string name="rate_dialog_subtitle">Ενημερώστε μας αφήνοντας βαθμολογία 5 αστέρων</string>
+    <string name="rate_dialog_thanks">Ευχαριστώ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Επιβεβαίωση εξόδου</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Ασφάλιστρο</string>
+    <string name="ph_offer_basic">Βασικός</string>
+    <string name="ph_start_free_trial">Ξεκινήστε δωρεάν δοκιμή</string>
+    <string name="ph_start_like_pro">Ξεκινήστε σαν επαγγελματίας</string>
+    <string name="ph_unlock_all_features">Ξεκλειδώστε όλες τις δυνατότητες</string>
+    <string name="ph_try_limited">ή δοκιμάστε περιορισμένη έκδοση</string>
+    <string name="ph_limited_time_offer">Προσφορά περιορισμένου χρόνου</string>
+    <string name="ph_get_special_price">Λάβετε ειδική τιμή</string>
+    <string name="ph_one_time_payment">Πληρωμή μιας φοράς</string>
+    <string name="ph_one_time_offer_name">Πριμοδότηση δια βίου</string>
+    <string name="ph_subscription_info">Η συνδρομή θα ανανεωθεί αυτόματα. Ακύρωση ανά πάσα στιγμή.</string>
+    <string name="ph_terms_and_conditions">Συνεχίζοντας, αποδέχεστε τις πολιτικές <![CDATA[<a href="%1$s">Όροι</a>]]> και <![CDATA[<a href="%2$s">Απόρρητο</a>]]></string>
+    <string name="support_hint">Περιγράψτε το πρόβλημα (τουλάχιστον 20 χαρακτήρες)</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="contact_support_title">Υποστήριξη πελατών</string>
+    <string name="contact_vip_support_title">Υποστήριξη πελατών VIP</string>
+    <string name="send">Στείλετε</string>
+    <string name="personalized_ads">Εξατομικευμένες διαφημίσεις</string>
+</resources>

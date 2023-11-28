@@ -1,0 +1,24 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "You must pass 1 argument - path to the root build.gradle"
+	exit 1
+fi
+
+version=`grep -oP $'PREMIUM_HELPER_VERSION\s*=\s*[\"\']\K.*?(?=[\"\'])' $1`
+
+grep_exit_code=$?
+if [[ $grep_exit_code -ne 0 ]]; then
+	echo "Something wrong happened, grep wasn't able to find PREMIUM_HELPER_VERSION value in $1"
+	exit $grep_exit_code
+fi
+
+git_branch_name=`git rev-parse --abbrev-ref HEAD`
+
+if [[ $git_branch_name == "develop" ]]; then
+	version+="-SNAPSHOT"
+fi
+
+echo $version
+exit 0
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">HEFJA ÓKEYPIS REYND</string>
+    <string name="ph_start_premium_cta">Byrjaðu á frumefni</string>
+    <string name="sku_price_weekly_no_trial">{0}/ viku</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ viku eftir ÓKEYPIS þriggja daga prufu</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ viku eftir ÓKEYPIS 7 daga prufu</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ viku eftir ÓKEYPIS 30 daga prufu</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mán</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mánuði eftir ÓKEYPIS þriggja daga prufu</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mánuði eftir ÓKEYPIS 7 daga prufu</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mánuði eftir ÓKEYPIS 30 daga prufu</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ári</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ ár eftir ÓKEYPIS þriggja daga prufu</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ ár eftir ÓKEYPIS 7 daga prufu</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ ár eftir ÓKEYPIS 30 daga prufu</string>
+    <string name="sku_price_default">{0} eftir ÓKEYPIS prufu</string>
+    <string name="sku_price_onetime">{0} eingreiðsla</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Byrjaðu ókeypis 3-DAGAR PRÓFUN</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Byrjaðu ókeypis 7-DAGAR PRÓFUN</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Byrjaðu ÓKEYPIS 30 DAGA PRÓFUN</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hvernig líst þér á\nforritið okkar?</string>
+    <string name="rate_dialog_subtitle">Láttu okkur vita með því að skilja eftir 5 stjörnur</string>
+    <string name="rate_dialog_thanks">Takk fyrir!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Staðfestu brottför</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Iðgjald</string>
+    <string name="ph_offer_basic">Basic</string>
+    <string name="ph_start_free_trial">Byrjaðu ókeypis prufuáskrift</string>
+    <string name="ph_start_like_pro">Byrjaðu eins og atvinnumaður</string>
+    <string name="ph_unlock_all_features">Opnaðu alla eiginleika</string>
+    <string name="ph_try_limited">eða prófaðu takmarkaða útgáfu</string>
+    <string name="ph_limited_time_offer">Tímabundið tilboð</string>
+    <string name="ph_get_special_price">Fáðu sérverð</string>
+    <string name="ph_one_time_payment">Greiðsla í eitt skipti</string>
+    <string name="ph_one_time_offer_name">Æviálag</string>
+    <string name="ph_subscription_info">Áskrift endurnýjast sjálfkrafa. Hætta hvenær sem er.</string>
+    <string name="ph_terms_and_conditions">Með því að halda áfram samþykkir þú <![CDATA[<a href="%1$s">skilmála</a>]]> og <![CDATA[<a href="%2$s">persónuvernd</a>]]> stefnur okkar</string>
+    <string name="support_hint">Lýstu vandamálinu (að minnsta kosti 20 stafir)</string>
+    <string name="cancel">Hætta við</string>
+    <string name="contact_support_title">Þjónustudeild</string>
+    <string name="contact_vip_support_title">VIP þjónustuver</string>
+    <string name="send">Senda</string>
+    <string name="personalized_ads">Sérsniðnar auglýsingar</string>
+</resources>

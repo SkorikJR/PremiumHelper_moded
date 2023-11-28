@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    tools:ignore="HardcodedText">
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="4sp"
+        android:paddingHorizontal="8dp"
+        android:text="@string/ph_start_like_pro"
+        android:textAllCaps="true"
+        android:textColor="#1E1E1E"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/subtitle_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center_horizontal"
+        android:paddingHorizontal="8dp"
+        android:text="@string/ph_unlock_all_features"
+        android:textColor="#828282"
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/title_text" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  DEBUG  \n LAYOUT "
+        android:textAlignment="gravity"
+        android:gravity="center"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        android:textColor="@color/light_grey"
+        android:rotation="-45"
+        android:lineSpacingExtra="20sp"
+        android:letterSpacing="0.2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@id/relaunch_premium_close_button"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_margin="12dp"
+        android:alpha="0.5"
+        android:background="?selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="6dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ph_ic_close"
+        app:tint="#828282"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/relaunch_premium_purchase_button"
+        style="@style/PhCtaButton"
+        android:layout_width="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:includeFontPadding="false"
+        android:text="@string/ph_start_free_trial"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@+id/relaunch_premium_text_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="4sp"
+        android:textColor="#828282"
+        android:textSize="12sp"
+        android:translationY="-1.8sp"
+        app:layout_constraintBottom_toTopOf="@id/relaunch_premium_purchase_button"
+        tools:text="RUB 1,799/year after FREE 7-day trial" />
+
+    <ProgressBar
+        android:id="@+id/relaunch_premium_progress"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:orientation="horizontal"
+        android:indeterminateTint="#828282"
+        app:layout_constraintTop_toTopOf="@id/relaunch_premium_text_price"
+        app:layout_constraintBottom_toBottomOf="@id/relaunch_premium_text_price"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

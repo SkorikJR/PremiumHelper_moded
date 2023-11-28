@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ମାଗଣା ପରୀକ୍ଷା ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="ph_start_premium_cta">ପ୍ରିମିୟମ୍ ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ସପ୍ତାହ</string>
+    <string name="sku_price_weekly_3d_trial">ମାଗଣା 3 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_weekly_7d_trial">ମାଗଣା 7 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_weekly_30d_trial">ମାଗଣା 30 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ମାସ</string>
+    <string name="sku_price_monthly_3d_trial">ମାଗଣା 3 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_monthly_7d_trial">ମାଗଣା 7 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_monthly_30d_trial">ମାଗଣା 30 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ବର୍ଷ</string>
+    <string name="sku_price_yearly_3d_trial">ମାଗଣା 3 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_yearly_7d_trial">ମାଗଣା 7 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_yearly_30d_trial">ମାଗଣା 30 ଦିନର ପରୀକ୍ଷା ପରେ {0}</string>
+    <string name="sku_price_default">{0} ମାଗଣା ପରୀକ୍ଷା ପରେ |</string>
+    <string name="sku_price_onetime">{0} ଏକ ଥର ଦେୟ |</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ମାଗଣା 3-ଦିନର ପରୀକ୍ଷା ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ମାଗଣା 7-ଦିନର ପରୀକ୍ଷା ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ମାଗଣା 30-ଦିନର ପରୀକ୍ଷା ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">ଆପଣ କିପରି ଆମର\n</string>
+    <string name="rate_dialog_subtitle">ଏକ 5 ତାରକା ମୂଲ୍ୟାୟନ ଛାଡି ଆମକୁ ଜଣାନ୍ତୁ |</string>
+    <string name="rate_dialog_thanks">ଧନ୍ୟବାଦ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">ପ୍ରସ୍ଥାନ ନିଶ୍ଚିତ କରନ୍ତୁ |</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">ପ୍ରିମିୟମ୍</string>
+    <string name="ph_offer_basic">ମ Basic ଳିକ</string>
+    <string name="ph_start_free_trial">ମାଗଣା ପରୀକ୍ଷା ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="ph_start_like_pro">ଏକ ପ୍ରୋ ଭଳି ଆରମ୍ଭ କରନ୍ତୁ |</string>
+    <string name="ph_unlock_all_features">ସମସ୍ତ ବ Features ଶିଷ୍ଟ୍ୟଗୁଡିକ ଅନଲକ୍ କରନ୍ତୁ |</string>
+    <string name="ph_try_limited">କିମ୍ବା ସୀମିତ ସଂସ୍କରଣ ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="ph_limited_time_offer">ସୀମିତ ସମୟ ଅଫର୍ |</string>
+    <string name="ph_get_special_price">ବିଶେଷ ମୂଲ୍ୟ ପାଆନ୍ତୁ |</string>
+    <string name="ph_one_time_payment">ଗୋଟିଏ ଥର ଦେୟ |</string>
+    <string name="ph_one_time_offer_name">ଆଜୀବନ ପ୍ରିମିୟମ୍ |</string>
+    <string name="ph_subscription_info">ସଦସ୍ୟତା ସ୍ auto ତ - ନବୀକରଣ ହେବ | ଯେକ time ଣସି ସମୟରେ ବାତିଲ୍ କରନ୍ତୁ |</string>
+    <string name="ph_terms_and_conditions">ଜାରି କରି ଆପଣ ଆମର <![CDATA[<a href="%1$s">ସର୍ତ୍ତାବଳୀ</a>]]> ଏବଂ <![CDATA[<a href="%2$s">ଗୋପନୀୟତା</a>]]> ନୀତିରେ ସହମତ ଅଟନ୍ତି |</string>
+    <string name="support_hint">ସମସ୍ୟାକୁ ବର୍ଣ୍ଣନା କରନ୍ତୁ (ଅତିକମରେ 20 ଅକ୍ଷର)</string>
+    <string name="cancel">ବାତିଲ୍ କରନ୍ତୁ |</string>
+    <string name="contact_support_title">ଗ୍ରାହକ ସମର୍ଥନ</string>
+    <string name="contact_vip_support_title">VIP ଗ୍ରାହକ ସମର୍ଥନ |</string>
+    <string name="send">ପଠାନ୍ତୁ |</string>
+    <string name="personalized_ads">ବ୍ୟକ୍ତିଗତ ବିଜ୍ଞାପନ |</string>
+</resources>

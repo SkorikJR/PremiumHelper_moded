@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">مفت آزمائش شروع ڪريو</string>
+    <string name="ph_start_premium_cta">پريميئم شروع ڪريو</string>
+    <string name="sku_price_weekly_no_trial">{0}/هفتي</string>
+    <string name="sku_price_weekly_3d_trial">{0}/هفتو مفت 3 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_weekly_7d_trial">{0}/هفتو مفت 7 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ھفتو مفت 30 ڏينھن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_monthly_no_trial">{0}/مهينو</string>
+    <string name="sku_price_monthly_3d_trial">{0}/مهينو مفت 3 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_monthly_7d_trial">{0}/مهينو مفت 7 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_monthly_30d_trial">{0}/مهينو مفت 30 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_yearly_no_trial">{0}/سال</string>
+    <string name="sku_price_yearly_3d_trial">{0}/سال مفت 3 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_yearly_7d_trial">{0}/سال مفت 7 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_yearly_30d_trial">{0}/سال مفت 30 ڏينهن جي آزمائش کان پوءِ</string>
+    <string name="sku_price_default">{0} مفت آزمائش کان پوءِ</string>
+    <string name="sku_price_onetime">{0} ھڪڙي وقت جي ادائيگي</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">شروع ڪريو 3 ڏينهن جي مفت آزمائش</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 ڏينهن جي مفت آزمائش شروع ڪريو</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">شروع ڪريو مفت 30 ڏينهن جي آزمائش</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">توھان کي ڪيئن پسند آھي\nاسان جي ايپ؟</string>
+    <string name="rate_dialog_subtitle">اسان کي knowايو ته leavingڏڻ سان 5 اسٽار ريٽنگ</string>
+    <string name="rate_dialog_thanks">مهرباني!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">نڪرڻ جي تصديق ڪريو</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">پريميئم</string>
+    <string name="ph_offer_basic">بنيادي</string>
+    <string name="ph_start_free_trial">مفت آزمائش شروع ڪيو</string>
+    <string name="ph_start_like_pro">پرو وانگر شروع ڪريو</string>
+    <string name="ph_unlock_all_features">سڀئي خصوصيتون کوليو</string>
+    <string name="ph_try_limited">يا محدود ورزن جي ڪوشش ڪريو</string>
+    <string name="ph_limited_time_offer">محدود وقت جي آڇ</string>
+    <string name="ph_get_special_price">خاص قيمت حاصل ڪريو</string>
+    <string name="ph_one_time_payment">هڪ وقت جي ادائيگي</string>
+    <string name="ph_one_time_offer_name">زندگي گذارڻ واري پريميم</string>
+    <string name="ph_subscription_info">سبسڪرپشن خودڪار تجديد ٿي ويندي. ڪنهن به وقت منسوخ ڪريو.</string>
+    <string name="ph_terms_and_conditions">جاري رکڻ سان توھان متفق آھيو اسان جي <![CDATA[<a href="%1$s">شرطن</a>]]> ۽ <![CDATA[<a href="%2$s">رازداري</a>]]> پاليسين سان</string>
+    <string name="support_hint">مسئلو بيان ڪريو (گهٽ ۾ گهٽ 20 اکر)</string>
+    <string name="cancel">منسوخ ڪريو</string>
+    <string name="contact_support_title">ڪسٽمر سپورٽ</string>
+    <string name="contact_vip_support_title">VIP ڪسٽمر سپورٽ</string>
+    <string name="send">موڪليو</string>
+    <string name="personalized_ads">ذاتي اشتهار</string>
+</resources>

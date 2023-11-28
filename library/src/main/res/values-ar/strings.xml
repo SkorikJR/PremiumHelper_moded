@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ابدأ التجربة المجانية</string>
+    <string name="ph_start_premium_cta">ابدأ PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0} أسبوعيًا</string>
+    <string name="sku_price_weekly_3d_trial">{0} أسبوعيًا بعد الفترة التجريبية المجانية البالغة 3 أيام</string>
+    <string name="sku_price_weekly_7d_trial">{0} أسبوعيًا بعد الفترة التجريبية المجانية البالغة 7 أيام</string>
+    <string name="sku_price_weekly_30d_trial">{0} أسبوعيًا بعد الفترة التجريبية المجانية البالغة 30 يومًا</string>
+    <string name="sku_price_monthly_no_trial">{0}/شهر</string>
+    <string name="sku_price_monthly_3d_trial">{0}/شهريًا بعد الفترة التجريبية لمدة 3 أيام</string>
+    <string name="sku_price_monthly_7d_trial">{0}/شهريًا بعد الفترة التجريبية لمدة 7 أيام</string>
+    <string name="sku_price_monthly_30d_trial">{0}/شهريًا بعد الفترة التجريبية لمدة 30 يومًا</string>
+    <string name="sku_price_yearly_no_trial">{0}/سنويًا</string>
+    <string name="sku_price_yearly_3d_trial">{0}/سنويًا بعد الفترة التجريبية لمدة 3 أيام</string>
+    <string name="sku_price_yearly_7d_trial">{0}/سنويًا بعد الفترة التجريبية لمدة 7 أيام</string>
+    <string name="sku_price_yearly_30d_trial">{0}/سنويًا بعد الفترة التجريبية لمدة 30 يومًا</string>
+    <string name="sku_price_default">{0} بعد الفترة التجريبية المجانية</string>
+    <string name="sku_price_onetime">{0} يُدفع لمرة واحدة</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">بدء الفترة المجانية لمدة 3 أيام</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">بدء الفترة المجانية لمدة 7 أيام</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">بدء الفترة المجانية لمدة 30 يوما</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">هل يعجبك\nتطبيقنا؟</string>
+    <string name="rate_dialog_subtitle">أخبرنا بذلك عن طريق التقييم بـ 5 نجوم</string>
+    <string name="rate_dialog_thanks">شكرًا!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">تأكيد الخروج</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">بريميوم</string>
+    <string name="ph_offer_basic">أساسي</string>
+    <string name="ph_start_free_trial">بدء الفترة التجريبية المجانية</string>
+    <string name="ph_start_like_pro">ابدأ كالمحترفين</string>
+    <string name="ph_unlock_all_features">فتح كافة الميزات</string>
+    <string name="ph_try_limited">أو جرب الإصدار المحدود</string>
+    <string name="ph_limited_time_offer">عرض لفترة محدودة</string>
+    <string name="ph_get_special_price">احصل على سعر خاص</string>
+    <string name="ph_one_time_payment">الدفع مرة واحدة</string>
+    <string name="ph_one_time_offer_name">اشتراك بريميوم مدى الحياة</string>
+    <string name="ph_subscription_info">سيتجدد الاشتراك تلقائيًا، ويمكنك الإلغاء في أي وقت.</string>
+    <string name="ph_terms_and_conditions">بالمتابعة، أنت توافق على <![CDATA[<a href="%1$s">البنود</a>]]> وسياسات <![CDATA[<a href="%2$s">الخصوصية</a>]]></string>
+    <string name="support_hint">صِف المشكلة (20 حرفًا على الأقل)</string>
+    <string name="cancel">يلغي</string>
+    <string name="contact_support_title">دعم العملاء</string>
+    <string name="contact_vip_support_title">دعم عملاء VIP</string>
+    <string name="send">يرسل</string>
+    <string name="personalized_ads">إعلانات شخصية</string>
+</resources>

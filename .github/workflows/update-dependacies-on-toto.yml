@@ -1,0 +1,41 @@
+name: Update dependancies on TOTO
+
+on:
+  push:
+    tags:
+      - 'SKIP'
+#      - '*'
+jobs:
+  update-dependancies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - id: auth
+        name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v0
+        with:
+          credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v0
+        with:
+          project_id: boosty-server
+
+      - name: Install beta components for gcloud
+        run: |
+          gcloud components install beta --quiet
+
+      - name: Set env
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+      - name: Run the script
+        run: |
+          chmod +x ./.github/scripts/generate-id-token.sh
+          chmod +x ./.github/scripts/update-dependancies-on-toto.sh
+          token=$(./.github/scripts/generate-id-token.sh)
+          ./.github/scripts/update-dependancies-on-toto.sh  ${{ env.RELEASE_VERSION }} $token
+        shell: bash

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">MULAI COBA GRATIS</string>
+    <string name="ph_start_premium_cta">MULAI PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/minggu</string>
+    <string name="sku_price_weekly_3d_trial">{0}/minggu setelah coba GRATIS 3-hari</string>
+    <string name="sku_price_weekly_7d_trial">{0}/minggu setelah coba GRATIS 7-hari</string>
+    <string name="sku_price_weekly_30d_trial">{0}/minggu setelah coba GRATIS 30-hari</string>
+    <string name="sku_price_monthly_no_trial">{0}/bulan</string>
+    <string name="sku_price_monthly_3d_trial">{0}/bulan setelah percobaan GRATIS 3 hari</string>
+    <string name="sku_price_monthly_7d_trial">{0}/bulan setelah percobaan GRATIS 7 hari</string>
+    <string name="sku_price_monthly_30d_trial">{0}/bulan setelah percobaan GRATIS 30 hari</string>
+    <string name="sku_price_yearly_no_trial">{0}/tahun</string>
+    <string name="sku_price_yearly_3d_trial">{0}/tahun setelah percobaan GRATIS 3 hari</string>
+    <string name="sku_price_yearly_7d_trial">{0}/tahun setelah percobaan GRATIS 7 hari</string>
+    <string name="sku_price_yearly_30d_trial">{0}/tahun setelah percobaan GRATIS 30 hari</string>
+    <string name="sku_price_default">{0} setelah percobaan GRATIS</string>
+    <string name="sku_price_onetime">{0} pembayaran satu kali</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">MULAI UJI COBA GRATIS 3 HARI</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">MULAI UJI COBA GRATIS 7 HARI</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">MULAI UJI COBA GRATIS 30 HARI</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Apakah Anda suka aplikasi kami?</string>
+    <string name="rate_dialog_subtitle">Beri tahu kami dengan memberikan peringkat 5 bintang</string>
+    <string name="rate_dialog_thanks">Terima kasih!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Konfirmasi Keluar</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Standar</string>
+    <string name="ph_start_free_trial">Mulai uji coba gratis</string>
+    <string name="ph_start_like_pro">Mulai Layaknya Pro</string>
+    <string name="ph_unlock_all_features">Buka Semua Fitur</string>
+    <string name="ph_try_limited">atau coba versi terbatas</string>
+    <string name="ph_limited_time_offer">Penawaran terbatas</string>
+    <string name="ph_get_special_price">Dapatkan harga spesial</string>
+    <string name="ph_one_time_payment">Pembayaran satu kali</string>
+    <string name="ph_one_time_offer_name">Premium seumur hidup</string>
+    <string name="ph_subscription_info">Langganan akan diperpanjang secara otomatis. Batalkan kapan saja.</string>
+    <string name="ph_terms_and_conditions">Dengan melanjutkan, Anda menyetujui <![CDATA[<a href="%1$s">Syarat</a>]]> dan <![CDATA[<a href="%2$s">kebijakan Privasi</a>]]> kami</string>
+    <string name="support_hint">Jelaskan masalah (setidaknya 20 karakter)</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="contact_support_title">Dukungan Pelanggan</string>
+    <string name="contact_vip_support_title">Dukungan Pelanggan VIP</string>
+    <string name="send">Kirim</string>
+    <string name="personalized_ads">Iklan yang Dipersonalisasi</string>
+</resources>

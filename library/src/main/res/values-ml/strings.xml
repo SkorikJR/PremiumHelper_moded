@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">സ T ജന്യ പരീക്ഷണം ആരംഭിക്കുക</string>
+    <string name="ph_start_premium_cta">സ്റ്റാർട്ട് പ്രീമിയം</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ആഴ്ച</string>
+    <string name="sku_price_weekly_3d_trial">സ 3 ജന്യ 3 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_weekly_7d_trial">സ 7 ജന്യ 7 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_weekly_30d_trial">സ 30 ജന്യ 30 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ മാസം</string>
+    <string name="sku_price_monthly_3d_trial">സ 3 ജന്യ 3 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_monthly_7d_trial">സ 7 ജന്യ 7 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_monthly_30d_trial">സ 30 ജന്യ 30 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ വർഷം</string>
+    <string name="sku_price_yearly_3d_trial">സ 3 ജന്യ 3 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_yearly_7d_trial">സ 7 ജന്യ 7 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_yearly_30d_trial">സ 30 ജന്യ 30 ദിവസത്തെ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_default">സ trial ജന്യ ട്രയലിന് ശേഷം {0}</string>
+    <string name="sku_price_onetime">{0} ഒറ്റത്തവണ പേയ്‌മെന്റ്</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3 ദിവസത്തെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 ദിവസത്തെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30 ദിവസത്തെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">ഞങ്ങളുടെ അപ്ലിക്കേഷൻ\nഎങ്ങനെ ഇഷ്‌ടപ്പെടും?</string>
+    <string name="rate_dialog_subtitle">5 നക്ഷത്ര റേറ്റിംഗ് നൽകി ഞങ്ങളെ അറിയിക്കുക</string>
+    <string name="rate_dialog_thanks">നന്ദി!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">പുറത്തുകടക്കുന്നത് സ്ഥിരീകരിക്കുക</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">പ്രീമിയം</string>
+    <string name="ph_offer_basic">അടിസ്ഥാന</string>
+    <string name="ph_start_free_trial">സൗജന്യ ട്രയൽ ആരംഭിക്കുക</string>
+    <string name="ph_start_like_pro">ഒരു പ്രോ പോലെ ആരംഭിക്കുക</string>
+    <string name="ph_unlock_all_features">എല്ലാ സവിശേഷതകളും അൺലോക്കുചെയ്യുക</string>
+    <string name="ph_try_limited">അല്ലെങ്കിൽ പരിമിത പതിപ്പ് ശ്രമിക്കുക</string>
+    <string name="ph_limited_time_offer">പരിമിത സമയ ഓഫർ</string>
+    <string name="ph_get_special_price">പ്രത്യേക വില നേടുക</string>
+    <string name="ph_one_time_payment">ഒറ്റത്തവണ പേയ്മെന്റ്</string>
+    <string name="ph_one_time_offer_name">ആജീവനാന്ത പ്രീമിയം</string>
+    <string name="ph_subscription_info">സബ്സ്ക്രിപ്ഷൻ സ്വയം പുതുക്കും. എപ്പോൾ വേണമെങ്കിലും റദ്ദാക്കുക.</string>
+    <string name="ph_terms_and_conditions">തുടരുന്നതിലൂടെ നിങ്ങൾ ഞങ്ങളുടെ <![CDATA[<a href="%1$s">നിബന്ധനകൾ</a>]]> , <![CDATA[<a href="%2$s">സ്വകാര്യത</a>]]> നയങ്ങൾ അംഗീകരിക്കുന്നു</string>
+    <string name="support_hint">പ്രശ്നം വിവരിക്കുക (കുറഞ്ഞത് 20 പ്രതീകങ്ങളെങ്കിലും)</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="contact_support_title">ഉപഭോക്തൃ പിന്തുണ</string>
+    <string name="contact_vip_support_title">വിഐപി കസ്റ്റമർ സപ്പോർട്ട്</string>
+    <string name="send">അയക്കുക</string>
+    <string name="personalized_ads">വ്യക്തിപരമാക്കിയ പരസ്യങ്ങൾ</string>
+</resources>

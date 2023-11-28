@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">PULSUZ SINAĞA BAŞLA</string>
+    <string name="ph_start_premium_cta">PREMİUMA BAŞLA</string>
+    <string name="sku_price_weekly_no_trial">{0}/həftəlik</string>
+    <string name="sku_price_weekly_3d_trial">3 günlük PULSUZ sınaqdan sonra {0}/həftəlik</string>
+    <string name="sku_price_weekly_7d_trial">7 günlük PULSUZ sınaqdan sonra {0}/həftəlik</string>
+    <string name="sku_price_weekly_30d_trial">30 günlük PULSUZ sınaqdan sonra {0}/həftəlik</string>
+    <string name="sku_price_monthly_no_trial">{0}/aylıq</string>
+    <string name="sku_price_monthly_3d_trial">PULSUZ 3 günlük sınaqdan sonra {0}/aylıq</string>
+    <string name="sku_price_monthly_7d_trial">PULSUZ 7 günlük sınaqdan sonra {0}/aylıq</string>
+    <string name="sku_price_monthly_30d_trial">PULSUZ 30 günlük sınaqdan sonra {0}/aylıq</string>
+    <string name="sku_price_yearly_no_trial">{0}/illik</string>
+    <string name="sku_price_yearly_3d_trial">PULSUZ 3 günlük sınaqdan sonra {0}/illik</string>
+    <string name="sku_price_yearly_7d_trial">PULSUZ 7 günlük sınaqdan sonra {0}/illik</string>
+    <string name="sku_price_yearly_30d_trial">PULSUZ 30 günlük sınaqdan sonra {0}/illik</string>
+    <string name="sku_price_default">PULSUZ sınaqdan sonra {0}</string>
+    <string name="sku_price_onetime">{0} bir dəfəlik ödəniş</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3-GÜNLÜK PULSUZ SINAĞA BAŞLA</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7-GÜNLÜK PULSUZ SINAĞA BAŞLA</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30-GÜNLÜK PULSUZ SINAĞA BAŞLA</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Tətbiqimiz xoşunuza gəlir?</string>
+    <string name="rate_dialog_subtitle">5 ulduzlu qiymət qoyaraq bizi xəbərdar edin</string>
+    <string name="rate_dialog_thanks">Təşəkkürlər!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Çıxışı təsdiq et</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Baza</string>
+    <string name="ph_start_free_trial">Pulsuz sınağa başla</string>
+    <string name="ph_start_like_pro">Professional kimi başla</string>
+    <string name="ph_unlock_all_features">Bütün funksiyaları aktiv et</string>
+    <string name="ph_try_limited">ya da məhdud versiyanı sına</string>
+    <string name="ph_limited_time_offer">Məhdud müddətli təklif</string>
+    <string name="ph_get_special_price">Xüsusi qiymət al</string>
+    <string name="ph_one_time_payment">Bir dəfəlik ödəniş</string>
+    <string name="ph_one_time_offer_name">Ömürlük premium</string>
+    <string name="ph_subscription_info">Abunəlik avtomatik yenilənəcək. İstədiyin vaxt ləğv et.</string>
+    <string name="ph_terms_and_conditions">Davam etməklə bizim <![CDATA[<a href="%1$s">Şərt</a>]]> və <![CDATA[<a href="%2$s">Məxfilik</a>]]>siyasəti ilə razılaşmış olursunuz</string>
+    <string name="support_hint">Problemi təsvir edin (ən azı 20 simvol)</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="contact_support_title">Müştəri dəstəyi</string>
+    <string name="contact_vip_support_title">VIP Müştəri Dəstəyi</string>
+    <string name="send">Göndər</string>
+    <string name="personalized_ads">Fərdiləşdirilmiş Reklamlar</string>
+</resources>

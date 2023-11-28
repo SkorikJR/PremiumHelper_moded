@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="facebook_app_id" translatable="false">1666324870234684</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb330651121643791</string>
+
+    <string name="app_name">Premium Helper Sample</string>
+
+    <string name="ph_feature_1">Free Feature</string>
+    <string name="ph_feature_2">Free Feature</string>
+    <string name="ph_feature_3">Premium Feature</string>
+    <string name="ph_feature_4">Premium Feature</string>
+    <string name="ph_feature_5">Premium Feature</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="download_title">Download</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="notification_channel_id" translatable="false">"PREMIUM_HELPER_CHANNEL"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

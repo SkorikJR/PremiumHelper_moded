@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">DESTP FREEKIRINA BELA DEST BIKIN</string>
+    <string name="ph_start_premium_cta">PREMIUM DESTPK</string>
+    <string name="sku_price_weekly_no_trial">{0}/hefte</string>
+    <string name="sku_price_weekly_3d_trial">{0}/hefte piştî ceribandina 3-roj BELA</string>
+    <string name="sku_price_weekly_7d_trial">{0}/hefte piştî ceribandina 7-rojî ya BELA</string>
+    <string name="sku_price_weekly_30d_trial">{0}/hefte piştî ceribandina 30-roj BELA</string>
+    <string name="sku_price_monthly_no_trial">{0}/meh</string>
+    <string name="sku_price_monthly_3d_trial">{0}/meh piştî ceribandina 3-rojî ya BELA</string>
+    <string name="sku_price_monthly_7d_trial">{0}/meh piştî ceribandina 7-roj BELA</string>
+    <string name="sku_price_monthly_30d_trial">{0}/meh piştî ceribandina 30-roj BELA</string>
+    <string name="sku_price_yearly_no_trial">{0}/sal</string>
+    <string name="sku_price_yearly_3d_trial">{0}/sal piştî ceribandina 3-rojî ya BELA</string>
+    <string name="sku_price_yearly_7d_trial">{0}/sal piştî darizandina 7-rojî BELA</string>
+    <string name="sku_price_yearly_30d_trial">{0}/sal piştî ceribandina 30-roj BELA</string>
+    <string name="sku_price_default">{0} piştî darizandina BELA</string>
+    <string name="sku_price_onetime">{0} peredana yek carî</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">DESTPKIRINA 3-ROJ YA BELA DEST BIKIN</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">DESTPKIRINA 7-ROJ YA BELA DEST BIKIN</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">BRIXWNE B FREEXWNE B -XWNE B -XWNE B -XWNE</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hûn çawa ji serlêdana me\n</string>
+    <string name="rate_dialog_subtitle">Bi derketina nirxek 5 stêrkan ve me agahdar bikin</string>
+    <string name="rate_dialog_thanks">Spas!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Exit piştrast bikin</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Xelat</string>
+    <string name="ph_offer_basic">Bingehîn</string>
+    <string name="ph_start_free_trial">Ceribandina belaş dest pê bikin</string>
+    <string name="ph_start_like_pro">Destpêk Mîna Pêşniyarek</string>
+    <string name="ph_unlock_all_features">Hemî Taybetmendiyan vekin</string>
+    <string name="ph_try_limited">an guhertoyek bi sînor biceribîne</string>
+    <string name="ph_limited_time_offer">Pêşniyara demek kêm</string>
+    <string name="ph_get_special_price">Buhayê taybetî bistînin</string>
+    <string name="ph_one_time_payment">Yek carî dravdan</string>
+    <string name="ph_one_time_offer_name">Bihayê jiyanê</string>
+    <string name="ph_subscription_info">Abonetî dê bixweber nûve bibe. Betal her dem.</string>
+    <string name="ph_terms_and_conditions">Bi domandina we hûn bi <![CDATA[<a href="%1$s">şertên me</a>]]> û <![CDATA[<a href="%2$s">Taybetî</a>]]> polîtîkayên me razî dibin</string>
+    <string name="support_hint">Pirsgirêkê diyar bike (kêmtirîn 20 tîp)</string>
+    <string name="cancel">Bişûndekirin</string>
+    <string name="contact_support_title">Piştgiriya Mişterî</string>
+    <string name="contact_vip_support_title">Piştgiriya Xerîdar VIP</string>
+    <string name="send">Şandin</string>
+    <string name="personalized_ads">Reklamên kesane</string>
+</resources>

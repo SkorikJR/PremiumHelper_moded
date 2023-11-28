@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sku_weekly_prices">
+        <item>@string/sku_price_weekly_no_trial</item>
+        <item>@string/sku_price_weekly_3d_trial</item>
+        <item>@string/sku_price_weekly_7d_trial</item>
+        <item>@string/sku_price_weekly_30d_trial</item>
+    </string-array>
+
+    <string-array name="sku_monthly_prices">
+        <item>@string/sku_price_monthly_no_trial</item>
+        <item>@string/sku_price_monthly_3d_trial</item>
+        <item>@string/sku_price_monthly_7d_trial</item>
+        <item>@string/sku_price_monthly_30d_trial</item>
+    </string-array>
+
+    <string-array name="sku_yearly_prices">
+        <item>@string/sku_price_yearly_no_trial</item>
+        <item>@string/sku_price_yearly_3d_trial</item>
+        <item>@string/sku_price_yearly_7d_trial</item>
+        <item>@string/sku_price_yearly_30d_trial</item>
+    </string-array>
+
+    <string-array name="cta_titles">
+        <item>@string/ph_start_premium_cta</item>
+        <item>@string/ph_start_3_day_trial_cta</item>
+        <item>@string/ph_start_7_day_trial_cta</item>
+        <item>@string/ph_start_30_day_trial_cta</item>
+    </string-array>
+
+</resources>

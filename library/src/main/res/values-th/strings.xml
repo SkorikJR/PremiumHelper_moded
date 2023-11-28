@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">เริ่มทดลองใช้ฟรี</string>
+    <string name="ph_start_premium_cta">เริ่มต้นพรีเมียม</string>
+    <string name="sku_price_weekly_no_trial">{0}/สัปดาห์</string>
+    <string name="sku_price_weekly_3d_trial">{0}/สัปดาห์หลังจากทดลองใช้ฟรี 3 วัน</string>
+    <string name="sku_price_weekly_7d_trial">{0}/สัปดาห์หลังจากทดลองใช้ฟรี 7 วัน</string>
+    <string name="sku_price_weekly_30d_trial">{0}/สัปดาห์หลังจากทดลองใช้ฟรี 30 วัน</string>
+    <string name="sku_price_monthly_no_trial">{0}/เดือน</string>
+    <string name="sku_price_monthly_3d_trial">{0}/เดือน หลังจากทดลองใช้ฟรี 3 วัน</string>
+    <string name="sku_price_monthly_7d_trial">{0}/เดือน หลังจากทดลองใช้ฟรี 7 วัน</string>
+    <string name="sku_price_monthly_30d_trial">{0}/เดือน หลังจากทดลองใช้ฟรี 30 วัน</string>
+    <string name="sku_price_yearly_no_trial">{0}/ปี</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ปี หลังจากทดลองใช้ฟรี 3 วัน</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ปี หลังจากทดลองใช้ฟรี 7 วัน</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ปี หลังจากทดลองใช้ฟรี 30 วัน</string>
+    <string name="sku_price_default">{0} หลังจากทดลองใช้ฟรี</string>
+    <string name="sku_price_onetime">{0} ชำระเงินครั้งเดียว</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">เริ่มทดลองใช้ 3 วันฟรี</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">เริ่มทดลองใช้ 7 วันฟรี</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">เริ่มทดลองใช้ 30 วันฟรี</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">คุณชอบแอป\nของเราอย่างไร?</string>
+    <string name="rate_dialog_subtitle">บอกให้เราทราบด้วยการให้คะแนน 5 ดาว</string>
+    <string name="rate_dialog_thanks">ขอบคุณ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">ยืนยันการออก</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">พรีเมียม</string>
+    <string name="ph_offer_basic">พื้นฐาน</string>
+    <string name="ph_start_free_trial">เริ่มทดลองใช้ฟรี</string>
+    <string name="ph_start_like_pro">เริ่มใช้อย่างมืออาชีพ</string>
+    <string name="ph_unlock_all_features">ปลดล็อกฟีเจอร์ทั้งหมด</string>
+    <string name="ph_try_limited">หรือลองใช้รุ่นจำกัด</string>
+    <string name="ph_limited_time_offer">ข้อเสนอในเวลาจำกัด</string>
+    <string name="ph_get_special_price">รับราคาพิเศษ</string>
+    <string name="ph_one_time_payment">การชำระเงินครั้งเดียว</string>
+    <string name="ph_one_time_offer_name">พรีเมียมแบบตลอดชีพ</string>
+    <string name="ph_subscription_info">ต่ออายุสมาชิกโดยอัตโนมัติ สามารถยกเลิกได้ทุกเมื่อ</string>
+    <string name="ph_terms_and_conditions">หากดำเนินการต่อ คุณตกลงยอมรับ <![CDATA[<a href="%1$s">ข้อตกลง</a>]]> และ<![CDATA[<a href="%2$s">นโยบายความเป็นส่วนตัว</a>]]> ของเรา</string>
+    <string name="support_hint">อธิบายปัญหา (อย่างน้อย 20 ตัวอักษร)</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="contact_support_title">สนับสนุนลูกค้า</string>
+    <string name="contact_vip_support_title">ฝ่ายบริการลูกค้าวีไอพี</string>
+    <string name="send">ส่ง</string>
+    <string name="personalized_ads">โฆษณาส่วนบุคคล</string>
+</resources>

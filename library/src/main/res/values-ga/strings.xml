@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">TOSAIGH TRIAL SAOR IN AISCE</string>
+    <string name="ph_start_premium_cta">TOSAIGH PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ seachtain</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ seachtain tar éis triail 3 lá SAOR IN AISCE</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ seachtain tar éis triail 7 lá SAOR IN AISCE</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ seachtain tar éis triail 30 lá SAOR IN AISCE</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mí</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mí tar éis triail 3 lá SAOR IN AISCE</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mí tar éis triail 7 lá SAOR IN AISCE</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mí tar éis triail 30 lá SAOR IN AISCE</string>
+    <string name="sku_price_yearly_no_trial">{0}/ bliain</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ bliain tar éis triail 3 lá SAOR IN AISCE</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ bliain tar éis triail 7 lá SAOR IN AISCE</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ bliain tar éis triail 30 lá SAOR IN AISCE</string>
+    <string name="sku_price_default">{0} tar éis triail SAOR IN AISCE</string>
+    <string name="sku_price_onetime">{0} íocaíocht aon-uaire</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">TOSAIGH TRIAL 3-LÁ SAOR IN AISCE</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">TOSAIGH TRIAL 7-LÁ SAOR IN AISCE</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">TOSAIGH TRIAL 30-LÁ SAOR IN AISCE</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Conas is fearr leat\nár n-aip?</string>
+    <string name="rate_dialog_subtitle">Cuir in iúl dúinn trí rátáil 5 réalta a fhágáil</string>
+    <string name="rate_dialog_thanks">Go raibh maith agat!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Deimhnigh Scoir</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Préimh</string>
+    <string name="ph_offer_basic">Bunúsach</string>
+    <string name="ph_start_free_trial">Tosaigh triail saor in aisce</string>
+    <string name="ph_start_like_pro">Tosaigh Cosúil le Pro</string>
+    <string name="ph_unlock_all_features">Díghlasáil Gach Gné</string>
+    <string name="ph_try_limited">nó bain triail as leagan teoranta</string>
+    <string name="ph_limited_time_offer">Tairiscint ama teoranta</string>
+    <string name="ph_get_special_price">Faigh praghas speisialta</string>
+    <string name="ph_one_time_payment">Íocaíocht ama amháin</string>
+    <string name="ph_one_time_offer_name">Préimh saoil</string>
+    <string name="ph_subscription_info">Déanfaidh an síntiús athnuachan uathoibríoch. Cealaigh am ar bith.</string>
+    <string name="ph_terms_and_conditions">Trí leanúint ar aghaidh aontaíonn tú lenár mbeartais <![CDATA[<a href="%1$s">Téarmaí</a>]]> agus <![CDATA[<a href="%2$s">Príobháideacht</a>]]></string>
+    <string name="support_hint">Déan cur síos ar an gceist (20 carachtar ar a laghad)</string>
+    <string name="cancel">Cealaigh</string>
+    <string name="contact_support_title">Tacaíocht chustaiméirí</string>
+    <string name="contact_vip_support_title">Tacaíocht VIP do Chustaiméirí</string>
+    <string name="send">Seol</string>
+    <string name="personalized_ads">Fógraí Pearsanta</string>
+</resources>

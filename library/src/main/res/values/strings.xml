@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">START FREE TRIAL</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/week</string>
+    <string name="sku_price_weekly_3d_trial">{0}/week after FREE 3-day trial</string>
+    <string name="sku_price_weekly_7d_trial">{0}/week after FREE 7-day trial</string>
+    <string name="sku_price_weekly_30d_trial">{0}/week after FREE 30-day trial</string>
+    <string name="sku_price_monthly_no_trial">{0}/month</string>
+    <string name="sku_price_monthly_3d_trial">{0}/month after FREE 3-day trial</string>
+    <string name="sku_price_monthly_7d_trial">{0}/month after FREE 7-day trial</string>
+    <string name="sku_price_monthly_30d_trial">{0}/month after FREE 30-day trial</string>
+    <string name="sku_price_yearly_no_trial">{0}/year</string>
+    <string name="sku_price_yearly_3d_trial">{0}/year after FREE 3-day trial</string>
+    <string name="sku_price_yearly_7d_trial">{0}/year after FREE 7-day trial</string>
+    <string name="sku_price_yearly_30d_trial">{0}/year after FREE 30-day trial</string>
+    <string name="sku_price_default">{0} after FREE trial</string>
+    <string name="sku_price_onetime">{0} one-time payment</string>
+
+    <string name="ph_start_3_day_trial_cta">START FREE 3-DAY TRIAL</string>
+    <string name="ph_start_7_day_trial_cta">START FREE 7-DAY TRIAL</string>
+    <string name="ph_start_30_day_trial_cta">START FREE 30-DAY TRIAL</string>
+
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">How do you like\nour app?</string>
+    <string name="rate_dialog_subtitle">Let us know by leaving a 5 star rating</string>
+    <string name="rate_dialog_thanks">Thanks!</string>
+
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Confirm Exit</string>
+
+    <string name="native_ads_ad" translatable="false">Ad</string>
+
+    <string name="sample_terms_and_conditions" translatable="false">By continuing you agree to our <a href="https://appboosty.com">Terms</a> and <a href="https://appboosty.com">Privacy</a> policies</string>
+
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basic</string>
+    <string name="ph_start_free_trial">Start free trial</string>
+    <string name="ph_start_like_pro">Start Like a Pro</string>
+    <string name="ph_unlock_all_features">Unlock All Features</string>
+    <string name="ph_try_limited">or try limited version</string>
+    <string name="ph_limited_time_offer">Limited time offer</string>
+    <string name="ph_get_special_price">Get special price</string>
+    <string name="ph_one_time_payment">One time payment</string>
+    <string name="ph_one_time_offer_name">Lifetime premium</string>
+    <string name="ph_subscription_info">Subscription will auto-renew. Cancel anytime.</string>
+    <string name="ph_terms_and_conditions">By continuing you agree to our <![CDATA[<a href="%1$s">Terms</a>]]> and <![CDATA[<a href="%2$s">Privacy</a>]]> policies</string>
+    <string name="support_hint">Describe the issue (at least 20 characters)</string>
+    <string name="cancel">Cancel</string>
+    <string name="contact_support_title">Customer Support</string>
+    <string name="contact_vip_support_title">VIP Customer Support</string>
+    <string name="send">Send</string>
+
+    <string name="personalized_ads">Personalized Ads</string>
+
+</resources>

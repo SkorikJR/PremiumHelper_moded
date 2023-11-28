@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ÜCRETSİZ DENEMEYE BAŞLA</string>
+    <string name="ph_start_premium_cta">PREMIUM\'U BAŞLAT</string>
+    <string name="sku_price_weekly_no_trial">haftalık {0}</string>
+    <string name="sku_price_weekly_3d_trial">3 günlük ÜCRETSİZ denemeden sonra haftalık {0}</string>
+    <string name="sku_price_weekly_7d_trial">7 günlük ÜCRETSİZ denemeden sonra haftalık {0}</string>
+    <string name="sku_price_weekly_30d_trial">30 günlük ÜCRETSİZ denemeden sonra haftalık {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ay</string>
+    <string name="sku_price_monthly_3d_trial">3 günlük ÜCRETSİZ denemeden sonra aylık {0}</string>
+    <string name="sku_price_monthly_7d_trial">7 günlük ÜCRETSİZ denemeden sonra aylık {0}</string>
+    <string name="sku_price_monthly_30d_trial">30 günlük ÜCRETSİZ denemeden sonra aylık {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/yıl</string>
+    <string name="sku_price_yearly_3d_trial">3 günlük ÜCRETSİZ denemeden sonra yıllık {0}</string>
+    <string name="sku_price_yearly_7d_trial">7 günlük ÜCRETSİZ denemeden sonra yıllık {0}</string>
+    <string name="sku_price_yearly_30d_trial">30 günlük ÜCRETSİZ denemeden sonra yıllık {0}</string>
+    <string name="sku_price_default">ÜCRETSİZ denemeden sonra {0}</string>
+    <string name="sku_price_onetime">Tek seferlik ödeme {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3 GÜN ÜCRETSİZ DENEMEYİ BAŞLAT</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 GÜN ÜCRETSİZ DENEMEYİ BAŞLAT</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30 GÜN ÜCRETSİZ DENEMEYİ BAŞLAT</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Nasıl? Uygulamamızdan hoşlandın mı?</string>
+    <string name="rate_dialog_subtitle">Bize 5 yıldız puan vererek bildirebilirsin</string>
+    <string name="rate_dialog_thanks">Teşekkürler!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Çıkışı Onayla</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Temel</string>
+    <string name="ph_start_free_trial">Ücretsiz denemeyi başlat</string>
+    <string name="ph_start_like_pro">Profesyonel Gibi Başla</string>
+    <string name="ph_unlock_all_features">Tüm Özelliklerin Kilidini Aç</string>
+    <string name="ph_try_limited">veya sınırlı sürümü dene</string>
+    <string name="ph_limited_time_offer">Sınırlı süreli teklif</string>
+    <string name="ph_get_special_price">Özel fiyat al</string>
+    <string name="ph_one_time_payment">Tek seferlik ödeme</string>
+    <string name="ph_one_time_offer_name">Ömür boyu premium</string>
+    <string name="ph_subscription_info">Abonelik otomatik olarak yenilenecek. Dilediğin zaman iptal et.</string>
+    <string name="ph_terms_and_conditions">Devam ederek <![CDATA[<a href="%1$s">Şartlar</a>]]> ve <![CDATA[<a href="%2$s">Gizlilik</a>]]> politikaları bölümlerimizi kabul edersin</string>
+    <string name="support_hint">Sorunu açıklayın (en az 20 karakter)</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="contact_support_title">Müşteri desteği</string>
+    <string name="contact_vip_support_title">VIP Müşteri Desteği</string>
+    <string name="send">Göndermek</string>
+    <string name="personalized_ads">Kişiselleştirilmiş Reklamlar</string>
+</resources>

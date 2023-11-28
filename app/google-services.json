@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451670604565",
+    "project_id": "boosty-sample-app",
+    "storage_bucket": "boosty-sample-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451670604565:android:3bc5d13721ea3670f5071c",
+        "android_client_info": {
+          "package_name": "com.appboosty.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451670604565-3q6mrnvb2p7cp08mehbcq901nr4nkm97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appboosty.sampleapp",
+            "certificate_hash": "3f9ae253e9d709e5b8164a9bb70e65666f33fdb1"
+          }
+        },
+        {
+          "client_id": "451670604565-ebr0vo1q9bvlprit5ele3bmsb8e50een.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFuhZQHPwnok15O8eV3X4wYXSRW_HEoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451670604565-ebr0vo1q9bvlprit5ele3bmsb8e50een.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

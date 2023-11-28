@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">START GRATIS PRØVNING</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ uge</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ uge efter GRATIS 3-dages prøveperiode</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ uge efter GRATIS 7-dages prøveperiode</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ uge efter GRATIS 30-dages prøveperiode</string>
+    <string name="sku_price_monthly_no_trial">{0}/ måned</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ måned efter GRATIS 3-dages prøveperiode</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ måned efter GRATIS 7-dages prøveperiode</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ måned efter GRATIS 30-dages prøveperiode</string>
+    <string name="sku_price_yearly_no_trial">{0}/ år</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ år efter GRATIS 3-dages prøveperiode</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ år efter GRATIS 7-dages prøveperiode</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ år efter GRATIS 30-dages prøveperiode</string>
+    <string name="sku_price_default">{0} efter GRATIS prøveperiode</string>
+    <string name="sku_price_onetime">{0} engangsbetaling</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">START GRATIS 3-DAGES PRØVE</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">START GRATIS 7-DAGES PRØVE</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">START GRATIS 30-DAGES PRØVE</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hvordan kan du lide\nvores app?</string>
+    <string name="rate_dialog_subtitle">Giv os besked ved at give en 5-stjernet vurdering</string>
+    <string name="rate_dialog_thanks">Tak!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Bekræft Afslut</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Præmie</string>
+    <string name="ph_offer_basic">Grundlæggende</string>
+    <string name="ph_start_free_trial">Start gratis prøveperiode</string>
+    <string name="ph_start_like_pro">Start som en proff</string>
+    <string name="ph_unlock_all_features">Lås alle funktioner op</string>
+    <string name="ph_try_limited">eller prøv begrænset version</string>
+    <string name="ph_limited_time_offer">Tidsbegrænset tilbud</string>
+    <string name="ph_get_special_price">Få en særlig pris</string>
+    <string name="ph_one_time_payment">Engangsbetaling</string>
+    <string name="ph_one_time_offer_name">Livstids præmie</string>
+    <string name="ph_subscription_info">Abonnement fornyes automatisk. Annuller når som helst.</string>
+    <string name="ph_terms_and_conditions">Ved at fortsætte accepterer du vores <![CDATA[<a href="%1$s">Vilkår</a>]]> og <![CDATA[<a href="%2$s">Fortrolighed</a>]]> politikker</string>
+    <string name="support_hint">Beskriv problemet (mindst 20 tegn)</string>
+    <string name="cancel">Afbestille</string>
+    <string name="contact_support_title">Kunde support</string>
+    <string name="contact_vip_support_title">VIP kundesupport</string>
+    <string name="send">Sende</string>
+    <string name="personalized_ads">Personlige annoncer</string>
+</resources>

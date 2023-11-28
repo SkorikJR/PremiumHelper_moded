@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">무료 체험 시작</string>
+    <string name="ph_start_premium_cta">프리미엄 시작</string>
+    <string name="sku_price_weekly_no_trial">{0}/주</string>
+    <string name="sku_price_weekly_3d_trial">3일 무료 체험 후 {0}/주</string>
+    <string name="sku_price_weekly_7d_trial">7일 무료 체험 후 {0}/주</string>
+    <string name="sku_price_weekly_30d_trial">30일 무료 체험 후 {0}/주</string>
+    <string name="sku_price_monthly_no_trial">{0}/월</string>
+    <string name="sku_price_monthly_3d_trial">3일 무료 체험 후 {0}/월</string>
+    <string name="sku_price_monthly_7d_trial">7일 무료 체험 후 {0}/월</string>
+    <string name="sku_price_monthly_30d_trial">30일 무료 체험 후 {0}/월</string>
+    <string name="sku_price_yearly_no_trial">{0}/년</string>
+    <string name="sku_price_yearly_3d_trial">3일 무료 체험 후 {0}/년</string>
+    <string name="sku_price_yearly_7d_trial">7일 무료 체험 후 {0}/년</string>
+    <string name="sku_price_yearly_30d_trial">30일 무료 체험 후 {0}/년</string>
+    <string name="sku_price_default">무료 체험 후 {0}</string>
+    <string name="sku_price_onetime">일시불 {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">무료 3일 평가판 시작</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">무료 7일 평가판 시작</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30일 무료 평가판 시작</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">이 앱에 대해\n평가해주시겠습니까?</string>
+    <string name="rate_dialog_subtitle">별 5개를 남겨주시면 감사하겠습니다</string>
+    <string name="rate_dialog_thanks">감사합니다!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">종료 확인</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">프리미엄</string>
+    <string name="ph_offer_basic">기본</string>
+    <string name="ph_start_free_trial">무료 평가판 시작</string>
+    <string name="ph_start_like_pro">프로처럼 시작하기</string>
+    <string name="ph_unlock_all_features">모든 기능 잠금 해제</string>
+    <string name="ph_try_limited">또는 제한된 버전을 사용해보십시오</string>
+    <string name="ph_limited_time_offer">기간 한정 제공</string>
+    <string name="ph_get_special_price">특별 가격 받기</string>
+    <string name="ph_one_time_payment">일시불</string>
+    <string name="ph_one_time_offer_name">평생 프리미엄</string>
+    <string name="ph_subscription_info">구독은 자동 갱신됩니다. 언제든지 취소하세요.</string>
+    <string name="ph_terms_and_conditions">계속하면 <![CDATA[<a href="%1$s">이용 약관</a>]]> 및 <![CDATA[<a href="%2$s">개인정보</a>]]> 취급방침에 동의하는 것입니다</string>
+    <string name="support_hint">문제 설명(최소 20자)</string>
+    <string name="cancel">취소</string>
+    <string name="contact_support_title">고객 지원</string>
+    <string name="contact_vip_support_title">VIP 고객 지원</string>
+    <string name="send">보내다</string>
+    <string name="personalized_ads">맞춤 광고</string>
+</resources>

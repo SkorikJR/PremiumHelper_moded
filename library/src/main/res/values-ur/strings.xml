@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">مفت ٹرائل شروع کریں</string>
+    <string name="ph_start_premium_cta">پریمیم شروع کریں</string>
+    <string name="sku_price_weekly_no_trial">{0}/ہفتہ</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ہفتہ 3 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ہفتہ 7 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ہفتہ 30 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_monthly_no_trial">{0}/مہینہ</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ماہ 3 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ماہ 7 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ماہ 30 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_yearly_no_trial">{0}/سال</string>
+    <string name="sku_price_yearly_3d_trial">{0}/سال 3 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_yearly_7d_trial">{0}/سال 7 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_yearly_30d_trial">{0}/سال 30 دن کے مفت ٹرائل کے بعد</string>
+    <string name="sku_price_default">{0} مفت ٹرائل کے بعد</string>
+    <string name="sku_price_onetime">{0} ایک بار ادائیگی</string>
+
+    <string name="ph_start_3_day_trial_cta">3 دن کا مفت ٹرائل شروع کریں</string>
+    <string name="ph_start_7_day_trial_cta">7 دن کا مفت ٹرائل شروع کریں</string>
+    <string name="ph_start_30_day_trial_cta">30 دن کا مفت ٹرائل شروع کریں</string>
+
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">آپ کو ہماری ایپ کیسی\nلگتی ہے؟</string>
+    <string name="rate_dialog_subtitle">5 اسٹار ریٹنگ دے کر ہمیں بتائیں</string>
+    <string name="rate_dialog_thanks">شکریہ!</string>
+
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">باہر نکلنے کی تصدیق کریں</string>
+
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">پریمیم</string>
+    <string name="ph_offer_basic">سادہ</string>
+    <string name="ph_start_free_trial">مفت ٹرائل شروع کریں</string>
+    <string name="ph_start_like_pro">ایک پیشہ ور کی طرح شروعات لیں</string>
+    <string name="ph_unlock_all_features">تمام خصوصیات کو ان لاک کریں</string>
+    <string name="ph_try_limited">یا محدود ورژن آزمائیں</string>
+    <string name="ph_limited_time_offer">محدود وقت کی پیشکش</string>
+    <string name="ph_get_special_price">خصوصی قیمت پائیں</string>
+    <string name="ph_one_time_payment">ایک بار کی ادائیگی</string>
+    <string name="ph_one_time_offer_name">لائف ٹائم پریمیم</string>
+    <string name="ph_subscription_info">سبسکرپشن کی خود بخود تجدید ہو جائے گی۔ کسی بھی وقت منسوخ کریں۔</string>
+    <string name="ph_terms_and_conditions">جاری رکھ کر آپ ہماری <![CDATA[ <a href="%1$s">شرائط</a> ]]> اور <![CDATA[ <a href="%2$s">رازداری کی</a> ]]> پالیسیوں سے اتفاق کرتے ہیں</string>
+    <string name="support_hint">مسئلہ کی وضاحت کریں (کم از کم 20 حروف)</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="contact_support_title">کسٹمر سپورٹ</string>
+    <string name="contact_vip_support_title">VIP کسٹمر سپورٹ</string>
+    <string name="send">بھیجیں</string>
+    <string name="personalized_ads">ذاتی نوعیت کے اشتہارات</string>
+</resources>

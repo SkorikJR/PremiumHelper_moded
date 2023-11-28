@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">विनामूल्य चाचणी प्रारंभ करा</string>
+    <string name="ph_start_premium_cta">प्रीमियम प्रारंभ करा</string>
+    <string name="sku_price_weekly_no_trial">{0}/ आठवडा</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ आठवड्यात विनामूल्य 3-दिवसांच्या चाचणी नंतर</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ आठवड्यात विनामूल्य 7-दिवसांच्या चाचणी नंतर</string>
+    <string name="sku_price_weekly_30d_trial">30 दिवसांच्या चाचणीनंतर {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ महिना</string>
+    <string name="sku_price_monthly_3d_trial">विनामूल्य / 3 दिवसांच्या चाचणीनंतर {0}</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ महिना विनामूल्य 7-दिवसांच्या चाचणी नंतर</string>
+    <string name="sku_price_monthly_30d_trial">30 / दिवसाच्या चाचणी नंतर {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ वर्ष</string>
+    <string name="sku_price_yearly_3d_trial">विनामूल्य / 3 दिवसांच्या चाचणीनंतर {0}</string>
+    <string name="sku_price_yearly_7d_trial">7 दिवसांच्या चाचणीनंतर {0}</string>
+    <string name="sku_price_yearly_30d_trial">30-दिवसाच्या चाचणीनंतर {0}</string>
+    <string name="sku_price_default">{0} विनामूल्य चाचणी नंतर</string>
+    <string name="sku_price_onetime">{0} एक-वेळ देय</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">विनामूल्य 3-दिवस चाचणी सुरू करा</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">विनामूल्य 7-दिवस चाचणी सुरू करा</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">विनामूल्य 30-दिवस चाचणी सुरू करा</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">\nआमचे अ‍ॅप कसे आवडते?</string>
+    <string name="rate_dialog_subtitle">5 स्टार रेटिंग देऊन आम्हाला कळवा</string>
+    <string name="rate_dialog_thanks">धन्यवाद!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">बाहेर पडण्याची पुष्टी करा</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">प्रीमियम</string>
+    <string name="ph_offer_basic">मूलभूत</string>
+    <string name="ph_start_free_trial">विनामूल्य चाचणी सुरू करा</string>
+    <string name="ph_start_like_pro">प्रो सारखे प्रारंभ करा</string>
+    <string name="ph_unlock_all_features">सर्व वैशिष्ट्ये अनलॉक करा</string>
+    <string name="ph_try_limited">किंवा मर्यादित आवृत्ती वापरून पहा</string>
+    <string name="ph_limited_time_offer">मर्यादित वेळेची ऑफर</string>
+    <string name="ph_get_special_price">विशेष किंमत मिळवा</string>
+    <string name="ph_one_time_payment">एक वेळ पेमेंट</string>
+    <string name="ph_one_time_offer_name">आजीवन प्रीमियम</string>
+    <string name="ph_subscription_info">सदस्यता स्वयं-नूतनीकरण होईल. कधीही रद्द करा.</string>
+    <string name="ph_terms_and_conditions">सुरू ठेवून तुम्ही आमच्या <![CDATA[<a href="%1$s">अटी</a>]]> आणि <![CDATA[<a href="%2$s">गोपनीयता</a>]]> धोरणांना सहमती देता</string>
+    <string name="support_hint">समस्येचे वर्णन करा (किमान 20 वर्ण)</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="contact_support_title">ग्राहक सेवा</string>
+    <string name="contact_vip_support_title">व्हीआयपी ग्राहक समर्थन</string>
+    <string name="send">पाठवा</string>
+    <string name="personalized_ads">वैयक्तिकृत जाहिराती</string>
+</resources>

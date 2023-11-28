@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">BIDU PROVA B\'XEJN</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ ġimgħa</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ ġimgħa wara prova ta \'3 ijiem B\'XEJN</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ ġimgħa wara prova ta \'7 ijiem B\'XEJN</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ ġimgħa wara prova B\'XEJN ta \'30 jum</string>
+    <string name="sku_price_monthly_no_trial">{0}/ xahar</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ xahar wara l-prova B\'XEJN ta \'3 ijiem</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ xahar wara prova ta \'7 ijiem B\'XEJN</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ xahar wara prova B\'XEJN ta \'30 jum</string>
+    <string name="sku_price_yearly_no_trial">{0}/ sena</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ sena wara prova ta \'3 ijiem B\'XEJN</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ sena wara prova ta \'7 ijiem B\'XEJN</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ sena wara prova B\'XEJN ta \'30 jum</string>
+    <string name="sku_price_default">{0} wara prova B\'XEJN</string>
+    <string name="sku_price_onetime">{0} ħlas ta \'darba</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Ibda PROVA B\'XEJN TA \'3 IJIEM</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Ibda PROVA B\'XEJN TA \'7 IJIEM</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Ibda PROVA B\'XEJN TA \'30 JUM</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kif tħobb l-\n-app tagħna?</string>
+    <string name="rate_dialog_subtitle">Għidilna billi tħalli klassifikazzjoni ta \'5 stilel</string>
+    <string name="rate_dialog_thanks">Grazzi!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Ikkonferma Ħruġ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Primjum</string>
+    <string name="ph_offer_basic">Bażiku</string>
+    <string name="ph_start_free_trial">Ibda prova b\'xejn</string>
+    <string name="ph_start_like_pro">Ibda Bħal Pro</string>
+    <string name="ph_unlock_all_features">Nisfruttaw il-Karatteristiċi Kollha</string>
+    <string name="ph_try_limited">jew ipprova verżjoni limitata</string>
+    <string name="ph_limited_time_offer">Offerta ta \'żmien limitat</string>
+    <string name="ph_get_special_price">Ikseb prezz speċjali</string>
+    <string name="ph_one_time_payment">Ħlas ta \'darba</string>
+    <string name="ph_one_time_offer_name">Primjum tul il-ħajja</string>
+    <string name="ph_subscription_info">L-abbonament jiġġedded awtomatikament. Ikkanċella ghaċ.</string>
+    <string name="ph_terms_and_conditions">Jekk tkompli taqbel mal-politiki <![CDATA[<a href="%1$s">Termini</a>]]> u <![CDATA[<a href="%2$s">Privatezza</a>]]></string>
+    <string name="support_hint">Iddeskrivi l-kwistjoni (mill-inqas 20 karattru)</string>
+    <string name="cancel">Ikkanċella</string>
+    <string name="contact_support_title">Appoġġ għall-Klijent</string>
+    <string name="contact_vip_support_title">Appoġġ għall-Klijent VIP</string>
+    <string name="send">Ibgħat</string>
+    <string name="personalized_ads">Reklami Personalizzati</string>
+</resources>

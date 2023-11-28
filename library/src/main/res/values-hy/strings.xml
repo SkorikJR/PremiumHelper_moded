@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ՍԿՍԵՔ ԱՆՎԱՐ ՓՈՐՁ</string>
+    <string name="ph_start_premium_cta">ՍԿՍԵՔ ՊՐԵՄԻՈՒՄ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ շաբաթ</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ շաբաթ ԱՆՎԱՐ 3-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ շաբաթ ԱՆՎԱՐ 7-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ շաբաթ ԱՆՎԱՐ 30-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ամիս</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ ամիս ԱՆՎԱՐ 3-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ ամիս ԱՆՎԱՐ 7-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ ամիս 30-օրյա ԱՆՎԱՐ փորձարկումից հետո</string>
+    <string name="sku_price_yearly_no_trial">{0}/ տարի</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ տարի ԱՆՎԱՐ 3-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ տարի ԱՆՎԱՐ 7-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ տարի ԱՆՎԱՐ 30-օրյա փորձարկումից հետո</string>
+    <string name="sku_price_default">{0} ԱՆՎԱՐ փորձարկումից հետո</string>
+    <string name="sku_price_onetime">{0} միանվագ վճար</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ՍԿՍԵՔ ԱՆՎԱՐ 3-օրյա փորձություն</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ՍԿՍԵՔ ԱՆՎԱՐ 7-օրյա դատավարությունը</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ՍԿՍԵԼ ԱՆՎԱՐ 30-օրյա փորձություն</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Ինչպե՞ս եք սիրում\nմեր ծրագիրը:</string>
+    <string name="rate_dialog_subtitle">Տեղեկացրեք մեզ ՝ թողնելով 5 աստղանի վարկանիշ</string>
+    <string name="rate_dialog_thanks">Շնորհակալություն</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Հաստատել Ելքը</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Հավելավճար</string>
+    <string name="ph_offer_basic">Հիմնական</string>
+    <string name="ph_start_free_trial">Սկսեք անվճար փորձաշրջան</string>
+    <string name="ph_start_like_pro">Սկսեք Pro- ի նման</string>
+    <string name="ph_unlock_all_features">Բացել բոլոր հատկությունները</string>
+    <string name="ph_try_limited">կամ փորձեք սահմանափակ տարբերակ</string>
+    <string name="ph_limited_time_offer">Սահմանափակ ժամանակի առաջարկ</string>
+    <string name="ph_get_special_price">Ստացեք հատուկ գին</string>
+    <string name="ph_one_time_payment">Մեկանգամյա վճարում</string>
+    <string name="ph_one_time_offer_name">Ցմահ պրեմիում</string>
+    <string name="ph_subscription_info">Բաժանորդագրությունը ինքնաբերաբար կթարմացվի: Չեղարկել ցանկացած պահի:</string>
+    <string name="ph_terms_and_conditions">Շարունակելով ՝ դուք համաձայնում եք մեր <![CDATA[<a href="%1$s">Պայմաններին</a>]]> և <![CDATA[<a href="%2$s">Գաղտնիության</a>]]> քաղաքականություններին</string>
+    <string name="support_hint">Նկարագրեք խնդիրը (առնվազն 20 նիշ)</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="contact_support_title">Հաճախորդների աջակցում</string>
+    <string name="contact_vip_support_title">VIP հաճախորդների սպասարկում</string>
+    <string name="send">Ուղարկել</string>
+    <string name="personalized_ads">Անհատականացված գովազդ</string>
+</resources>

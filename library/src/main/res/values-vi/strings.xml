@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">BẮT ĐẦU DÙNG THỬ MIỄN PHÍ</string>
+    <string name="ph_start_premium_cta">BẮT ĐẦU DÙNG PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/tuần</string>
+    <string name="sku_price_weekly_3d_trial">{0}/tuần sau 3 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_weekly_7d_trial">{0}/tuần sau 7 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_weekly_30d_trial">{0}/tuần sau 30 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_monthly_no_trial">{0}/tháng</string>
+    <string name="sku_price_monthly_3d_trial">{0}/tháng sau 3 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_monthly_7d_trial">{0}/tháng sau 7 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_monthly_30d_trial">{0}/tháng sau 30 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_yearly_no_trial">{0}/năm</string>
+    <string name="sku_price_yearly_3d_trial">{0}/năm sau 3 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_yearly_7d_trial">{0}/năm sau 7 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_yearly_30d_trial">{0}/năm sau 30 ngày dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_default">{0} sau khi dùng thử MIỄN PHÍ</string>
+    <string name="sku_price_onetime">Thanh toán một lần {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3 NGÀY DÙNG THỬ MIỄN PHÍ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 NGÀY DÙNG THỬ MIỄN PHÍ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30 NGÀY DÙNG THỬ MIỄN PHÍ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Bạn có thích ứng dụng của chúng tôi không?</string>
+    <string name="rate_dialog_subtitle">Hãy cho chúng tôi biết bằng cách xếp hạng 5 sao</string>
+    <string name="rate_dialog_thanks">Xin cảm ơn!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Xác Nhận Thoát</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Cao cấp</string>
+    <string name="ph_offer_basic">Cơ bản</string>
+    <string name="ph_start_free_trial">Bắt đầu dùng thử miễn phí</string>
+    <string name="ph_start_like_pro">Bắt Đầu Như Một Chuyên Gia</string>
+    <string name="ph_unlock_all_features">Mở Khóa Tất Cả Tính Năng</string>
+    <string name="ph_try_limited">hoặc dùng thử phiên bản giới hạn</string>
+    <string name="ph_limited_time_offer">Ưu đãi trong thời gian có hạn</string>
+    <string name="ph_get_special_price">Nhận mức giá đặc biệt</string>
+    <string name="ph_one_time_payment">Thanh toán một lần</string>
+    <string name="ph_one_time_offer_name">Cao cấp trọn đời</string>
+    <string name="ph_subscription_info">Gói đăng ký sẽ tự động gia hạn. Hủy bất cứ lúc nào.</string>
+    <string name="ph_terms_and_conditions">Bằng cách tiếp tục, bạn đồng ý với các <![CDATA[<a href="%1$s">Điều khoản</a>]]> và chính sách <![CDATA[<a href="%2$s">Quyền riêng tư</a>]]> của chúng tôi</string>
+    <string name="support_hint">Mô tả vấn đề (ít nhất 20 ký tự)</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="contact_support_title">Hỗ trợ khách hàng</string>
+    <string name="contact_vip_support_title">Hỗ trợ khách hàng VIP</string>
+    <string name="send">Gửi</string>
+    <string name="personalized_ads">Quảng cáo được cá nhân hóa</string>
+</resources>

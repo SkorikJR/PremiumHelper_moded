@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.appboosty.premiumhelper">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.screen.portrait" android:required="false" />
+
+    <queries>
+        <package android:name="com.appboosty.testykal" />
+        <intent>
+            <action android:name="android.intent.action.SEND" />
+            <data android:mimeType="*/*" />
+        </intent>
+    </queries>
+
+    <application
+        android:fullBackupContent="@xml/ph_backup_rules">
+
+        <service
+            android:name="com.appboosty.premiumhelper.util.PHMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name="com.appboosty.premiumhelper.ui.splash.PHSplashActivity" android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="com.appboosty.premiumhelper.ui.relaunch.RelaunchPremiumActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.appboosty.premiumhelper.ui.startlikepro.StartLikeProActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.appboosty.premiumhelper.ui.support.ContactSupportActivity"
+            android:theme="@style/ContactSupportTheme"
+            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="com.appboosty.premiumhelper.util.PHFileProvider"
+            android:authorities="${applicationId}.com.appboosty.premiumhelper.share"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/paths" />
+        </provider>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge">
+            <meta-data  android:name="com.appboosty.premiumhelper.util.ApplicationStartListener"
+                android:value="androidx.startup" />
+        </provider>
+
+        <receiver android:name="com.appboosty.premiumhelper.util.ChooserReceiver" android:exported="false"/>
+
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="bPC8sDuIhT1BoCS2_OJ89cFc_RQUThNXIBhxHxb1_LWqATD5VOyC8fJg47a9HaeodqEhSZNCK9lo4rB54vButP" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">PROBEZEIT STARTEN</string>
+    <string name="ph_start_premium_cta">PREMIUM STARTEN</string>
+    <string name="sku_price_weekly_no_trial">{0}/Woche</string>
+    <string name="sku_price_weekly_3d_trial">{0}/Woche nach der 3-tägigen GRATIS-Testphase</string>
+    <string name="sku_price_weekly_7d_trial">{0}/Woche nach der 7-tägigen GRATIS-Testphase</string>
+    <string name="sku_price_weekly_30d_trial">{0}/Woche nach der 30-tägigen GRATIS-Testphase</string>
+    <string name="sku_price_monthly_no_trial">{0} pro Monat</string>
+    <string name="sku_price_monthly_3d_trial">{0} pro Monat nach 3-tägiger GRATIS-Testphase</string>
+    <string name="sku_price_monthly_7d_trial">{0} pro Monat nach 7-tägiger GRATIS-Testphase</string>
+    <string name="sku_price_monthly_30d_trial">{0} pro Monat nach 30-tägiger GRATIS-Testphase</string>
+    <string name="sku_price_yearly_no_trial">{0} pro Jahr</string>
+    <string name="sku_price_yearly_3d_trial">{0} pro Jahr nach 3-tägiger GRATIS-Testphase</string>
+    <string name="sku_price_yearly_7d_trial">{0} pro Jahr nach 7-tägiger GRATIS-Testphase</string>
+    <string name="sku_price_yearly_30d_trial">{0} pro Jahr nach 30-tägiger GRATIS-Testphase</string>
+    <string name="sku_price_default">{0} nach GRATIS-Testphase</string>
+    <string name="sku_price_onetime">Einmalzahlung von {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">GRATIS 3-TÄGIGEN TEST STARTEN</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">GRATIS 7-TÄGIGEN TEST STARTEN</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">GRATIS 30-TÄGIGEN TEST STARTEN</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Wie gefällt dir\nunsere App?</string>
+    <string name="rate_dialog_subtitle">Sag es uns, indem du uns 5 Sterne gibst.</string>
+    <string name="rate_dialog_thanks">Vielen Dank!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Bestätigen Beenden</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basic</string>
+    <string name="ph_start_free_trial">Jetzt kostenlos testen</string>
+    <string name="ph_start_like_pro">Lege wie ein Profi los</string>
+    <string name="ph_unlock_all_features">Schalte alle Funktionen frei</string>
+    <string name="ph_try_limited">oder limitierte Version testen</string>
+    <string name="ph_limited_time_offer">Zeitlich begrenztes Angebot</string>
+    <string name="ph_get_special_price">Erhalte einen Sonderpreis</string>
+    <string name="ph_one_time_payment">Einmalzahlung</string>
+    <string name="ph_one_time_offer_name">Lebenslanges Premium-Paket</string>
+    <string name="ph_subscription_info">Das Abonnement wird automatisch verlängert. Du kannst es jederzeit kündigen.</string>
+    <string name="ph_terms_and_conditions">Indem du fortfährst, stimmst du unseren  <![CDATA[<a href="%1$s">Nutzungsbedingungen</a>]]> und der  <![CDATA[<a href="%2$s">Datenschutzrichtlinie</a>]]> zu</string>
+    <string name="support_hint">Beschreiben Sie das Problem (mindestens 20 Zeichen)</string>
+    <string name="cancel">Absagen</string>
+    <string name="contact_support_title">Kundendienst</string>
+    <string name="contact_vip_support_title">VIP-Kundendienst</string>
+    <string name="send">Schicken</string>
+    <string name="personalized_ads">Personalisierte Anzeigen</string>
+</resources>

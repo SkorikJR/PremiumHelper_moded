@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">DE IUDICIO Start FREE</string>
+    <string name="ph_start_premium_cta">MISSUS PRAEMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ septimana</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ III-die septimana liberum iudicium</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ VII-die septimana liberum iudicium</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ XXX-die septimana liberum iudicium</string>
+    <string name="sku_price_monthly_no_trial">{0}/ month</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ free III mensis post diem iudicii,</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ VII-die mensis liberum iudicium</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mensis liberum judicant XXX-die iudicii</string>
+    <string name="sku_price_yearly_no_trial">{0}/ anno,</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ III-anno post diem iudicii FREE</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ free VII anno post diem iudicii,</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ free XXX-anno post diem iudicii</string>
+    <string name="sku_price_default">{0} liberum iudicium</string>
+    <string name="sku_price_onetime">{0} uno tempore mercedem,</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">INITIUM free III DIES IUDICIUM</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">INITIUM free VII DIES IUDICIUM</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">INITIUM free XXX-DIES IUDICIUM</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Quam nunc tibi\nnostrum app?</string>
+    <string name="rate_dialog_subtitle">Vivificabit nos interdiu aut nocte abeundo ad V-star rating</string>
+    <string name="rate_dialog_thanks">Gratias!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Adfirmare Exitus</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">premium</string>
+    <string name="ph_offer_basic">basic</string>
+    <string name="ph_start_free_trial">Initio liberum iudicium</string>
+    <string name="ph_start_like_pro">Satus Sicut Pro</string>
+    <string name="ph_unlock_all_features">Basem datorum omnes Features</string>
+    <string name="ph_try_limited">versio vel limitata temptare</string>
+    <string name="ph_limited_time_offer">Tempus offerunt</string>
+    <string name="ph_get_special_price">Get price special</string>
+    <string name="ph_one_time_payment">Una dies solucionis</string>
+    <string name="ph_one_time_offer_name">vita premium</string>
+    <string name="ph_subscription_info">Auto-subscriptione erit renovare. Cancel aliquando.</string>
+    <string name="ph_terms_and_conditions">Nos continuando usque in vobis <![CDATA[<a href="%1$s">Termini</a>]]> et <![CDATA[<a href="%2$s">Privacy</a>]]> Politiae</string>
+
+    <string name="support_hint">Describere exitus (certe XX characters)</string>
+    <string name="cancel">Cancel</string>
+    <string name="contact_support_title">Cliens auxilia</string>
+    <string name="contact_vip_support_title">VIP dui</string>
+    <string name="send">Mitte</string>
+
+    <string name="personalized_ads">Proprium Ads</string>
+</resources>

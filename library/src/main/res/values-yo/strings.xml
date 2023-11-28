@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Bẹrẹ Idanwo ỌFẸ</string>
+    <string name="ph_start_premium_cta">Bẹrẹ PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ọsẹ</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ọsẹ lẹhin ỌRẸ idanwo ọjọ 3 ỌFẸ</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ọsẹ lẹhin ỌFẸ ọjọ 7 ỌFẸ</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ọsẹ lẹhin ỌFẸ ọjọ 30 ọfẹ</string>
+    <string name="sku_price_monthly_no_trial">{0}/osù</string>
+    <string name="sku_price_monthly_3d_trial">{0}/osù lẹhin idanwo ọjọ 3 ỌFẸ</string>
+    <string name="sku_price_monthly_7d_trial">{0}/osù lẹhin idanwo ọjọ 7 ỌFẸ</string>
+    <string name="sku_price_monthly_30d_trial">{0}/osù lẹhin idanwo ọjọ 30 ỌFẸ</string>
+    <string name="sku_price_yearly_no_trial">{0}/ọdun</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ọdun lẹhin ỌRẸ idanwo ọjọ 3 ỌFẸ</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ọdun lẹhin Iwadii ọjọ 7 ỌFẸ</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ọdun lẹhin ỌFẸ ọjọ 30 ọfẹ</string>
+    <string name="sku_price_default">{0} lẹhin iwadii ỌFẸ</string>
+    <string name="sku_price_onetime">{0} isanwo akoko kan</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">BẸRẸ Idanwo 3-DAY</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">BẸẸRẸ idanwo 7-DAY</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">BẸRẸ Idanwo 30-DAY</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Bawo ni o ṣe fẹ\nohun elo wa?</string>
+    <string name="rate_dialog_subtitle">Jẹ ki a mọ nipa fifi ipo irawọ 5 silẹ</string>
+    <string name="rate_dialog_thanks">O ṣeun!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Jẹrisi Jade</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Ere</string>
+    <string name="ph_offer_basic">Ipilẹ</string>
+    <string name="ph_start_free_trial">Bẹrẹ iwadii ọfẹ</string>
+    <string name="ph_start_like_pro">Bẹrẹ Bi Pro</string>
+    <string name="ph_unlock_all_features">Allii Gbogbo Awọn ẹya</string>
+    <string name="ph_try_limited">tabi gbiyanju ẹya ti o lopin</string>
+    <string name="ph_limited_time_offer">Ipese akoko to lopin</string>
+    <string name="ph_get_special_price">Gba owo pataki</string>
+    <string name="ph_one_time_payment">Isanwo akoko kan</string>
+    <string name="ph_one_time_offer_name">Ere igbesi aye</string>
+    <string name="ph_subscription_info">Ṣiṣe alabapin yoo tunse laifọwọyi. Fagilee nigbakugba.</string>
+    <string name="ph_terms_and_conditions">Nipa tẹsiwaju o gba si awọn ofin <![CDATA[<a href="%1$s"></a>]]> ati <![CDATA[<a href="%2$s">Awọn eto imulo</a>]]></string>
+    <string name="support_hint">Ṣe apejuwe ọran naa (o kere ju awọn kikọ 20)</string>
+    <string name="cancel">Fagilee</string>
+    <string name="contact_support_title">Onibara Support</string>
+    <string name="contact_vip_support_title">VIP Onibara Support</string>
+    <string name="send">Firanṣẹ</string>
+    <string name="personalized_ads">Awọn ipolowo ti ara ẹni</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey_blue_800">#D5DADD</color>
+
+    <color name="ph_white">#000000</color>
+    <color name="ph_orange_light">#ffbb33</color>
+    <color name="ph_gray_background">#111111</color>
+    <color name="ph_light_grey">#AAAAAA</color>
+    <color name="ph_dark_gray">#D5DADD</color>
+    <color name="ph_black">#FFFFFF</color>
+    <color name="ph_cta_color">#4286F4</color>
+    <color name="ph_white_background">#333333</color>
+    <color name="ph_splash_background">#333333</color>
+    <color name="ph_rate_dialog_background">#333333</color>
+    <color name="ph_text_light">#828282</color>
+    <color name="ph_text_dark">#EEEEEE</color>
+
+</resources>

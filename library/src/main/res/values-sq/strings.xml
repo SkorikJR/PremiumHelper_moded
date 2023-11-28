@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">FILLONI GJYKIMIN FALAS</string>
+    <string name="ph_start_premium_cta">FILLONI PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ javë</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ javë pas provës FALAS 3-ditore</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ javë pas provës FALAS 7-ditore</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ javë pas provës FALAS 30-ditore</string>
+    <string name="sku_price_monthly_no_trial">{0}/ muaj</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ muaj pas provës FALAS 3-ditore</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ muaj pas provës FALAS 7-ditore</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ muaj pas provës FALAS 30-ditore</string>
+    <string name="sku_price_yearly_no_trial">{0}/ vit</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ vit pas provës FALAS 3-ditore</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ vit pas provës FALAS 7-ditore</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ vit pas provës FALAS 30-ditore</string>
+    <string name="sku_price_default">{0} pas provës FALAS</string>
+    <string name="sku_price_onetime">{0} pagesa e njëhershme</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">FILLONI GJYKIMIN 3-DITOR FALAS</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">FILLONI GJYKIMIN 7-DITOR FALAS</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Filloni FALAS GJYKIMIN 30 DITOR</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Si ju pëlqen\naplikacioni ynë?</string>
+    <string name="rate_dialog_subtitle">Na tregoni duke lënë një vlerësim me 5 yje</string>
+    <string name="rate_dialog_thanks">Faleminderit!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Konfirmo Daljen</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Themelore</string>
+    <string name="ph_start_free_trial">Filloni provën falas</string>
+    <string name="ph_start_like_pro">Fillo si një profesionist</string>
+    <string name="ph_unlock_all_features">Shkyçni të gjitha tiparet</string>
+    <string name="ph_try_limited">ose provoni një version të kufizuar</string>
+    <string name="ph_limited_time_offer">Ofertë me kohë të kufizuar</string>
+    <string name="ph_get_special_price">Merrni çmim special</string>
+    <string name="ph_one_time_payment">Pagesë një herë</string>
+    <string name="ph_one_time_offer_name">Premium gjatë gjithë jetës</string>
+    <string name="ph_subscription_info">Abonimi do të rinovohet automatikisht. Anulo në çdo kohë.</string>
+    <string name="ph_terms_and_conditions">Duke vazhduar, ju pranoni politikat <![CDATA[<a href="%1$s">Kushtet</a>]]> dhe <![CDATA[<a href="%2$s">Privatësia</a>]]></string>
+    <string name="support_hint">Përshkruani problemin (të paktën 20 karaktere)</string>
+    <string name="cancel">Anulo</string>
+    <string name="contact_support_title">Mbështetja e Klientit</string>
+    <string name="contact_vip_support_title">Mbështetja e klientit VIP</string>
+    <string name="send">Dërgo</string>
+    <string name="personalized_ads">Reklamat e personalizuara</string>
+</resources>

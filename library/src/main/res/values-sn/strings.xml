@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">TANGA BHUKU ROKUEDZA</string>
+    <string name="ph_start_premium_cta">KUTANGA PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ vhiki</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ vhiki mushure MEMAHARA 3-zuva kutongwa</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ vhiki mushure MEMAHARA 7-zuva kutongwa</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ vhiki mushure MEMAHARA 30-zuva kuyedzwa</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mwedzi</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mwedzi mushure MEMAHARA 3-zuva kuyedzwa</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mwedzi mushure MEMAHARA 7-zuva kutongwa</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mwedzi mushure MEMAHARA 30-zuva kuyedzwa</string>
+    <string name="sku_price_yearly_no_trial">{0}/ gore</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ gore mushure MEMAHARA 3-zuva kutongwa</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ gore mushure MEMAHARA 7-zuva kutongwa</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ gore mushure MEMAHARA 30-zuva kuyedzwa</string>
+    <string name="sku_price_default">{0} mushure mekuyedzwa KWEMAHARA</string>
+    <string name="sku_price_onetime">{0} imwe-nguva kubhadhara</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">TANGA YEMAHARA 3-MAZUVA KUEDZA</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">TANGA YEMAHARA 7-ZUVA ROKUEDZA</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">TANGA YEMAHARA 30-MAZUVA KUEDZA</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Unoda sei\nyedu app?</string>
+    <string name="rate_dialog_subtitle">Regai tizive nekusiya mashanu nyeredzi</string>
+    <string name="rate_dialog_thanks">Ndatenda!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Simbisa Buda</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basic</string>
+    <string name="ph_start_free_trial">Kutanga mahara muedzo</string>
+    <string name="ph_start_like_pro">Tanga SaPro</string>
+    <string name="ph_unlock_all_features">Kiinura Zvese Zvimiro</string>
+    <string name="ph_try_limited">kana kuyedza yakatemwa vhezheni</string>
+    <string name="ph_limited_time_offer">Yakatemwa nguva yekupa</string>
+    <string name="ph_get_special_price">Wana mutengo wakakosha</string>
+    <string name="ph_one_time_payment">Imwe nguva kubhadhara</string>
+    <string name="ph_one_time_offer_name">Hupenyu hwepamoyo</string>
+    <string name="ph_subscription_info">Kunyorera kunozo-auto-kugadzirisa. Kanzura chero nguva.</string>
+    <string name="ph_terms_and_conditions">Nokuramba unobvumirana yedu <![CDATA[<a href="%1$s">Terms</a>]]> uye <![CDATA[<a href="%2$s">Privacy</a>]]> mitemo</string>
+    <string name="support_hint">Tsanangura nyaya yacho (mavara angangoita makumi maviri)</string>
+    <string name="cancel">Kanzura</string>
+    <string name="contact_support_title">Mutengi Support</string>
+    <string name="contact_vip_support_title">VIP Mutengi Tsigiro</string>
+    <string name="send">Send</string>
+    <string name="personalized_ads">Personalized Ads</string>
+</resources>

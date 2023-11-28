@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Оғози озмоиши ройгон</string>
+    <string name="ph_start_premium_cta">Оғози премиум</string>
+    <string name="sku_price_weekly_no_trial">{0}/ҳафта</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ҳафта пас аз озмоиши ройгони 3-рӯза</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ҳафта пас аз озмоиши ройгони 7-рӯза</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ҳафта пас аз озмоиши ройгони 30-рӯза</string>
+    <string name="sku_price_monthly_no_trial">{0}/моҳ</string>
+    <string name="sku_price_monthly_3d_trial">{0}/моҳ пас аз озмоиши ройгони 3-рӯза</string>
+    <string name="sku_price_monthly_7d_trial">{0}/моҳ пас аз озмоиши ройгони 7-рӯза</string>
+    <string name="sku_price_monthly_30d_trial">{0}/моҳ пас аз озмоиши ройгони 30-рӯза</string>
+    <string name="sku_price_yearly_no_trial">{0}/сол</string>
+    <string name="sku_price_yearly_3d_trial">{0}/сол пас аз озмоиши ройгони 3-рӯза</string>
+    <string name="sku_price_yearly_7d_trial">{0}/сол пас аз озмоиши ройгони 7-рӯза</string>
+    <string name="sku_price_yearly_30d_trial">{0}/сол пас аз озмоиши ройгони 30-рӯза</string>
+    <string name="sku_price_default">{0} пас аз озмоиши РОЙГОН</string>
+    <string name="sku_price_onetime">{0} пардохти яквақта</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Оғози озмоиши ройгони 3-рӯза</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Оғози озмоиши ройгони 7-рӯза</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Оғози озмоиши ройгони 30-рӯза</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">\nбарномаи мо ба шумо чӣ маъқул аст?</string>
+    <string name="rate_dialog_subtitle">Бо тарк кардани рейтинги 5 ситора ба мо хабар диҳед</string>
+    <string name="rate_dialog_thanks">Ташаккур!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Хуруҷро тасдиқ кунед</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Асосӣ</string>
+    <string name="ph_start_free_trial">Оғози мурофиаи ройгон</string>
+    <string name="ph_start_like_pro">Мисли Pro оғоз кунед</string>
+    <string name="ph_unlock_all_features">Ҳама хусусиятҳоро кушоед</string>
+    <string name="ph_try_limited">ё версияи маҳдудро санҷед</string>
+    <string name="ph_limited_time_offer">Пешниҳоди вақти маҳдуд</string>
+    <string name="ph_get_special_price">Нархи махсус гиред</string>
+    <string name="ph_one_time_payment">Пардохти якдафъаина</string>
+    <string name="ph_one_time_offer_name">Мукофоти якумрӣ</string>
+    <string name="ph_subscription_info">Обуна ба таври худкор нав карда мешавад. Ҳар вақт бекор кунед.</string>
+    <string name="ph_terms_and_conditions">Бо идома додан шумо ба сиёсати <![CDATA[<a href="%1$s">Шартҳои</a>]]> ва <![CDATA[<a href="%2$s">Махфият</a>]]></string>
+    <string name="support_hint">Масъаларо тавсиф кунед (на камтар аз 20 аломат)</string>
+    <string name="cancel">Бекор кардан</string>
+    <string name="contact_support_title">Дастгирии муштариён</string>
+    <string name="contact_vip_support_title">Дастгирии муштариёни VIP</string>
+    <string name="send">Фиристодан</string>
+    <string name="personalized_ads">Рекламаҳои фардӣ</string>
+</resources>

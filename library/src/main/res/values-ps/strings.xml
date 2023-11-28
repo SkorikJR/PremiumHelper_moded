@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">وړیا محاکمه پیل کړئ</string>
+    <string name="ph_start_premium_cta">پریمیم پیل کړئ</string>
+    <string name="sku_price_weekly_no_trial">{0}/اونۍ</string>
+    <string name="sku_price_weekly_3d_trial">{0}/اونۍ د وړیا 3 ورځو آزموینې وروسته</string>
+    <string name="sku_price_weekly_7d_trial">{0}/اونۍ د 7 ورځو وړیا آزموینې وروسته</string>
+    <string name="sku_price_weekly_30d_trial">{0}/اونۍ د وړیا 30 ورځو آزموینې وروسته</string>
+    <string name="sku_price_monthly_no_trial">{0}/میاشت</string>
+    <string name="sku_price_monthly_3d_trial">{0}/میاشت د وړیا 3 ورځو آزموینې وروسته</string>
+    <string name="sku_price_monthly_7d_trial">{0}/میاشت د 7 ورځو وړیا آزموینې وروسته</string>
+    <string name="sku_price_monthly_30d_trial">{0}/میاشت د وړیا 30 ورځو آزموینې وروسته</string>
+    <string name="sku_price_yearly_no_trial">{0}/کال</string>
+    <string name="sku_price_yearly_3d_trial">{0}/کال د وړیا 3 ورځو آزموینې وروسته</string>
+    <string name="sku_price_yearly_7d_trial">{0}/کال د وړیا 7 ورځو آزموینې وروسته</string>
+    <string name="sku_price_yearly_30d_trial">{0}/کال د وړیا 30 ورځو آزموینې وروسته</string>
+    <string name="sku_price_default">{0} د وړیا آزموینې وروسته</string>
+    <string name="sku_price_onetime">{0} یو ځل تادیه</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">د 3 ورځو وړیا آزموینه پیل کړئ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">د 7 ورځو وړیا آزموینه پیل کړئ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">د 30 ورځو وړیا آزموینه پیل کړئ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">تاسو زموږ\nاپلیکیشن څنګه خوښوئ؟</string>
+    <string name="rate_dialog_subtitle">اجازه راکړئ د 5 ستوري درجې پریښودو سره خبر شو</string>
+    <string name="rate_dialog_thanks">مننه!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">وتنه تایید کړئ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">پریمیم</string>
+    <string name="ph_offer_basic">اساسی</string>
+    <string name="ph_start_free_trial">وړیا محاکمه پیل کړئ</string>
+    <string name="ph_start_like_pro">د پرو په څیر پیل وکړئ</string>
+    <string name="ph_unlock_all_features">ټولې ب Unې خلاص کړئ</string>
+    <string name="ph_try_limited">یا محدود نسخه هڅه وکړئ</string>
+    <string name="ph_limited_time_offer">د محدود وخت وړاندیز</string>
+    <string name="ph_get_special_price">ځانګړې بیه ترلاسه کړئ</string>
+    <string name="ph_one_time_payment">یو وخت تادیه</string>
+    <string name="ph_one_time_offer_name">د ژوند وخت پریمیم</string>
+    <string name="ph_subscription_info">ګډون به په اوتومات ډول نوي شي. هر وخت لغوه کړئ.</string>
+    <string name="ph_terms_and_conditions">په دوام سره تاسو زموږ د <![CDATA[<a href="%1$s">شرایطو</a>]]> او <![CDATA[<a href="%2$s">محرمیت</a>]]> پالیسیو سره موافق یاست</string>
+    <string name="support_hint">مسله تشریح کړئ (لږترلږه 20 حروف)</string>
+    <string name="cancel">لغوه کړئ</string>
+    <string name="contact_support_title">د پیریدونکو مرسته</string>
+    <string name="contact_vip_support_title">د VIP پیرودونکي ملاتړ</string>
+    <string name="send">لیږل</string>
+    <string name="personalized_ads">شخصي اعلانونه</string>
+</resources>

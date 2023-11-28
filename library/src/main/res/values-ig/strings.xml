@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Malite nnwale n\'efu</string>
+    <string name="ph_start_premium_cta">Malite PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/izu</string>
+    <string name="sku_price_weekly_3d_trial">{0}/izu mgbe ikpe ụbọchị 3 n\'efu</string>
+    <string name="sku_price_weekly_7d_trial">{0}/izu mgbe anwalechara ụbọchị 7 n\'efu</string>
+    <string name="sku_price_weekly_30d_trial">{0}/izu mgbe anwalechara ụbọchị iri atọ n\'efu</string>
+    <string name="sku_price_monthly_no_trial">{0}/ọnwa</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ọnwa mgbe nnwale ụbọchị 3 n\'efu</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ọnwa mgbe anwalechara ụbọchị 7 n\'efu</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ọnwa mgbe anwalechara ụbọchị iri atọ n\'efu</string>
+    <string name="sku_price_yearly_no_trial">{0}/afọ</string>
+    <string name="sku_price_yearly_3d_trial">{0}/afọ mgbe nnwale ụbọchị 3 n\'efu</string>
+    <string name="sku_price_yearly_7d_trial">{0}/afọ mgbe anwalechara ụbọchị 7 n\'efu</string>
+    <string name="sku_price_yearly_30d_trial">{0}/afọ mgbe anwalechara ụbọchị iri atọ n\'efu</string>
+    <string name="sku_price_default">{0} mgbe anwalechara n\'efu</string>
+    <string name="sku_price_onetime">{0} ịkwụ ụgwọ otu oge</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Malite nnwale 3-DAY n\'efu</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Malite nnwale 7-DAY n\'efu</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Malite nnwale ụbọchị iri atọ n\'efu</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kedu ka ị si amasị\nngwa anyị?</string>
+    <string name="rate_dialog_subtitle">Mee ka anyị mata site na ịhapụ ọkwa kpakpando 5</string>
+    <string name="rate_dialog_thanks">Daalụ!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Kwenye Wepụ</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Adịchaghị</string>
+    <string name="ph_offer_basic">Ntọala</string>
+    <string name="ph_start_free_trial">Malite ikpe ikpe n\'efu</string>
+    <string name="ph_start_like_pro">Malite Dị ka Pro</string>
+    <string name="ph_unlock_all_features">Mepee Atụmatụ niile</string>
+    <string name="ph_try_limited">ma ọ bụ nwaa mmachi ụdị</string>
+    <string name="ph_limited_time_offer">Obere oge na-enye</string>
+    <string name="ph_get_special_price">Nweta ego pụrụ iche</string>
+    <string name="ph_one_time_payment">Otu ugwo oge</string>
+    <string name="ph_one_time_offer_name">Oge ndụ kacha elu</string>
+    <string name="ph_subscription_info">Ịdebanye aha ga-emegharị ọhụrụ. Kagbuo oge ọ bụla.</string>
+    <string name="ph_terms_and_conditions">Site na ịga n\'ihu ị kwenyere na iwu <![CDATA[<a href="%1$s">Usoro</a>]]> na <![CDATA[<a href="%2$s">Nzuzo</a>]]></string>
+    <string name="support_hint">Kọwaa nsogbu ahụ (opekata mpe mkpụrụedemede 20)</string>
+    <string name="cancel">Kagbuo</string>
+    <string name="contact_support_title">Nkwado ndị ahịa</string>
+    <string name="contact_vip_support_title">Nkwado ndị ahịa VIP</string>
+    <string name="send">Ziga</string>
+    <string name="personalized_ads">Mgbasa ozi ahaziri iche</string>
+</resources>

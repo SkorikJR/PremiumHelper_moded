@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">COMENÇA LA PROVA GRATU .TA</string>
+    <string name="ph_start_premium_cta">INICI PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ setmana</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ setmana després de la prova GRATU 3TA de 3 dies</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ setmana després de la prova GRATU 7TA de 7 dies</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ setmana després de la prova GRATU 30TA de 30 dies</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mes</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mes després de la prova GRATU 3TA de 3 dies</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mes després de la prova GRATU 7TA de 7 dies</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mes després de la prova GRATU FREETA de 30 dies</string>
+    <string name="sku_price_yearly_no_trial">{0}/ any</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ any després de la prova GRATU 3TA de 3 dies</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ any després de la prova GRATU 7TA de 7 dies</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ any després de la prova GRATU 30TA de 30 dies</string>
+    <string name="sku_price_default">{0} després de la prova GRATU .TA</string>
+    <string name="sku_price_onetime">{0} pagament únic</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">COMENÇA LA PROVA GRATU 3TA DE 3 DIES</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">COMENÇA UNA PROVA GRATU 7TA DE 7 DIES</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">COMENÇA UNA PROVA GRATU 30TA DE 30 DIES</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Què li sembla\nla nostra aplicació?</string>
+    <string name="rate_dialog_subtitle">Feu-nos-ho saber deixant una valoració de 5 estrelles</string>
+    <string name="rate_dialog_thanks">Gràcies!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Confirmeu la sortida</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Bàsic</string>
+    <string name="ph_start_free_trial">Comenceu la prova gratuïta</string>
+    <string name="ph_start_like_pro">Comenceu com un professional</string>
+    <string name="ph_unlock_all_features">Desbloqueja totes les funcions</string>
+    <string name="ph_try_limited">o proveu una versió limitada</string>
+    <string name="ph_limited_time_offer">Oferta de temps limitat</string>
+    <string name="ph_get_special_price">Obteniu un preu especial</string>
+    <string name="ph_one_time_payment">Pagament únic</string>
+    <string name="ph_one_time_offer_name">Prima de per vida</string>
+    <string name="ph_subscription_info">La subscripció es renovarà automàticament. Cancel·la en qualsevol moment.</string>
+    <string name="ph_terms_and_conditions">En continuar, accepteu les nostres <![CDATA[<a href="%1$s">Condicions</a>]]> i <![CDATA[<a href="%2$s">Privadesa</a>]]> polítiques</string>
+    <string name="support_hint">Descriu el problema (almenys 20 caràcters)</string>
+    <string name="cancel">Cancel · lar</string>
+    <string name="contact_support_title">Atenció al client</string>
+    <string name="contact_vip_support_title">Atenció al client VIP</string>
+    <string name="send">Enviar</string>
+    <string name="personalized_ads">Anuncis personalitzats</string>
+</resources>

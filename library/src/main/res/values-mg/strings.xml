@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">MANOMPO ANDRIAMANITRA MAIMAIMPOANA</string>
+    <string name="ph_start_premium_cta">Start PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ herinandro</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ herinandro taorian\'ny andrana 3 andro MAIMAIMPOANA</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ herinandro taorian\'ny fitsarana 7 andro FREE</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ herinandro taorian\'ny fitsarana 30 andro FREE</string>
+    <string name="sku_price_monthly_no_trial">{0}/ volana</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ volana aorian\'ny andrana 3 andro MAIMAIMPOANA</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ volana aorian\'ny fitsarana 7 andro FREE</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ volana aorian\'ny fitsarana 30 andro MAIMAIMPOANA</string>
+    <string name="sku_price_yearly_no_trial">{0}/ taona</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ taona taorian\'ny andrana 3 andro MAIMAIMPOANA</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ taona taorian\'ny fitsarana 7 andro FREE</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ taona taorian\'ny fitsarana 30 andro FREE</string>
+    <string name="sku_price_default">{0} taorian\'ny fitsarana FREE</string>
+    <string name="sku_price_onetime">{0} fandoavam-bola indray mandeha</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">MANOMPO ANDRIAMANITRA 3 ANDRO MAIMAIMPOANA</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">MANOMPO ANDRIAMANITRA ANDRO 7 MAIMAIMPOANA</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">MANOMPO ANDRIAMANITRA 30 ANDRO MAIMAIMPOANA</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Ahoana no tianao\nny fampiharana anay?</string>
+    <string name="rate_dialog_subtitle">Ampahafantaro anay amin\'ny famelana ny naoty kintana 5</string>
+    <string name="rate_dialog_thanks">Misaotra!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Hamafiso ny fivoahana</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Fototra</string>
+    <string name="ph_start_free_trial">Atombohy ny fitsarana maimaim-poana</string>
+    <string name="ph_start_like_pro">Manomboka toy ny Pro</string>
+    <string name="ph_unlock_all_features">Vohay ny endri-javatra rehetra</string>
+    <string name="ph_try_limited">na manandrana kinova voafetra</string>
+    <string name="ph_limited_time_offer">Tolotra fotoana voafetra</string>
+    <string name="ph_get_special_price">Makà vidiny manokana</string>
+    <string name="ph_one_time_payment">Indray mandeha</string>
+    <string name="ph_one_time_offer_name">Tombam-bidin\'ny fiainana manontolo</string>
+    <string name="ph_subscription_info">Hanavao ny mandeha ho azy ny famandrihana. Manafoana amin\'ny fotoana rehetra.</string>
+    <string name="ph_terms_and_conditions">Amin\'ny foana ianao manaiky ny <![CDATA[<a href="%1$s">Terms</a>]]> sy <![CDATA[<a href="%2$s">Privacy</a>]]> politika</string>
+    <string name="support_hint">Farito ny olana (karazana 20 farafahakeliny)</string>
+    <string name="cancel">hanafoana</string>
+    <string name="contact_support_title">Fanohanana ny mpanjifa</string>
+    <string name="contact_vip_support_title">Fanohanana ny mpanjifa VIP</string>
+    <string name="send">Alefaso</string>
+    <string name="personalized_ads">Doka natao manokana</string>
+</resources>

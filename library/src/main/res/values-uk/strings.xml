@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ПОЧНІТЬ БЕЗКОШТОВНУ ПРОБУ</string>
+    <string name="ph_start_premium_cta">СТАРТ ПРЕМІУМ</string>
+    <string name="sku_price_weekly_no_trial">{0}/ тиждень</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ тиждень після БЕЗКОШТОВНОЇ 3-денної пробної версії</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ тиждень після БЕЗКОШТОВНОЇ 7-денної пробної версії</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ тиждень після БЕЗКОШТОВНОЇ 30-денної пробної версії</string>
+    <string name="sku_price_monthly_no_trial">{0}/ місяць</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ місяць після БЕЗКОШТОВНОЇ 3-денної пробної версії</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ місяць після БЕЗКОШТОВНОЇ 7-денної пробної версії</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ місяць після БЕЗКОШТОВНОЇ 30-денної пробної версії</string>
+    <string name="sku_price_yearly_no_trial">{0}/ рік</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ рік після БЕЗКОШТОВНОЇ 3-денної пробної версії</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ рік після БЕЗКОШТОВНОЇ 7-денної пробної версії</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ рік після БЕЗКОШТОВНОЇ 30-денної пробної версії</string>
+    <string name="sku_price_default">{0} після БЕЗКОШТОВНОЇ пробної версії</string>
+    <string name="sku_price_onetime">{0} одноразовий платіж</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ПОЧАТИ БЕЗКОШТОВНУ ТРИДНІВНУ ПРОБУ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ПОЧАТИ БЕЗКОШТОВНУ 7-денну пробну версію</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ПОЧАТИ БЕЗКОШТОВНУ 30-денну пробну версію</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Як вам\nнаш додаток?</string>
+    <string name="rate_dialog_subtitle">Повідомте нас, залишивши 5-зірковий рейтинг</string>
+    <string name="rate_dialog_thanks">Дякую!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Підтвердьте вихід</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Преміум</string>
+    <string name="ph_offer_basic">Основні</string>
+    <string name="ph_start_free_trial">Почніть безкоштовну пробну версію</string>
+    <string name="ph_start_like_pro">Почніть як професіонал</string>
+    <string name="ph_unlock_all_features">Розблокувати всі функції</string>
+    <string name="ph_try_limited">або спробуйте обмежену версію</string>
+    <string name="ph_limited_time_offer">Пропозиція з обмеженим часом</string>
+    <string name="ph_get_special_price">Отримайте спеціальну ціну</string>
+    <string name="ph_one_time_payment">Одноразова оплата</string>
+    <string name="ph_one_time_offer_name">Довічна премія</string>
+    <string name="ph_subscription_info">Підписка буде автоматично поновлюватися. Скасувати в будь -який час.</string>
+    <string name="ph_terms_and_conditions">Продовжуючи, ви погоджуєтесь з нашою політикою <![CDATA[<a href="%1$s">Умови</a>]]> та <![CDATA[<a href="%2$s">Конфіденційність</a>]]></string>
+    <string name="support_hint">Опишіть проблему (принаймні 20 символів)</string>
+    <string name="cancel">Скасувати</string>
+    <string name="contact_support_title">Підтримка клієнтів</string>
+    <string name="contact_vip_support_title">Підтримка VIP-клієнтів</string>
+    <string name="send">Надіслати</string>
+    <string name="personalized_ads">Персоналізована реклама</string>
+</resources>

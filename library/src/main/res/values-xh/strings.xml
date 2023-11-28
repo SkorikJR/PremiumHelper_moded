@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">QALA ISILINGO SASIMAHLA</string>
+    <string name="ph_start_premium_cta">QALA INKQUBO</string>
+    <string name="sku_price_weekly_no_trial">{0}/ iveki</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ iveki emva kwetyala leentsuku ezi-3 SIMAHLA</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ iveki emva kwetyala leentsuku ezisi-7 SIMAHLA</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ iveki emva kovavanyo lweentsuku ezingama-30 SIMAHLA</string>
+    <string name="sku_price_monthly_no_trial">{0}/ ngenyanga</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ inyanga emva kovavanyo lweentsuku ezi-3 SIMAHLA</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ inyanga emva kwesilingo seentsuku ezisi-7 SIMAHLA</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ inyanga emva kwesilingo seentsuku ezingama-30 SIMAHLA</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ngonyaka</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ unyaka emva kwesilingo seentsuku ezi-3 SIMAHLA</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ unyaka emva kwesilingo seentsuku ezisi-7 SIMAHLA</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ unyaka emva kovavanyo lweentsuku ezingama-30 SIMAHLA</string>
+    <string name="sku_price_default">{0} emva kwesilingo SIMAHLA</string>
+    <string name="sku_price_onetime">{0} ixesha enye intlawulo</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">QALISA UKUVAVANYWA KWEentsuku ezi-3 SIMAHLA</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">QALISA UKUVAVANYWA KWEentsuku ezisi-7 simahla</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">QALISA UKUVAVANYWA KWEentsuku ezingama-30 SIMAHLA</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Njani na ngathi\napp yethu?</string>
+    <string name="rate_dialog_subtitle">Sazise ngokushiya ireyithingi yeenkwenkwezi ezi-5</string>
+    <string name="rate_dialog_thanks">Enkosi!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Qinisekisa ukuphuma</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">INkulumbuso</string>
+    <string name="ph_offer_basic">Isisiseko</string>
+    <string name="ph_start_free_trial">Qalisa isilingo sasimahla</string>
+    <string name="ph_start_like_pro">Qala njengePro</string>
+    <string name="ph_unlock_all_features">Vula onke amaNqaku</string>
+    <string name="ph_try_limited">okanye uzame uguqulelo olulinganiselweyo</string>
+    <string name="ph_limited_time_offer">Ukunikezelwa kwexesha elincinci</string>
+    <string name="ph_get_special_price">Fumana ixabiso elikhethekileyo</string>
+    <string name="ph_one_time_payment">Intlawulo yexesha elinye</string>
+    <string name="ph_one_time_offer_name">Ipremiyamu yobomi bonke</string>
+    <string name="ph_subscription_info">Umrhumo uya kuzihlaziya ngokuzenzekelayo. Rhoxisa nanini na.</string>
+    <string name="ph_terms_and_conditions">Ngokuqhubeka uyavumelana yethu <![CDATA[<a href="%1$s">Iikota</a>]]> no <![CDATA[<a href="%2$s">Privacy</a>]]> nkqubo</string>
+    <string name="support_hint">Chaza umba (ubuncinci amagama angama-20)</string>
+    <string name="cancel">Rhoxisa</string>
+    <string name="contact_support_title">Uxhaso lwabathengi</string>
+    <string name="contact_vip_support_title">Inkxaso yoMthengi weVIP</string>
+    <string name="send">Thumela</string>
+    <string name="personalized_ads">Iintengiso ezenzelwe wena</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">SAWV DAWS SAWV DAWS</string>
+    <string name="ph_start_premium_cta">TSHIAB PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/lub lim tiam</string>
+    <string name="sku_price_weekly_3d_trial">{0}/lub lis piam tom qab DAWB 3-hnub mus sib hais</string>
+    <string name="sku_price_weekly_7d_trial">{0}/lub lis piam tom qab DAWB 7-hnub mus sib hais</string>
+    <string name="sku_price_weekly_30d_trial">{0}/lub lis piam tom qab DAWB 30-hnub mus sib hais</string>
+    <string name="sku_price_monthly_no_trial">{0}/muaj</string>
+    <string name="sku_price_monthly_3d_trial">{0}/hli tom qab DAWB 3-hnub mus sib hais</string>
+    <string name="sku_price_monthly_7d_trial">{0}/hli tom qab DAWB 7-hnub sim</string>
+    <string name="sku_price_monthly_30d_trial">{0}/hli tom qab DAWB 30-hnub mus sib hais</string>
+    <string name="sku_price_yearly_no_trial">{0}/xyoo</string>
+    <string name="sku_price_yearly_3d_trial">{0}/xyoo tom qab DAWB 3-hnub sim</string>
+    <string name="sku_price_yearly_7d_trial">{0}/xyoo tom qab DAWB 7-hnub sim</string>
+    <string name="sku_price_yearly_30d_trial">{0}/xyoo tom qab DAWB 30-hnub mus sib hais</string>
+    <string name="sku_price_default">{0} tom qab DAWB mus sib hais</string>
+    <string name="sku_price_onetime">{0} ib zaug</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">SAWV DAWS 3-HNUB TRIAL</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Pib DAWB 7-HNUB TRIAL</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Pib DAWB 30-HNUB XYUAS</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Koj nyiam\npeb li app li cas?</string>
+    <string name="rate_dialog_subtitle">Qhia rau peb paub los ntawm kev tawm 5 lub hnub qub ntsuas</string>
+    <string name="rate_dialog_thanks">Ua tsaug!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Pom Zoo Tawm</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Hwm</string>
+    <string name="ph_offer_basic">Nyiaj pib</string>
+    <string name="ph_start_free_trial">Pib sim dawb</string>
+    <string name="ph_start_like_pro">Pib Zoo li Pro</string>
+    <string name="ph_unlock_all_features">Tag Nrho Cov Nta</string>
+    <string name="ph_try_limited">lossis sim tsawg version</string>
+    <string name="ph_limited_time_offer">Tsuas pub siv sij hawm pub dawb xwb</string>
+    <string name="ph_get_special_price">Tau tshwj xeeb cov nqi</string>
+    <string name="ph_one_time_payment">Kev them nyiaj ib zaug</string>
+    <string name="ph_one_time_offer_name">Lub neej hwm</string>
+    <string name="ph_subscription_info">Kev tso npe yuav pib txuas hnub nyoog. Tshem tawm txhua lub sijhawm.</string>
+    <string name="ph_terms_and_conditions">Los ntawm kev txuas ntxiv koj pom zoo rau peb <![CDATA[<a href="%1$s">Cov Cai</a>]]> thiab <![CDATA[<a href="%2$s">Tsis pub twg paub</a>]]> cai</string>
+    <string name="support_hint">Piav qhov teeb meem (tsawg kawg 20 cim)</string>
+    <string name="cancel">Tso tseg</string>
+    <string name="contact_support_title">Cov neeg siv khoom txhawb nqa</string>
+    <string name="contact_vip_support_title">VIP Kev Pabcuam Cov Neeg Siv Khoom</string>
+    <string name="send">Xa</string>
+    <string name="personalized_ads">Personalized Ads</string>
+</resources>

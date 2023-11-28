@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Yambani KUYESA KWAULERE</string>
+    <string name="ph_start_premium_cta">YAMBANI PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ sabata</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ sabata mutayesa KWAULERE masiku atatu</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ sabata mutayesedwa KWAULERE masiku 7</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ sabata mutayesa KWAULERE kwa masiku 30</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mwezi</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mwezi mutayesedwa KWAULERE masiku atatu</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mwezi mutayesedwa KWAULERE masiku 7</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mwezi pambuyo poyesa KWAULERE kwamasiku 30</string>
+    <string name="sku_price_yearly_no_trial">{0}/ chaka</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ chaka mutayesa KWAULERE masiku atatu</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ chaka mutayesa KWAULERE masiku 7</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ chaka mutayesedwa KWAULERE kwa masiku 30</string>
+    <string name="sku_price_default">{0} pambuyo poyesedwa KWAULERE</string>
+    <string name="sku_price_onetime">{0} kulipira kamodzi</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">YAMBANI KUYESA KWA MASIKU 3 KWAULERE</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">YAMBIRANI UFUMU WA MASIKU 7</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">YAMBIRANI UFUMU WA MASIKU 30</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kodi inu monga\npulogalamu?</string>
+    <string name="rate_dialog_subtitle">Tiuzeni posiya nyenyezi zisanu</string>
+    <string name="rate_dialog_thanks">Zikomo!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Tsimikizani Kutuluka</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Choyamba</string>
+    <string name="ph_offer_basic">Zoyambira</string>
+    <string name="ph_start_free_trial">Yambani kuyesa kwaulere</string>
+    <string name="ph_start_like_pro">Yambani Monga Pro</string>
+    <string name="ph_unlock_all_features">Tsegulani Zinthu Zonse</string>
+    <string name="ph_try_limited">kapena yesani zochepa</string>
+    <string name="ph_limited_time_offer">Nthawi yochepa yopereka</string>
+    <string name="ph_get_special_price">Pezani mtengo wapadera</string>
+    <string name="ph_one_time_payment">Kulipira kamodzi</string>
+    <string name="ph_one_time_offer_name">Moyo wamtengo wapatali</string>
+    <string name="ph_subscription_info">Kulembetsa kudzakonzanso zokha. Letsani nthawi iliyonse.</string>
+    <string name="ph_terms_and_conditions">Mukapitiliza mukuvomereza malingaliro athu <![CDATA[<a href="%1$s"></a>]]> ndi <![CDATA[<a href="%2$s">Zachinsinsi</a>]]></string>
+    <string name="support_hint">Fotokozani zavutoli (zilembo zosachepera 20)</string>
+    <string name="cancel">Letsani</string>
+    <string name="contact_support_title">Thandizo la Makasitomala</string>
+    <string name="contact_vip_support_title">Thandizo la Makasitomala a VIP</string>
+    <string name="send">Tumizani</string>
+    <string name="personalized_ads">Malonda Amakonda</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">BEGIN GRATIS PROBEIEREN</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/Woch</string>
+    <string name="sku_price_weekly_3d_trial">{0}/Woch nom GRATIS 3-Deeg Test</string>
+    <string name="sku_price_weekly_7d_trial">{0}/Woch nom GRATIS 7-Deeg Test</string>
+    <string name="sku_price_weekly_30d_trial">{0}/Woch nom GRATIS 30-Deeg Test</string>
+    <string name="sku_price_monthly_no_trial">{0}/Mount</string>
+    <string name="sku_price_monthly_3d_trial">{0}/Mount nom GRATIS 3-Deeg Test</string>
+    <string name="sku_price_monthly_7d_trial">{0}/Mount nom GRATIS 7-Deeg Test</string>
+    <string name="sku_price_monthly_30d_trial">{0}/Mount nom GRATIS 30-Deeg Test</string>
+    <string name="sku_price_yearly_no_trial">{0}/Joer</string>
+    <string name="sku_price_yearly_3d_trial">{0}/Joer nom GRATIS 3-Deeg Test</string>
+    <string name="sku_price_yearly_7d_trial">{0}/Joer nom GRATIS 7-Deeg Test</string>
+    <string name="sku_price_yearly_30d_trial">{0}/Joer nom GRATIS 30-Deeg Test</string>
+    <string name="sku_price_default">{0} no GRATIS Test</string>
+    <string name="sku_price_onetime">{0} eemoleg Bezuelung</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">BEGIN GRATIS 3-DAG PROBEIERT</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Fänkt GRATIS 7-DAY PROBEIEREN</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">BEGIN GRATIS 30-DAG PROBEIERT</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Wéi gefällt Dir eis\n</string>
+    <string name="rate_dialog_subtitle">Loosst eis wëssen andeems Dir e 5 Stärebewäertung hannerloosst</string>
+    <string name="rate_dialog_thanks">Merci!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Confirméieren Exit</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basis</string>
+    <string name="ph_start_free_trial">Start gratis Test</string>
+    <string name="ph_start_like_pro">Start Wéi e Pro</string>
+    <string name="ph_unlock_all_features">Späert all Features op</string>
+    <string name="ph_try_limited">oder probéiert limitéiert Versioun</string>
+    <string name="ph_limited_time_offer">Limitéiert Zäit Offer</string>
+    <string name="ph_get_special_price">Kritt e spezielle Präis</string>
+    <string name="ph_one_time_payment">Eng Kéier Bezuelung</string>
+    <string name="ph_one_time_offer_name">Liewensdauer Premium</string>
+    <string name="ph_subscription_info">Abonnement gëtt automatesch erneiert. Ofbriechen egal wéini.</string>
+    <string name="ph_terms_and_conditions">Andeems Dir weider sidd, averstanen Dir eis <![CDATA[<a href="%1$s">Konditiounen</a>]]> a <![CDATA[<a href="%2$s">Privatsphär</a>]]> Politiken</string>
+    <string name="support_hint">Beschreift d\&#39;Thema (op d\&#39;mannst 20 Zeechen)</string>
+    <string name="cancel">Ofbriechen</string>
+    <string name="contact_support_title">Client Ënnerstëtzung</string>
+    <string name="contact_vip_support_title">VIP Client Ënnerstëtzung</string>
+    <string name="send">Schécken</string>
+    <string name="personalized_ads">Personaliséiert Annoncen</string>
+</resources>

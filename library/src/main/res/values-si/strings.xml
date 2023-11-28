@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">නොමිලේ අත්හදා බැලීම ආරම්භ කරන්න</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ සතිය</string>
+    <string name="sku_price_weekly_3d_trial">නොමිලේ දින 3 ක අත්හදා බැලීමෙන් පසු {0}</string>
+    <string name="sku_price_weekly_7d_trial">දින 7 ක අත්හදා බැලීමෙන් පසු {0}</string>
+    <string name="sku_price_weekly_30d_trial">දින 30 ක අත්හදා බැලීමෙන් පසු සතියකට {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ මස</string>
+    <string name="sku_price_monthly_3d_trial">දින 3 ක අත්හදා බැලීමෙන් පසු මාස {0}</string>
+    <string name="sku_price_monthly_7d_trial">දින 7 ක අත්හදා බැලීමෙන් පසු මාස {0}</string>
+    <string name="sku_price_monthly_30d_trial">දින 30 ක අත්හදා බැලීමෙන් පසු {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ වසර</string>
+    <string name="sku_price_yearly_3d_trial">නොමිලේ දින 3 ක අත්හදා බැලීමෙන් පසු වසරකට {0}</string>
+    <string name="sku_price_yearly_7d_trial">දින 7 ක අත්හදා බැලීමෙන් පසු වසරකට {0}</string>
+    <string name="sku_price_yearly_30d_trial">දින 30 ක අත්හදා බැලීමෙන් පසු වසරකට {0}</string>
+    <string name="sku_price_default">නොමිලේ අත්හදා බැලීමෙන් පසු {0}</string>
+    <string name="sku_price_onetime">{0} එක් වරක් ගෙවීම</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">නොමිලේ දින 3 දින උත්සාහය අරඹන්න</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">නොමිලේ දින 7 දින පරීක්‍ෂණය ආරම්භ කරන්න</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">නොමිලේ දින 30 දින පරීක්‍ෂණය ආරම්භ කරන්න</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">ඔබ අපගේ යෙදුමට\nකැමති වන්නේ කෙසේද?</string>
+    <string name="rate_dialog_subtitle">තරු 5 ශ්‍රේණිගත කිරීමක් කිරීමෙන් අපට දන්වන්න</string>
+    <string name="rate_dialog_thanks">ස්තූතියි!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">පිටවීම තහවුරු කරන්න</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">වාරික</string>
+    <string name="ph_offer_basic">මූලික</string>
+    <string name="ph_start_free_trial">නොමිලේ අත්හදා බැලීම ආරම්භ කරන්න</string>
+    <string name="ph_start_like_pro">ප්‍රෝ එකක් වගේ පටන් ගන්න</string>
+    <string name="ph_unlock_all_features">සියලුම විශේෂාංග අගුළු ඇරීම</string>
+    <string name="ph_try_limited">නැතහොත් සීමිත අනුවාදයක් උත්සාහ කරන්න</string>
+    <string name="ph_limited_time_offer">සීමිත කාල දීමනාව</string>
+    <string name="ph_get_special_price">විශේෂ මිලක් ලබා ගන්න</string>
+    <string name="ph_one_time_payment">එක් වරක් ගෙවීම</string>
+    <string name="ph_one_time_offer_name">ජීවිත කාලය වාරිකය</string>
+    <string name="ph_subscription_info">දායක වීම ස්වයංක්‍රීයව අලුත් වේ. ඕනෑම වේලාවක අවලංගු කරන්න.</string>
+    <string name="ph_terms_and_conditions">ඉදිරියට යාමෙන් ඔබ අපගේ <![CDATA[<a href="%1$s">නියමයන්</a>]]> සහ <![CDATA[<a href="%2$s">පෞද්ගලිකත්‍ව</a>]]> ප්‍රතිපත්ති වලට එකඟ වේ</string>
+    <string name="support_hint">ගැටලුව විස්තර කරන්න (අවම වශයෙන් අක්ෂර 20)</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="contact_support_title">පාරිභෝගික සහාය</string>
+    <string name="contact_vip_support_title">VIP පාරිභෝගික සහාය</string>
+    <string name="send">යවන්න</string>
+    <string name="personalized_ads">පුද්ගලීකරණය කළ දැන්වීම්</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">COMMENCER L\'ESSAI GRATUIT</string>
+    <string name="ph_start_premium_cta">COMMENCER PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/semaine</string>
+    <string name="sku_price_weekly_3d_trial">{0}/semaine après un essai GRATUIT de 3 jours</string>
+    <string name="sku_price_weekly_7d_trial">{0}/semaine après un essai GRATUIT de 7 jours</string>
+    <string name="sku_price_weekly_30d_trial">{0}/semaine après un essai GRATUIT de 30 jours</string>
+    <string name="sku_price_monthly_no_trial">{0} par mois</string>
+    <string name="sku_price_monthly_3d_trial">{0} par mois après un essai GRATUIT de 3 jours</string>
+    <string name="sku_price_monthly_7d_trial">{0} par mois après un essai GRATUIT de 7 jours</string>
+    <string name="sku_price_monthly_30d_trial">{0} par mois après un essai GRATUIT de 30 jours</string>
+    <string name="sku_price_yearly_no_trial">{0} par année</string>
+    <string name="sku_price_yearly_3d_trial">{0} par année après un essai GRATUIT de 3 jours</string>
+    <string name="sku_price_yearly_7d_trial">{0} par année après un essai GRATUIT de 7 jours</string>
+    <string name="sku_price_yearly_30d_trial">{0} par année après un essai GRATUIT de 30 jours</string>
+    <string name="sku_price_default">{0} après un essai GRATUIT</string>
+    <string name="sku_price_onetime">Paiement unique de {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">LANCER 3 JOURS D\'ESSAI GRATUIT</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">LANCER 7 JOURS D\'ESSAI GRATUIT</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">LANCER 30 JOURS D\'ESSAI GRATUIT</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Vous aimez\nnotre application?</string>
+    <string name="rate_dialog_subtitle">Dites-le nous en nous donnant une évaluation de 5 étoiles</string>
+    <string name="rate_dialog_thanks">Merci!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Confirmer la sortie</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basique</string>
+    <string name="ph_start_free_trial">Commencer l\'essai gratuit</string>
+    <string name="ph_start_like_pro">Commencez comme un pro</string>
+    <string name="ph_unlock_all_features">Débloquez toutes les fonctionnalités</string>
+    <string name="ph_try_limited">ou essayez la version limitée</string>
+    <string name="ph_limited_time_offer">Offre à durée limitée</string>
+    <string name="ph_get_special_price">Bénéficiez d\'un prix spécial</string>
+    <string name="ph_one_time_payment">Paiement unique</string>
+    <string name="ph_one_time_offer_name">Abonnement premium à vie</string>
+    <string name="ph_subscription_info">L\'abonnement se renouvellera automatiquement. Vous pouvez l\'annuler à tout moment.</string>
+    <string name="ph_terms_and_conditions">En continuant, vous acceptez nos <![CDATA[<a href="%1$s">Conditions générales</a>]]> et notre <![CDATA[<a href="%2$s">Politique de confidentialité</a>]]></string>
+    <string name="support_hint">Décrivez le problème (au moins 20 caractères)</string>
+    <string name="cancel">Annuler</string>
+    <string name="contact_support_title">Service client</string>
+    <string name="contact_vip_support_title">Assistance client VIP</string>
+    <string name="send">Envoyer</string>
+    <string name="personalized_ads">Annonces personnalisées</string>
+</resources>

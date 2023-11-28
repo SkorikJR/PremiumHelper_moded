@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">INICIAR PRUEBA GRATIS</string>
+    <string name="ph_start_premium_cta">COMENZAR PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/semana</string>
+    <string name="sku_price_weekly_3d_trial">{0}/semana después de la prueba GRATIS de 3 días</string>
+    <string name="sku_price_weekly_7d_trial">{0}/semana después de la prueba GRATIS de 7 días</string>
+    <string name="sku_price_weekly_30d_trial">{0}/semana después de la prueba GRATIS de 30 días</string>
+    <string name="sku_price_monthly_no_trial">{0}/mes</string>
+    <string name="sku_price_monthly_3d_trial">{0}/mes después de la prueba GRATIS de 3 días</string>
+    <string name="sku_price_monthly_7d_trial">{0}/mes después de la prueba GRATIS de 7 días</string>
+    <string name="sku_price_monthly_30d_trial">{0}/mes después de la prueba GRATIS de 30 días</string>
+    <string name="sku_price_yearly_no_trial">{0}/año</string>
+    <string name="sku_price_yearly_3d_trial">{0}/año después de la prueba GRATIS de 3 días</string>
+    <string name="sku_price_yearly_7d_trial">{0}/año después de la prueba GRATIS de 7 días</string>
+    <string name="sku_price_yearly_30d_trial">{0}/año después de la prueba GRATIS de 30 días</string>
+    <string name="sku_price_default">{0}/después de la prueba GRATIS</string>
+    <string name="sku_price_onetime">Un único pago de {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">EMPEZAR PRUEBA GRATIS DE 3 DÍAS</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">EMPEZAR PRUEBA GRATIS DE 7 DÍAS</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">EMPEZAR PRUEBA GRATIS DE 30 DÍAS</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">¿Te gusta\nnuestra aplicación?</string>
+    <string name="rate_dialog_subtitle">Danos 5 estrellas para que lo sepamos</string>
+    <string name="rate_dialog_thanks">¡Gracias!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Confirmar salida</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Básico</string>
+    <string name="ph_start_free_trial">Comenzar prueba gratuita</string>
+    <string name="ph_start_like_pro">Empieza como un profesional</string>
+    <string name="ph_unlock_all_features">Desbloquea todas las funciones</string>
+    <string name="ph_try_limited">o prueba la versión limitada</string>
+    <string name="ph_limited_time_offer">Oferta de tiempo limitado</string>
+    <string name="ph_get_special_price">Consigue un precio especial</string>
+    <string name="ph_one_time_payment">Pago único</string>
+    <string name="ph_one_time_offer_name">Prémium de por vida</string>
+    <string name="ph_subscription_info">La suscripción se renovará automáticamente. Puedes cancelar en cualquier momento.</string>
+    <string name="ph_terms_and_conditions">Al continuar, aceptas nuestros <![CDATA[<a href="%1$s">Términos</a>]]> y nuestras políticas <![CDATA[<a href="%2$s">de privacidad</a>]]></string>
+    <string name="support_hint">Describa el problema (al menos 20 caracteres)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="contact_support_title">Atención al cliente</string>
+    <string name="contact_vip_support_title">Atención al cliente VIP</string>
+    <string name="send">Enviar</string>
+    <string name="personalized_ads">Anuncios personalizados</string>
+</resources>

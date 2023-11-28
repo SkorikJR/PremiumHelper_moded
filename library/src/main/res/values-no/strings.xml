@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">START GRATIS PRØVEPERIODE</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ uke</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ uke etter GRATIS 3-dagers prøveversjon</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ uke etter GRATIS 7-dagers prøveversjon</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ uke etter GRATIS 30-dagers prøveversjon</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mnd</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ måned etter GRATIS 3-dagers prøveversjon</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ måned etter GRATIS 7-dagers prøveversjon</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ måned etter GRATIS 30-dagers prøveversjon</string>
+    <string name="sku_price_yearly_no_trial">{0}/ år</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ år etter GRATIS 3-dagers prøveversjon</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ år etter GRATIS 7-dagers prøveversjon</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ år etter GRATIS 30-dagers prøveversjon</string>
+    <string name="sku_price_default">{0} etter GRATIS prøveperiode</string>
+    <string name="sku_price_onetime">{0} engangsbetaling</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">START GRATIS 3-DAGERS PRØVE</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">START GRATIS 7-DAGERS PRØVE</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">START GRATIS PRØVE MED 30 DAGER</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hvordan liker du\nappen vår?</string>
+    <string name="rate_dialog_subtitle">Gi oss beskjed ved å gi 5 stjerner</string>
+    <string name="rate_dialog_thanks">Takk!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Bekreft Avslutt</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Grunnleggende</string>
+    <string name="ph_start_free_trial">Start gratis prøveperiode</string>
+    <string name="ph_start_like_pro">Start som en proff</string>
+    <string name="ph_unlock_all_features">Lås opp alle funksjoner</string>
+    <string name="ph_try_limited">eller prøv begrenset versjon</string>
+    <string name="ph_limited_time_offer">Tidsbegrenset tilbud</string>
+    <string name="ph_get_special_price">Få spesialpris</string>
+    <string name="ph_one_time_payment">Engangsbetaling</string>
+    <string name="ph_one_time_offer_name">Livstids premie</string>
+    <string name="ph_subscription_info">Abonnementet fornyes automatisk. Avbryt når som helst.</string>
+    <string name="ph_terms_and_conditions">Ved å fortsette godtar du våre <![CDATA[<a href="%1$s">vilkår</a>]]> og <![CDATA[<a href="%2$s">personvern</a>]]> retningslinjer</string>
+    <string name="support_hint">Beskriv problemet (minst 20 tegn)</string>
+    <string name="cancel">Avbryt</string>
+    <string name="contact_support_title">Kundeservice</string>
+    <string name="contact_vip_support_title">VIP kundestøtte</string>
+    <string name="send">Sende</string>
+    <string name="personalized_ads">Personlig tilpassede annonser</string>
+</resources>

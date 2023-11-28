@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">இலவச சோதனை தொடங்கவும்</string>
+    <string name="ph_start_premium_cta">ஸ்டார்ட் பிரீமியம்</string>
+    <string name="sku_price_weekly_no_trial">{0}/ வாரம்</string>
+    <string name="sku_price_weekly_3d_trial">இலவச 3 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_weekly_7d_trial">இலவச 7 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_weekly_30d_trial">இலவச 30 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ மாதம்</string>
+    <string name="sku_price_monthly_3d_trial">இலவச 3 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_monthly_7d_trial">இலவச 7 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_monthly_30d_trial">இலவச 30 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ ஆண்டு</string>
+    <string name="sku_price_yearly_3d_trial">இலவச 3 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_yearly_7d_trial">இலவச 7 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_yearly_30d_trial">இலவச 30 நாள் சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_default">இலவச சோதனைக்குப் பிறகு {0}</string>
+    <string name="sku_price_onetime">{0} ஒரு முறை கட்டணம்</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">இலவச 3-நாள் சோதனை தொடங்குங்கள்</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">இலவச 7-நாள் ட்ரையலை தொடங்குங்கள்</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">இலவச 30-நாள் ட்ரையலைத் தொடங்குங்கள்</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">எங்கள் பயன்பாட்டை\nஎப்படி விரும்புகிறீர்கள்?</string>
+    <string name="rate_dialog_subtitle">5 நட்சத்திர மதிப்பீட்டை விட்டுவிட்டு எங்களுக்குத் தெரியப்படுத்துங்கள்</string>
+    <string name="rate_dialog_thanks">நன்றி!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">வெளியேறுவதை உறுதிப்படுத்தவும்</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">பிரீமியம்</string>
+    <string name="ph_offer_basic">அடிப்படை</string>
+    <string name="ph_start_free_trial">இலவச சோதனையைத் தொடங்குங்கள்</string>
+    <string name="ph_start_like_pro">புரோ போலத் தொடங்குங்கள்</string>
+    <string name="ph_unlock_all_features">எல்லா அம்சங்களையும் திறக்கவும்</string>
+    <string name="ph_try_limited">அல்லது வரையறுக்கப்பட்ட பதிப்பை முயற்சிக்கவும்</string>
+    <string name="ph_limited_time_offer">வரையறுக்கப்பட்ட நேர சலுகை</string>
+    <string name="ph_get_special_price">சிறப்பு விலை கிடைக்கும்</string>
+    <string name="ph_one_time_payment">ஒரு முறை பணம் செலுத்துதல்</string>
+    <string name="ph_one_time_offer_name">வாழ்நாள் பிரீமியம்</string>
+    <string name="ph_subscription_info">சந்தா தானாக புதுப்பிக்கப்படும். எப்போது வேண்டுமானாலும் ரத்து செய்யவும்.</string>
+    <string name="ph_terms_and_conditions">தொடர்வதன் மூலம் நீங்கள் எங்கள் <![CDATA[<a href="%1$s">விதிமுறைகள்</a>]]> மற்றும் <![CDATA[<a href="%2$s">தனியுரிமை</a>]]> கொள்கைகளை ஒப்புக்கொள்கிறீர்கள்</string>
+    <string name="support_hint">சிக்கலை விவரிக்கவும் (குறைந்தது 20 எழுத்துகள்)</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="contact_support_title">வாடிக்கையாளர் ஆதரவு</string>
+    <string name="contact_vip_support_title">விஐபி வாடிக்கையாளர் ஆதரவு</string>
+    <string name="send">அனுப்பு</string>
+    <string name="personalized_ads">தனிப்பயனாக்கப்பட்ட விளம்பரங்கள்</string>
+</resources>

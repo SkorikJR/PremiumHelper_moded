@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Bilaw Tijaabo Bilaash ah</string>
+    <string name="ph_start_premium_cta">BILOW PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/toddobaad</string>
+    <string name="sku_price_weekly_3d_trial">{0}/usbuuc ka dib tijaabo 3-maalmood oo BILAASH ah</string>
+    <string name="sku_price_weekly_7d_trial">{0}/usbuuc kadib tijaabo 7-maalmood oo BILAASH ah</string>
+    <string name="sku_price_weekly_30d_trial">{0}/usbuuc kadib 30 maalmood oo tijaabo BILAASH ah</string>
+    <string name="sku_price_monthly_no_trial">{0}/bishii</string>
+    <string name="sku_price_monthly_3d_trial">{0}/bishii kadib 3 maalmood oo tijaabo ah oo BILAASH ah</string>
+    <string name="sku_price_monthly_7d_trial">{0}/bishii kadib BILAASH tijaabo 7 maalmood ah</string>
+    <string name="sku_price_monthly_30d_trial">{0}/bishii kadib BILAASH 30 maalmood oo tijaabo ah</string>
+    <string name="sku_price_yearly_no_trial">{0}/sanad</string>
+    <string name="sku_price_yearly_3d_trial">{0}/sanad kadib 3 maalmood oo tijaabo ah oo BILAASH ah</string>
+    <string name="sku_price_yearly_7d_trial">{0}/sanad kadib tijaabo 7-maalmood oo BILAASH ah</string>
+    <string name="sku_price_yearly_30d_trial">{0}/sanad kadib 30 maalmood oo tijaabo ah oo BILAASH ah</string>
+    <string name="sku_price_default">{0} kadib tijaabin BILAASH ah</string>
+    <string name="sku_price_onetime">{0} bixinta hal mar</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Bilaw Tijaabinta 3-MAALO AH</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Bilaw Tijaabinta 7-DAY BILAASH</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">BILAAB BILAASHKA 30-MAALIN</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Sideed u jeceshahay\nbarnaamijkeenna?</string>
+    <string name="rate_dialog_subtitle">Noo soo sheeg adiga oo ka tagaya qiimeynta xiddigta 5</string>
+    <string name="rate_dialog_thanks">Mahadsanid!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Xaqiiji Ka Bixitaanka</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Lacag</string>
+    <string name="ph_offer_basic">Aasaasi ah</string>
+    <string name="ph_start_free_trial">Bilow tijaabo bilaash ah</string>
+    <string name="ph_start_like_pro">Ku bilow sida Pro</string>
+    <string name="ph_unlock_all_features">Furo Dhamaan Astaamaha</string>
+    <string name="ph_try_limited">ama iskuday nooc xadidan</string>
+    <string name="ph_limited_time_offer">Waqti xaddidan</string>
+    <string name="ph_get_special_price">Hel qiimo gaar ah</string>
+    <string name="ph_one_time_payment">Hal mar lacag bixin</string>
+    <string name="ph_one_time_offer_name">Lacagta nolosha</string>
+    <string name="ph_subscription_info">Diiwaangelintu si otomaatig ah ayay u cusboonaysiin doontaa Jooji mar kasta.</string>
+    <string name="ph_terms_and_conditions">By sii aad ogolaato inaad noo <![CDATA[<a href="%1$s">Terms</a>]]> iyo <![CDATA[<a href="%2$s">Privacy</a>]]> siyaasadaha</string>
+    <string name="support_hint">Sifee arrinta (ugu yaraan 20 xaraf)</string>
+    <string name="cancel">Jooji</string>
+    <string name="contact_support_title">Taageerada Macmiilka</string>
+    <string name="contact_vip_support_title">Taageerada Macmiilka VIP</string>
+    <string name="send">Dir</string>
+    <string name="personalized_ads">Xayeysiisyada gaarka ah</string>
+</resources>

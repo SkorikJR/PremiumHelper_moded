@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Splash  -->
+    <item name="ph_splash_logo_image" type="id"/>
+    <item name="ph_splash_title_text" type="id"/>
+    <item name="ph_splash_progress" type="id"/>
+
+    <declare-styleable name="Splash">
+        <attr name="ph_splash_background_color" format="color|reference"/>
+        <attr name="ph_splash_title_color" format="color|reference"/>
+    </declare-styleable>
+
+    <!-- Rate Dialog -->
+    <item name="rate_dialog_positive_button" type="id"/>
+    <item name="rate_dialog_negative_button" type="id"/>
+    <item name="rate_dialog_dismiss_button" type="id"/>
+
+    <!-- Premium offering colors  -->
+    <declare-styleable name="PremiumOffering">
+        <attr name="premium_offering_style" format="reference" />
+        <attr name="premium_offer_feature_icon_color" format="color|reference" />
+        <attr name="premium_offer_primary_text_color" format="color|reference" />
+        <attr name="premium_offer_secondary_text_color" format="color|reference" />
+        <attr name="premium_offer_header_logo_color" format="color|reference" />
+        <attr name="premium_offer_background_color" format="color|reference" />
+        <attr name="premium_offer_close_button_color" format="color|reference" />
+        <attr name="premium_offer_cta_button_shape" format="reference" />
+        <attr name="premium_offer_cta_button_color" format="color|reference" />
+        <attr name="premium_offer_cta_button_text_color" format="color|reference" />
+        <attr name="premium_offer_countdown_text_color" format="color|reference" />
+        <attr name="premium_offer_text_alpha" format="float|reference" />
+    </declare-styleable>
+
+    <!-- Start Like Pro -->
+    <item name="start_like_pro_premium_purchase_button" type="id"/>
+    <item name="start_like_pro_try_limited_button" type="id"/>
+    <item name="start_like_pro_terms_text" type="id"/>
+    <item name="start_like_pro_price_text" type="id"/>
+    <item name="start_like_pro_progress" type="id"/>
+    <item name="start_like_pro_close_button" type="id"/>
+
+    <!-- Relaunch Premium -->
+    <item name="relaunch_premium_close_button" type="id"/>
+    <item name="relaunch_premium_purchase_button" type="id"/>
+    <item name="relaunch_premium_progress" type="id"/>
+    <item name="relaunch_premium_text_price" type="id"/>
+    <item name="relaunch_premium_text_price_strike" type="id"/>
+    <item name="relaunch_premium_text_time" type="id"/>
+
+    <!-- Premium Preference -->
+    <declare-styleable name="PremiumPreference">
+        <attr name="title_premium" format="string|reference"/>
+        <attr name="summary_premium" format="string|reference"/>
+        <attr name="freeEntries" format="string"/>
+        <attr name="lock_icon" format="reference"/>
+        <attr name="lock_icon_position" format="string"/>
+        <attr name="lock_icon_size" format="dimension"/>
+        <attr name="lock_icon_color" format="color|reference"/>
+        <attr name="support_email" format="string|reference"/>
+        <attr name="vip_support_email" format="string|reference"/>
+    </declare-styleable>
+
+    <!-- Shimmer Ad View -->
+    <attr name="banner_size" format="enum">
+        <enum name="banner"  value="0"/>
+        <enum name="full_banner" value="1"/>
+        <enum name="large_banner" value="2"/>
+        <enum name="leaderboard" value="3"/>
+        <enum name="medium_rectangle" value="4"/>
+        <enum name="wide_skyscraper" value="5"/>
+        <enum name="fluid" value="6"/>
+        <enum name="adaptive" value="7"/>
+        <enum name="adaptive_anchored" value="8"/>
+    </attr>
+
+    <attr name="native_ad_size" format="enum">
+        <enum name="small"  value="0"/>
+        <enum name="medium" value="1"/>
+    </attr>
+
+    <declare-styleable name="PhShimmerBaseAdView">
+        <attr name="shimmer_base_color" format="color|reference"/>
+        <attr name="shimmer_highlight_color" format="color|reference"/>
+        <attr name="transition_animation_duration" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="PhShimmerBannerAdView">
+        <attr name="banner_size"/>
+    </declare-styleable>
+
+    <declare-styleable name="PhShimmerNativeAdView">
+        <attr name="native_ad_size"/>
+    </declare-styleable>
+
+    <!-- Premium offering colors  -->
+    <declare-styleable name="NativeAd">
+        <attr name="native_background_color" format="color|reference" />
+        <attr name="native_title_text_color" format="color|reference" />
+        <attr name="native_label_text_color" format="color|reference" />
+        <attr name="native_body_text_color" format="color|reference" />
+        <attr name="native_install_button_color" format="color|reference" />
+        <attr name="native_install_button_text_color" format="color|reference" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="sharedpref" path="premium_helper_data.xml" />
+    <exclude domain="sharedpref" path="toto_configuration.xml" />
+    <exclude domain="sharedpref" path="com.appboosty.blyics.counters.global.xml" />
+</full-backup-content>

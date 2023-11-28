@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ఉచిత ట్రయల్ ప్రారంభించండి</string>
+    <string name="ph_start_premium_cta">స్టార్ట్ ప్రీమియం</string>
+    <string name="sku_price_weekly_no_trial">{0}/ వారం</string>
+    <string name="sku_price_weekly_3d_trial">ఉచిత 3-రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_weekly_7d_trial">ఉచిత 7 రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_weekly_30d_trial">ఉచిత 30 రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_monthly_no_trial">{0}/ నెల</string>
+    <string name="sku_price_monthly_3d_trial">ఉచిత 3-రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_monthly_7d_trial">ఉచిత 7 రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_monthly_30d_trial">ఉచిత 30 రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_yearly_no_trial">{0}/ సంవత్సరం</string>
+    <string name="sku_price_yearly_3d_trial">ఉచిత 3-రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_yearly_7d_trial">ఉచిత 7 రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_yearly_30d_trial">ఉచిత 30 రోజుల ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_default">ఉచిత ట్రయల్ తర్వాత {0}</string>
+    <string name="sku_price_onetime">{0} వన్-టైమ్ చెల్లింపు</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ఉచిత 3-రోజుల ట్రయల్ ప్రారంభించండి</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ఉచిత 7-రోజుల ట్రయల్ ప్రారంభించండి</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ఉచిత 30-రోజుల ట్రయల్ ప్రారంభించండి</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">మీరు మా అనువర్తనాన్ని\nఎలా ఇష్టపడతారు?</string>
+    <string name="rate_dialog_subtitle">5 నక్షత్రాల రేటింగ్‌ను వదిలివేయడం ద్వారా మాకు తెలియజేయండి</string>
+    <string name="rate_dialog_thanks">ధన్యవాదాలు!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">నిష్క్రమణను నిర్ధారించండి</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">ప్రీమియం</string>
+    <string name="ph_offer_basic">ప్రాథమిక</string>
+    <string name="ph_start_free_trial">ఉచిత ట్రయల్ ప్రారంభించండి</string>
+    <string name="ph_start_like_pro">ప్రో లాగా ప్రారంభించండి</string>
+    <string name="ph_unlock_all_features">అన్ని ఫీచర్‌లను అన్‌లాక్ చేయండి</string>
+    <string name="ph_try_limited">లేదా పరిమిత వెర్షన్‌ని ప్రయత్నించండి</string>
+    <string name="ph_limited_time_offer">పరిమిత సమయం ఆఫర్</string>
+    <string name="ph_get_special_price">ప్రత్యేక ధర పొందండి</string>
+    <string name="ph_one_time_payment">ఒక సారి చెల్లింపు</string>
+    <string name="ph_one_time_offer_name">జీవితకాల ప్రీమియం</string>
+    <string name="ph_subscription_info">చందా స్వయంచాలకంగా పునరుద్ధరించబడుతుంది. ఎప్పుడైనా రద్దు చేయండి.</string>
+    <string name="ph_terms_and_conditions">కొనసాగించడం ద్వారా మీరు మా <![CDATA[<a href="%1$s">నిబంధనలు</a>]]> మరియు <![CDATA[<a href="%2$s">గోప్యత</a>]]> పాలసీలను అంగీకరిస్తున్నారు</string>
+    <string name="support_hint">సమస్యను వివరించండి (కనీసం 20 అక్షరాలు)</string>
+    <string name="cancel">రద్దు చేయండి</string>
+    <string name="contact_support_title">వినియోగదారుని మద్దతు</string>
+    <string name="contact_vip_support_title">VIP కస్టమర్ మద్దతు</string>
+    <string name="send">పంపండి</string>
+    <string name="personalized_ads">వ్యక్తిగతీకరించిన ప్రకటనలు</string>
+</resources>

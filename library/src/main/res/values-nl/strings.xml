@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">START GRATIS PROEFPERIODE</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/week</string>
+    <string name="sku_price_weekly_3d_trial">{0}/week na een GRATIS proefperiode van 3 dagen</string>
+    <string name="sku_price_weekly_7d_trial">{0}/week na een GRATIS proefperiode van 7 dagen</string>
+    <string name="sku_price_weekly_30d_trial">{0}/week na een GRATIS proefperiode van 30 dagen</string>
+    <string name="sku_price_monthly_no_trial">{0}/maand</string>
+    <string name="sku_price_monthly_3d_trial">{0}/maand na een GRATIS proefperiode van 3 dagen</string>
+    <string name="sku_price_monthly_7d_trial">{0}/maand na een GRATIS proefperiode van 7 dagen</string>
+    <string name="sku_price_monthly_30d_trial">{0}/maand na een GRATIS proefperiode van 30 dagen</string>
+    <string name="sku_price_yearly_no_trial">{0}/jaar</string>
+    <string name="sku_price_yearly_3d_trial">{0}/jaar na een GRATIS proefperiode van 3 dagen</string>
+    <string name="sku_price_yearly_7d_trial">{0}/jaar na een GRATIS proefperiode van 7 dagen</string>
+    <string name="sku_price_yearly_30d_trial">{0}/jaar na een GRATIS proefperiode van 30 dagen</string>
+    <string name="sku_price_default">{0} na een GRATIS proefperiode</string>
+    <string name="sku_price_onetime">Eenmalig {0}</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">START GRATIS 3-DAAGSE PROEF</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">START GRATIS 7-DAAGSE PROEF</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">START GRATIS 30-DAAGSE PROEF</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Wat vind je\nvan onze app?</string>
+    <string name="rate_dialog_subtitle">Laat het ons weten en beoordeel ons met 5 sterren</string>
+    <string name="rate_dialog_thanks">Bedankt!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Afsluiten bevestigen</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basis</string>
+    <string name="ph_start_free_trial">Gratis proefperiode starten</string>
+    <string name="ph_start_like_pro">Begin als een pro</string>
+    <string name="ph_unlock_all_features">Ontgrendel alle functies</string>
+    <string name="ph_try_limited">of probeer de beperkte versie</string>
+    <string name="ph_limited_time_offer">Tijdelijke aanbieding</string>
+    <string name="ph_get_special_price">Ontvang speciale prijs</string>
+    <string name="ph_one_time_payment">Eenmalige betaling</string>
+    <string name="ph_one_time_offer_name">Levenslang premium</string>
+    <string name="ph_subscription_info">Abonnement wordt automatisch verlengd. Op elk moment opzeggen.</string>
+    <string name="ph_terms_and_conditions">Als je doorgaat, ga je akkoord met onze <![CDATA[<a href="%1$s">Voorwaarden</a>]]> en <![CDATA[<a href="%2$s">Privacybeleid</a>]]></string>
+    <string name="support_hint">Beschrijf het probleem (minimaal 20 tekens)</string>
+    <string name="cancel">Annuleren</string>
+    <string name="contact_support_title">Klantenservice</string>
+    <string name="contact_vip_support_title">VIP-klantenondersteuning</string>
+    <string name="send">Versturen</string>
+    <string name="personalized_ads">Gepersonaliseerde advertenties</string>
+</resources>

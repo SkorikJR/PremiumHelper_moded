@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Bepul sinovni boshlang</string>
+    <string name="ph_start_premium_cta">PREMIUMni boshlang</string>
+    <string name="sku_price_weekly_no_trial">Haftasiga {0}</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ hafta 3 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ haftada BEPUL 7 kunlik sinovdan so\'ng</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ hafta 30 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_monthly_no_trial">Oyiga {0}</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ oy 3 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ oy 7 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ kun 30 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_yearly_no_trial">{0}/ yil</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ yil 3 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ yil 7 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ yil 30 kunlik BEPUL sinovdan so\'ng</string>
+    <string name="sku_price_default">BEPUL sinovdan so\'ng {0}</string>
+    <string name="sku_price_onetime">{0} bir martalik to\'lov</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3 kunlik BEPUL sinovni boshlang</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 kunlik BEPUL sinovni boshlang</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30 kunlik BEPUL sinovni boshlang</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Bizning ilovamiz\nsizga qanday yoqadi?</string>
+    <string name="rate_dialog_subtitle">5 yulduzli reytingni qoldirib, bizga xabar bering</string>
+    <string name="rate_dialog_thanks">Rahmat!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Chiqishni tasdiqlang</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Asosiy</string>
+    <string name="ph_start_free_trial">Bepul sinovni boshlang</string>
+    <string name="ph_start_like_pro">Pro kabi boshlang</string>
+    <string name="ph_unlock_all_features">Barcha xususiyatlarni oching</string>
+    <string name="ph_try_limited">yoki cheklangan versiyasini sinab ko\'ring</string>
+    <string name="ph_limited_time_offer">Cheklangan vaqt taklifi</string>
+    <string name="ph_get_special_price">Maxsus narxni oling</string>
+    <string name="ph_one_time_payment">Bir martalik to\'lov</string>
+    <string name="ph_one_time_offer_name">Umr bo\'yi mukofot</string>
+    <string name="ph_subscription_info">Obuna avtomatik yangilanadi. Istalgan vaqtda bekor qiling.</string>
+    <string name="ph_terms_and_conditions">Davom etish orqali siz <![CDATA[<a href="%1$s">Shartlar</a>]]> va <![CDATA[<a href="%2$s">Maxfiylik</a>]]> siyosatlarimizga rozilik bildirasiz</string>
+    <string name="support_hint">Muammoni tavsiflang (kamida 20 belgi)</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="contact_support_title">Mijozlarni qo\'llab-quvvatlash</string>
+    <string name="contact_vip_support_title">VIP mijozlarni qo‘llab-quvvatlash</string>
+    <string name="send">Yuborish</string>
+    <string name="personalized_ads">Shaxsiylashtirilgan reklamalar</string>
+</resources>

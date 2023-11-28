@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">START FREE TRIAL</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/wike</string>
+    <string name="sku_price_weekly_3d_trial">{0}/wike nei FERGESE proef fan 3 dagen</string>
+    <string name="sku_price_weekly_7d_trial">{0}/wike nei FERGESE proef fan 7 dagen</string>
+    <string name="sku_price_weekly_30d_trial">{0}/wike nei FERGESE proef fan 30 dagen</string>
+    <string name="sku_price_monthly_no_trial">{0}/moanne</string>
+    <string name="sku_price_monthly_3d_trial">{0}/moanne nei FERGESE proef fan 3 dagen</string>
+    <string name="sku_price_monthly_7d_trial">{0}/moanne nei FERGESE proef fan 7 dagen</string>
+    <string name="sku_price_monthly_30d_trial">{0}/moanne nei FERGESE proef fan 30 dagen</string>
+    <string name="sku_price_yearly_no_trial">{0}/jier</string>
+    <string name="sku_price_yearly_3d_trial">{0}/jier nei FERGESE proef fan 3 dagen</string>
+    <string name="sku_price_yearly_7d_trial">{0}/jier nei FERGESE proef fan 7 dagen</string>
+    <string name="sku_price_yearly_30d_trial">{0}/jier nei FERGESE proef fan 30 dagen</string>
+    <string name="sku_price_default">{0} nei FERGESE proef</string>
+    <string name="sku_price_onetime">{0} ienmalige betelling</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">START FERGESE 3-DAY TRIAL</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">START FERGESE 7-DAY TRIAL</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">START FREE 30-DAY TRIAL</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hoe foldocht jo\nús app?</string>
+    <string name="rate_dialog_subtitle">Lit it ús witte troch in 5 -stjerrenwurdearring efter te litten</string>
+    <string name="rate_dialog_thanks">Tank!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Befêstigje ôfslach</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Basis</string>
+    <string name="ph_start_free_trial">Begjin fergees proef</string>
+    <string name="ph_start_like_pro">Start Like a Pro</string>
+    <string name="ph_unlock_all_features">Untskoattelje alle funksjes</string>
+    <string name="ph_try_limited">of besykje beheinde ferzje</string>
+    <string name="ph_limited_time_offer">Beheinde tiid oanbod</string>
+    <string name="ph_get_special_price">Krij spesjale priis</string>
+    <string name="ph_one_time_payment">Ien kear betelling</string>
+    <string name="ph_one_time_offer_name">Lifetime premium</string>
+    <string name="ph_subscription_info">Abonnemint sil automatysk fernije. Annulearje op elk momint.</string>
+    <string name="ph_terms_and_conditions">Troch troch te gean, geane jo akkoard mei ús <![CDATA[<a href="%1$s">Betingsten</a>]]> en <![CDATA[<a href="%2$s">Privacy</a>]]> belied</string>
+    <string name="support_hint">Beskriuw it probleem (op syn minst 20 tekens)</string>
+    <string name="cancel">Ofbrekke</string>
+    <string name="contact_support_title">Klanteservice</string>
+    <string name="contact_vip_support_title">VIP Customer Support</string>
+    <string name="send">Stjoere</string>
+    <string name="personalized_ads">Persoanlike advertinsjes</string>
+</resources>

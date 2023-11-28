@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Mimitian PERCOBAAN GRATIS</string>
+    <string name="ph_start_premium_cta">Mimitian PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ minggu</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ minggu saatos GRATIS sidang 3 dinten</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ minggu saatos GRATIS sidang 7 dinten</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ minggu saatos GRATIS sidang 30 dinten</string>
+    <string name="sku_price_monthly_no_trial">{0}/ bulan</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ bulan saatos GRATIS sidang 3 dinten</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ bulan saatos GRATIS sidang 7 dinten</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ bulan saatos GRATIS sidang 30 dinten</string>
+    <string name="sku_price_yearly_no_trial">{0}/ taun</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ taun saatos GRATIS sidang 3 dinten</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ taun saatos GRATIS sidang 7 dinten</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ taun saatos GRATIS sidang 30 dinten</string>
+    <string name="sku_price_default">{0} saatos sidang GRATIS</string>
+    <string name="sku_price_onetime">{0} pamayaran sakali</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Mimitian PERCOBAAN 3-HARI GRATIS</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Mimitian PERCOBAAN 7-HARI GRATIS</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">Mimitian PERCOBAAN 30-HARI GRATIS</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kumaha anjeun resep\naplikasi kami?</string>
+    <string name="rate_dialog_subtitle">Hayu urang terang ku nyésakeun rating 5 bintang</string>
+    <string name="rate_dialog_thanks">Hatur nuhun!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Mastikeun Kaluar</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Dasar</string>
+    <string name="ph_start_free_trial">Mimitian sidang gratis</string>
+    <string name="ph_start_like_pro">Mimitian Siga Pro</string>
+    <string name="ph_unlock_all_features">Muka konci Sadaya Fitur</string>
+    <string name="ph_try_limited">atanapi cobian versi terbatas</string>
+    <string name="ph_limited_time_offer">Waktos waktos kawates</string>
+    <string name="ph_get_special_price">Kéngingkeun harga khusus</string>
+    <string name="ph_one_time_payment">Pamayaran sakali</string>
+    <string name="ph_one_time_offer_name">Premi hirupna</string>
+    <string name="ph_subscription_info">Langgananana bakal otomatis-otomatis. Bolaykeun iraha waé.</string>
+    <string name="ph_terms_and_conditions">Ku neraskeun anjeun satuju kana kawijakan <![CDATA[<a href="%1$s">Sarat</a>]]> sareng <![CDATA[<a href="%2$s">Privasi</a>]]></string>
+    <string name="support_hint">Jelaskeun masalahna (sahenteuna 20 karakter)</string>
+    <string name="cancel">Ngabolaykeun</string>
+    <string name="contact_support_title">Rojongan Palanggan</string>
+    <string name="contact_vip_support_title">Rojongan Palanggan VIP</string>
+    <string name="send">Ngirim</string>
+    <string name="personalized_ads">Iklan Pribadi</string>
+</resources>

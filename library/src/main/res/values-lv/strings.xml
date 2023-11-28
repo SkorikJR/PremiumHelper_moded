@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">SĀKT BEZMAKSAS MĒĢINĀŠANU</string>
+    <string name="ph_start_premium_cta">SĀKT PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ nedēļā</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ nedēļā pēc BEZMAKSAS 3 dienu izmēģinājuma</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ nedēļā pēc BEZMAKSAS 7 dienu izmēģinājuma</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ nedēļā pēc BEZMAKSAS 30 dienu izmēģinājuma</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mēnesī</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mēnesī pēc BEZMAKSAS 3 dienu izmēģinājuma</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mēnesī pēc BEZMAKSAS 7 dienu izmēģinājuma</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mēnesī pēc BEZMAKSAS 30 dienu izmēģinājuma</string>
+    <string name="sku_price_yearly_no_trial">{0}/ gadā</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ gads pēc BEZMAKSAS 3 dienu izmēģinājuma</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ gads pēc BEZMAKSAS 7 dienu izmēģinājuma</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ gads pēc 30 dienu BEZMAKSAS izmēģinājuma</string>
+    <string name="sku_price_default">{0} pēc BEZMAKSAS izmēģinājuma</string>
+    <string name="sku_price_onetime">{0} vienreizējs maksājums</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">SĀKT BEZMAKSAS 3 DIENU IZMĒĢINĀJUMU</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">SĀKT BEZMAKSAS 7 DIENU IZMĒĢINĀJUMU</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">SĀKT BEZMAKSAS 30 DIENU IZMĒĢINĀJUMU</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kā jums patīk\nmūsu lietotne?</string>
+    <string name="rate_dialog_subtitle">Informējiet mūs, atstājot 5 zvaigžņu vērtējumu</string>
+    <string name="rate_dialog_thanks">Paldies!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Apstipriniet Iziet</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Pamata</string>
+    <string name="ph_start_free_trial">Sāciet bezmaksas izmēģinājumu</string>
+    <string name="ph_start_like_pro">Sāciet kā profesionālis</string>
+    <string name="ph_unlock_all_features">Atbloķējiet visas funkcijas</string>
+    <string name="ph_try_limited">vai izmēģiniet ierobežotu versiju</string>
+    <string name="ph_limited_time_offer">Ierobežota laika piedāvājums</string>
+    <string name="ph_get_special_price">Saņemiet īpašu cenu</string>
+    <string name="ph_one_time_payment">Vienreizējs maksājums</string>
+    <string name="ph_one_time_offer_name">Mūža prēmija</string>
+    <string name="ph_subscription_info">Abonēšana tiks automātiski atjaunota. Atcelt jebkurā laikā.</string>
+    <string name="ph_terms_and_conditions">Turpinot jūs piekrītat mūsu <![CDATA[<a href="%1$s">Noteikumu</a>]]> un <![CDATA[<a href="%2$s">Privātuma</a>]]> politikai</string>
+    <string name="support_hint">Aprakstiet problēmu (vismaz 20 rakstzīmes)</string>
+    <string name="cancel">Atcelt</string>
+    <string name="contact_support_title">Klientu atbalsts</string>
+    <string name="contact_vip_support_title">VIP klientu atbalsts</string>
+    <string name="send">Sūtīt</string>
+    <string name="personalized_ads">Personalizētas reklāmas</string>
+</resources>

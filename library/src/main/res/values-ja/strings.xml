@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">無料トライアルの開始</string>
+    <string name="ph_start_premium_cta">プレミアムを開始</string>
+    <string name="sku_price_weekly_no_trial">{0}/週</string>
+    <string name="sku_price_weekly_3d_trial">3日間の無料トライアル後{0}/週</string>
+    <string name="sku_price_weekly_7d_trial">7日間の無料トライアル後{0}/週</string>
+    <string name="sku_price_weekly_30d_trial">30日間の無料トライアル後{0}/週</string>
+    <string name="sku_price_monthly_no_trial">月額{0}</string>
+    <string name="sku_price_monthly_3d_trial">3日間の無料トライアル後月額{0}</string>
+    <string name="sku_price_monthly_7d_trial">7日間の無料トライアル後月額{0}</string>
+    <string name="sku_price_monthly_30d_trial">30日間の無料トライアル後月額{0}</string>
+    <string name="sku_price_yearly_no_trial">年額{0}</string>
+    <string name="sku_price_yearly_3d_trial">3日間の無料トライアル後年額{0}</string>
+    <string name="sku_price_yearly_7d_trial">7日間の無料トライアル後年額{0}</string>
+    <string name="sku_price_yearly_30d_trial">30日間の無料トライアル後年額{0}</string>
+    <string name="sku_price_default">無料トライアル後{0}</string>
+    <string name="sku_price_onetime">{0}の1回限りの支払い</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">3 日間の無料トライアルを開始</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">7 日間の無料トライアルを開始</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">30 日間の無料トライアルを開始</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">このアプリを\n気に入っていますか？</string>
+    <string name="rate_dialog_subtitle">5つ星で評価することで教えてください</string>
+    <string name="rate_dialog_thanks">ありがとうございます！</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">終了確認</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">プレミアム</string>
+    <string name="ph_offer_basic">ベーシック</string>
+    <string name="ph_start_free_trial">無料トライアルを開始</string>
+    <string name="ph_start_like_pro">プロのように始めましょう</string>
+    <string name="ph_unlock_all_features">全ての機能を解除しましょう</string>
+    <string name="ph_try_limited">または限定版をお試しください</string>
+    <string name="ph_limited_time_offer">期間限定オファー</string>
+    <string name="ph_get_special_price">特別価格を取得しましょう</string>
+    <string name="ph_one_time_payment">1回払い</string>
+    <string name="ph_one_time_offer_name">生涯プレミアム</string>
+    <string name="ph_subscription_info">加入は自動更新されます。いつでもキャンセルできます</string>
+    <string name="ph_terms_and_conditions">継続することによって、我々の <![CDATA[<a href="%1$s">諸条件</a>]]> 及び <![CDATA[<a href="%2$s">プライバシー</a>]]>方針に承諾したこととみなされます</string>
+    <string name="support_hint">問題を説明してください（少なくとも20文字）</string>
+    <string name="cancel">キャンセル</string>
+    <string name="contact_support_title">顧客サポート</string>
+    <string name="contact_vip_support_title">VIPカスタマーサポート</string>
+    <string name="send">送信</string>
+    <string name="personalized_ads">パーソナライズされた広告</string>
+</resources>

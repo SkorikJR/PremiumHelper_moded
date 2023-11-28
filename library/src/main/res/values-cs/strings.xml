@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ZAČNĚTE ZKUŠEBNÍ VERZE ZDARMA</string>
+    <string name="ph_start_premium_cta">ZAČNĚTE PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ týden</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ týden po 3denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ týden po 7denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ týden po 30denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_monthly_no_trial">{0}/ měsíc</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ měsíc po 3denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ měsíc po 7denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ měsíc po 30denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_yearly_no_trial">{0}/ rok</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ rok po 3denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ rok po 7denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ rok po 30denní zkušební verzi ZDARMA</string>
+    <string name="sku_price_default">{0} po zkušební verzi ZDARMA</string>
+    <string name="sku_price_onetime">{0} jednorázová platba</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ZAČNĚTE ZDARMA 3denní zkušební období</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ZAČNĚTE ZDARMA 7denní zkušební verzi</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ZAČNĚTE ZDARMA 30denní zkušební verzi</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Jak se vám líbí\nnaše aplikace?</string>
+    <string name="rate_dialog_subtitle">Dejte nám vědět a ohodnoťte 5 hvězdičkami</string>
+    <string name="rate_dialog_thanks">Dík!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Potvrdit Konec</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Pojistné</string>
+    <string name="ph_offer_basic">Základní</string>
+    <string name="ph_start_free_trial">Spustit bezplatnou zkušební verzi</string>
+    <string name="ph_start_like_pro">Začněte jako profesionál</string>
+    <string name="ph_unlock_all_features">Odemkněte všechny funkce</string>
+    <string name="ph_try_limited">nebo zkuste omezenou verzi</string>
+    <string name="ph_limited_time_offer">Limitovaná nabídka</string>
+    <string name="ph_get_special_price">Získejte speciální cenu</string>
+    <string name="ph_one_time_payment">Jednorázová platba</string>
+    <string name="ph_one_time_offer_name">Doživotní prémie</string>
+    <string name="ph_subscription_info">Předplatné se automaticky obnoví. Zrušit kdykoli.</string>
+    <string name="ph_terms_and_conditions">Pokračováním souhlasíte s našimi <![CDATA[<a href="%1$s">podmínkami</a>]]> a <![CDATA[<a href="%2$s">zásadami ochrany osobních údajů</a>]]></string>
+    <string name="support_hint">Popište problém (alespoň 20 znaků)</string>
+    <string name="cancel">zrušení</string>
+    <string name="contact_support_title">Zákaznická podpora</string>
+    <string name="contact_vip_support_title">VIP zákaznická podpora</string>
+    <string name="send">Poslat</string>
+    <string name="personalized_ads">Personalizované reklamy</string>
+</resources>

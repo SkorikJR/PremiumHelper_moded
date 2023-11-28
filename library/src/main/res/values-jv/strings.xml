@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">Miwiti pacoban gratis</string>
+    <string name="ph_start_premium_cta">Miwiti PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ minggu</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ minggu sawise nyoba 3 dina GRATIS</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ minggu sawise nyoba 7 dina GRATIS</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ minggu sawise nyoba 30 dina GRATIS</string>
+    <string name="sku_price_monthly_no_trial">{0}/ wulan</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ wulan sawise nyoba 3 dina GRATIS</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ wulan sawise nyoba 7 dina GRATIS</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ wulan sawise nyoba 30 dina GRATIS</string>
+    <string name="sku_price_yearly_no_trial">{0}/ taun</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ taun sawise nyoba 3 dina GRATIS</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ taun sawise nyoba 7 dina GRATIS</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ taun sawise nyoba 30 dina GRATIS</string>
+    <string name="sku_price_default">{0} sawise nyoba GRATIS</string>
+    <string name="sku_price_onetime">{0} pambayaran sapisan</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">Miwiti FREE 3-DAY TRIAL</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">Miwiti Ujian 7-Dina GRATIS</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">MULAI PERCOBAAN 30-HARI GRATIS</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kepiye sampeyan seneng karo\naplikasi kita?</string>
+    <string name="rate_dialog_subtitle">Ayo ngerti kanthi ninggalake rating 5 bintang</string>
+    <string name="rate_dialog_thanks">Matur suwun!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Konfirmasi Metu</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Dhasar</string>
+    <string name="ph_start_free_trial">Mulai nyoba gratis</string>
+    <string name="ph_start_like_pro">Mulai Kaya Pro</string>
+    <string name="ph_unlock_all_features">Mbukak kunci Kabeh Fitur</string>
+    <string name="ph_try_limited">utawa nyoba versi winates</string>
+    <string name="ph_limited_time_offer">Penawaran winates</string>
+    <string name="ph_get_special_price">Entuk rega spesial</string>
+    <string name="ph_one_time_payment">Bayaran sapisan</string>
+    <string name="ph_one_time_offer_name">Premi seumur hidup</string>
+    <string name="ph_subscription_info">Langganan bakal gawe anyar. Batal kapan wae.</string>
+    <string name="ph_terms_and_conditions">Kanthi terus sampeyan setuju karo kabijakan <![CDATA[<a href="%1$s">Katentuan</a>]]> lan <![CDATA[<a href="%2$s">Privasi</a>]]></string>
+    <string name="support_hint">Nerangake masalah (paling ora 20 karakter)</string>
+    <string name="cancel">Batal</string>
+    <string name="contact_support_title">Dhukungan pelanggan</string>
+    <string name="contact_vip_support_title">Dhukungan Pelanggan VIP</string>
+    <string name="send">Ngirim</string>
+    <string name="personalized_ads">Iklan Pribadi</string>
+</resources>

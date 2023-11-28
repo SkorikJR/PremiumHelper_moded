@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">ALUSTA TASUTA KATSETUST</string>
+    <string name="ph_start_premium_cta">ALUSTA PREMIUMI</string>
+    <string name="sku_price_weekly_no_trial">{0}/ nädal</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ nädal pärast TASUTA 3-päevast prooviversiooni</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ nädal pärast TASUTA 7-päevast prooviversiooni</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ nädal pärast TASUTA 30-päevast prooviversiooni</string>
+    <string name="sku_price_monthly_no_trial">{0}/ kuu</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ kuu pärast TASUTA 3-päevast prooviversiooni</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ kuu pärast TASUTA 7-päevast prooviversiooni</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ kuu pärast TASUTA 30-päevast prooviversiooni</string>
+    <string name="sku_price_yearly_no_trial">{0}/ aasta</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ aasta pärast TASUTA 3-päevast prooviversiooni</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ aasta pärast TASUTA 7-päevast prooviversiooni</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ aasta pärast TASUTA 30-päevast prooviversiooni</string>
+    <string name="sku_price_default">{0} pärast TASUTA prooviversiooni</string>
+    <string name="sku_price_onetime">{0} ühekordset makset</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">ALUSTA TASUTA 3-päevane prooviversioon</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">ALUSTA TASUTA 7-päevane prooviversioon</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">ALUSTA TASUTA 30-päevane prooviversioon</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kuidas teile\nmeie rakendust meeldib?</string>
+    <string name="rate_dialog_subtitle">Andke meile teada, jättes 5 tärni hinnangu</string>
+    <string name="rate_dialog_thanks">Aitäh!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Kinnitage väljumine</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premium</string>
+    <string name="ph_offer_basic">Põhiline</string>
+    <string name="ph_start_free_trial">Alustage tasuta prooviperioodi</string>
+    <string name="ph_start_like_pro">Alusta nagu proff</string>
+    <string name="ph_unlock_all_features">Avage kõik funktsioonid</string>
+    <string name="ph_try_limited">või proovige piiratud versiooni</string>
+    <string name="ph_limited_time_offer">Piiratud aja pakkumine</string>
+    <string name="ph_get_special_price">Saa erihind</string>
+    <string name="ph_one_time_payment">Ühekordne makse</string>
+    <string name="ph_one_time_offer_name">Eluaegne lisatasu</string>
+    <string name="ph_subscription_info">Tellimus uueneb automaatselt. Tühista igal ajal.</string>
+    <string name="ph_terms_and_conditions">Jätkates nõustute meie <![CDATA[<a href="%1$s">tingimuste</a>]]> ja <![CDATA[<a href="%2$s">privaatsuse</a>]]> põhimõtetega</string>
+    <string name="support_hint">Kirjeldage probleemi (vähemalt 20 tähemärki)</string>
+    <string name="cancel">Tühista</string>
+    <string name="contact_support_title">Klienditugi</string>
+    <string name="contact_vip_support_title">VIP klienditugi</string>
+    <string name="send">Saada</string>
+    <string name="personalized_ads">Isikupärastatud reklaamid</string>
+</resources>

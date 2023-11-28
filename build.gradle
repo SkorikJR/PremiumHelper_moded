@@ -1,0 +1,53 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+def PREMIUM_HELPER_VERSION = "4.3.3"
+
+static def getGitBranchName() {
+    def branch = ""
+    def proc = "git rev-parse --abbrev-ref HEAD".execute()
+    proc.in.eachLine { line -> branch = line }
+    proc.err.eachLine { line -> println line }
+    proc.waitFor()
+    branch
+}
+
+ext.getPremiumHelperVersion = {
+    if (getGitBranchName() == "develop") {
+        return PREMIUM_HELPER_VERSION + "-SNAPSHOT"
+    }
+    return PREMIUM_HELPER_VERSION
+}
+
+buildscript {
+    ext.kotlin_version = "1.7.21"
+
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://artifacts.applovin.com/android' }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.4.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.google.gms:google-services:4.3.14'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.2'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea' }
+        maven { url "https://artifact.bytedance.com/repository/pangle" }
+//        maven { url "http://maven.google.com" }
+//        maven { url "https://jitpack.io" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

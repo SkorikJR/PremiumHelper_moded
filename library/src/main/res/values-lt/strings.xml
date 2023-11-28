@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">PRADĖKITE NEMOKAMĄ BANDYMĄ</string>
+    <string name="ph_start_premium_cta">PRADŽIA PREMIUMU</string>
+    <string name="sku_price_weekly_no_trial">{0}per savaitę</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ savaitė po NEMOKAMOS 3 dienų bandomosios versijos</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ savaitė po NEMOKAMOS 7 dienų bandymo</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ savaitė po NEMOKAMOS 30 dienų bandymo</string>
+    <string name="sku_price_monthly_no_trial">{0}/ mėn</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ mėn. Po NEMOKAMOS 3 dienų bandomosios versijos</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ mėn. Po 7 dienų nemokamo bandymo</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ mėn. Po 30 dienų nemokamo bandymo</string>
+    <string name="sku_price_yearly_no_trial">{0}per metus</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ metai po NEMOKAMOS 3 dienų bandymo</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ metai po NEMOKAMOS 7 dienų bandymo</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ metai po NEMOKAMOS 30 dienų bandymo</string>
+    <string name="sku_price_default">{0} po nemokamo bandymo</string>
+    <string name="sku_price_onetime">{0} vienkartinis mokėjimas</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">PRADĖTI NEMOKAMĄ 3 DIENŲ BANDYMĄ</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">PRADĖTI NEMOKAMĄ 7 DIENŲ BANDYMĄ</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">PRADĖTI NEMOKAMĄ 30 DIENŲ BANDYMĄ</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Kaip jums patinka\nmūsų programos?</string>
+    <string name="rate_dialog_subtitle">Praneškite mums palikę 5 žvaigždučių įvertinimą</string>
+    <string name="rate_dialog_thanks">Dėkoju!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Patvirtinkite Išeiti</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Premija</string>
+    <string name="ph_offer_basic">Pagrindinis</string>
+    <string name="ph_start_free_trial">Pradėkite nemokamą bandomąją versiją</string>
+    <string name="ph_start_like_pro">Pradėk kaip profesionalas</string>
+    <string name="ph_unlock_all_features">Atrakinkite visas funkcijas</string>
+    <string name="ph_try_limited">arba išbandykite ribotą versiją</string>
+    <string name="ph_limited_time_offer">Riboto laiko pasiūlymas</string>
+    <string name="ph_get_special_price">Gaukite specialią kainą</string>
+    <string name="ph_one_time_payment">Vienkartinis mokėjimas</string>
+    <string name="ph_one_time_offer_name">Viso gyvenimo priemoka</string>
+    <string name="ph_subscription_info">Prenumerata bus automatiškai atnaujinta. Atšaukti bet kada.</string>
+    <string name="ph_terms_and_conditions">Tęsdami sutinkate su mūsų <![CDATA[<a href="%1$s"></a>]]> ir <![CDATA[<a href="%2$s">privatumo</a>]]> politikos nuostatomis</string>
+    <string name="support_hint">Aprašykite problemą (mažiausiai 20 simbolių)</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="contact_support_title">Pagalba klientams</string>
+    <string name="contact_vip_support_title">VIP klientų aptarnavimas</string>
+    <string name="send">Siųsti</string>
+    <string name="personalized_ads">Suasmeninti skelbimai</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">INGYENES PRÓBAVERZIÓ INDÍTÁSA</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/ hét</string>
+    <string name="sku_price_weekly_3d_trial">{0}/ hét INGYENES 3 napos próbaidőszak után</string>
+    <string name="sku_price_weekly_7d_trial">{0}/ hét INGYENES 7 napos próbaidőszak után</string>
+    <string name="sku_price_weekly_30d_trial">{0}/ hét INGYENES 30 napos próbaidőszak után</string>
+    <string name="sku_price_monthly_no_trial">{0}/ hó</string>
+    <string name="sku_price_monthly_3d_trial">{0}/ hó INGYENES 3 napos próbaidőszak után</string>
+    <string name="sku_price_monthly_7d_trial">{0}/ hó INGYENES 7 napos próbaidőszak után</string>
+    <string name="sku_price_monthly_30d_trial">{0}/ hó INGYENES 30 napos próbaidőszak után</string>
+    <string name="sku_price_yearly_no_trial">{0}/ év</string>
+    <string name="sku_price_yearly_3d_trial">{0}/ év INGYENES 3 napos próbaidőszak után</string>
+    <string name="sku_price_yearly_7d_trial">{0}/ év INGYENES 7 napos próbaidőszak után</string>
+    <string name="sku_price_yearly_30d_trial">{0}/ év INGYENES 30 napos próbaidőszak után</string>
+    <string name="sku_price_default">{0} INGYENES próbaidőszak után</string>
+    <string name="sku_price_onetime">{0} egyszeri fizetés</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">INGYENES 3 napos próba elindítása</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">INDÍTSA INGYENES 7 NAPOS PRÓBÁT</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">INGYENES INGYENES 30 NAPOS PRÓBA</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">Hogy tetszik\nalkalmazásunk?</string>
+    <string name="rate_dialog_subtitle">5 csillagos értékelés elküldésével tudassa velünk</string>
+    <string name="rate_dialog_thanks">Köszönöm!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">Erősítse meg a Kilépést</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">Prémium</string>
+    <string name="ph_offer_basic">Alapvető</string>
+    <string name="ph_start_free_trial">Ingyenes próba indítása</string>
+    <string name="ph_start_like_pro">Kezdj úgy, mint egy profi</string>
+    <string name="ph_unlock_all_features">Oldja fel az összes funkciót</string>
+    <string name="ph_try_limited">vagy próbáld ki a korlátozott verziót</string>
+    <string name="ph_limited_time_offer">Korlátozott időre szóló ajánlat</string>
+    <string name="ph_get_special_price">Szerezzen különleges árat</string>
+    <string name="ph_one_time_payment">Egyszeri fizetés</string>
+    <string name="ph_one_time_offer_name">Életre szóló prémium</string>
+    <string name="ph_subscription_info">Az előfizetés automatikusan megújul. Bármikor lemondhatja.</string>
+    <string name="ph_terms_and_conditions">A folytatással elfogadja a <![CDATA[<a href="%1$s">Feltételek</a>]]> és <![CDATA[<a href="%2$s">Adatvédelmi</a>]]> irányelveinket</string>
+    <string name="support_hint">A probléma leírása (legalább 20 karakter)</string>
+    <string name="cancel">Megszünteti</string>
+    <string name="contact_support_title">Vevőszolgálat</string>
+    <string name="contact_vip_support_title">VIP ügyfélszolgálat</string>
+    <string name="send">Küld</string>
+    <string name="personalized_ads">Személyre szabott hirdetések</string>
+</resources>

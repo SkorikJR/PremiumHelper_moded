@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ph_start_trial_cta">אָנהייבן פריי פּראָצעס</string>
+    <string name="ph_start_premium_cta">START PREMIUM</string>
+    <string name="sku_price_weekly_no_trial">{0}/וואָך</string>
+    <string name="sku_price_weekly_3d_trial">{0}/וואָך נאָך פריי 3-טאָג פּראָצעס</string>
+    <string name="sku_price_weekly_7d_trial">{0}/וואָך נאָך פריי 7-טאָג פּראָצעס</string>
+    <string name="sku_price_weekly_30d_trial">{0}/וואָך נאָך פריי 30-טאָג פּראָצעס</string>
+    <string name="sku_price_monthly_no_trial">{0}/חודש</string>
+    <string name="sku_price_monthly_3d_trial">{0}/חודש נאָך פריי 3-טאָג פּראָצעס</string>
+    <string name="sku_price_monthly_7d_trial">{0}/חודש נאָך פריי 7-טאָג פּראָצעס</string>
+    <string name="sku_price_monthly_30d_trial">{0}/חודש נאָך פריי 30-טאָג פּראָצעס</string>
+    <string name="sku_price_yearly_no_trial">{0}/יאָר</string>
+    <string name="sku_price_yearly_3d_trial">{0}/יאָר נאָך פריי 3-טאָג פּראָצעס</string>
+    <string name="sku_price_yearly_7d_trial">{0}/יאָר נאָך פריי 7-טאָג פּראָצעס</string>
+    <string name="sku_price_yearly_30d_trial">{0}/יאָר נאָך אַ פריי 30-טאָג פּראָצעס</string>
+    <string name="sku_price_default">{0} נאָך אַ פריי פּראָצעס</string>
+    <string name="sku_price_onetime">{0} איין-צייַט צאָלונג</string>
+    <string name="ph_start_3_day_trial_cta" maxLength="32">אָנהייבן פריי 3-טאָג פּראָצעס</string>
+    <string name="ph_start_7_day_trial_cta" maxLength="32">אָנהייבן פריי 7-טאָג פּראָצעס</string>
+    <string name="ph_start_30_day_trial_cta" maxLength="32">אָנהייבן פריי 30-טאָג פּראָצעס</string>
+    <!-- Rate Dialog -->
+    <string name="rate_dialog_title">ווי טאָן איר ווי\nאונדזער אַפּ?</string>
+    <string name="rate_dialog_subtitle">לאָזן אונדז וויסן דורך לאָזן אַ 5 שטערן שאַץ</string>
+    <string name="rate_dialog_thanks">דאַנקען!</string>
+    <!-- Exit Confirmation Dialog -->
+    <string name="exit_confirm">באַשטעטיקן אַרויסגאַנג</string>
+    <!-- Relaunch -->
+    <string name="ph_offer_premium">פּרעמיע</string>
+    <string name="ph_offer_basic">יקערדיק</string>
+    <string name="ph_start_free_trial">אָנהייב פריי פּראָצעס</string>
+    <string name="ph_start_like_pro">אָנהייב ווי אַ פּראָ</string>
+    <string name="ph_unlock_all_features">ופשליסן אַלע פֿעיִקייטן</string>
+    <string name="ph_try_limited">אָדער פּרובירן לימיטעד ווערסיע</string>
+    <string name="ph_limited_time_offer">לימיטעד צייט פאָרשלאָג</string>
+    <string name="ph_get_special_price">באַקומען אַ ספּעציעל פּרייַז</string>
+    <string name="ph_one_time_payment">איין מאָל צאָלונג</string>
+    <string name="ph_one_time_offer_name">לעבן פּרעמיע</string>
+    <string name="ph_subscription_info">אַבאָנעמענט וועט אויטאָמאַטיש באַנייַען. באָטל מאַכן עניטיים.</string>
+    <string name="ph_terms_and_conditions">דורך קאַנטיניוינג, איר שטימען צו אונדזער <![CDATA[<a href="%1$s">תּנאָים</a>]]> און <![CDATA[<a href="%2$s">פּריוואַטקייט</a>]]> פּאַלאַסיז</string>
+
+    <string name="support_hint">באַשרייַבן דעם אַרויסגעבן (לפּחות 20 אותיות)</string>
+    <string name="cancel">באָטל מאַכן</string>
+    <string name="contact_support_title">קאסטומער הילף</string>
+    <string name="contact_vip_support_title">וויפּ קונה סופּפּאָרט</string>
+    <string name="send">שיקן</string>
+
+    <string name="personalized_ads">פערזענליכען אַדס</string>
+</resources>
